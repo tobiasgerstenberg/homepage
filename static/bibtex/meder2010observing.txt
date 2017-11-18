@@ -1,0 +1,8 @@
+@article{meder2010observing,
+  title={Observing and Intervening: Rational and Heuristic Models of Causal Decision Making},
+  author={Meder, B. and Gerstenberg, T. and Hagmayer, Y. and Waldmann, M. R.},
+  journal={Open Psychology Journal},
+  volume={3},
+  pages={119--135},
+  year={2010}
+}

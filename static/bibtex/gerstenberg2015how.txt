@@ -1,0 +1,9 @@
+@inproceedings{gerstenberg2015how,
+	Address = {Austin, TX},
+	Author = {Gerstenberg, T. and Goodman, N. D. and Lagnado, D. A. and Tenenbaum, J. B.},
+	Booktitle = {{Proceedings of the 37th Annual Conference of the Cognitive Science Society}},
+	Editor = {Noelle, D. C. and Dale, R. and Warlaumont, A. S. and Yoshimi, J. and Matlock, T., Jennings and C. D. and Maglio, P. P.},
+	Pages = {782--787},
+	Publisher = {Cognitive Science Society},
+	Title = {How, whether, why: Causal judgments as counterfactual contrasts},
+	Year = {2015}}

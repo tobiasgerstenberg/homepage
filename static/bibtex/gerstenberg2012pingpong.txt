@@ -1,0 +1,8 @@
+@inproceedings{gerstenberg2012pingpong,
+	Author = {Gerstenberg, T. and Goodman, N. D},
+	Title = {{Ping Pong in Church: Productive use of concepts in human probabilistic inference}},
+	Booktitle = {{Proceedings of the 34th Annual Conference of the Cognitive Science Society}},
+	Editor = {Miyake, N. and Peebles, D. and Cooper, R. P.},
+	Pages = {1590--1595},
+	Publisher = {{Austin, TX: Cognitive Science Society}},
+	Year = {2012}}

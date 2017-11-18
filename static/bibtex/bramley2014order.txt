@@ -1,0 +1,9 @@
+@inproceedings{bramley2014order,
+	Address = {Austin, TX},
+	Author = {Neil Bramley and Tobias Gerstenberg and David A Lagnado},
+	Booktitle = {{Proceedings of the 36th Annual Conference of the Cognitive Science Society}},
+	Editor = {P. Bello and M. Guarini and M. McShane and B. Scassellati},
+	Pages = {236--241},
+	Publisher = {Cognitive Science Society},
+	Title = {The order of things: Inferring causal structure from temporal patterns},
+	Year = {2014}}

@@ -1,0 +1,9 @@
+@inproceedings{gerstenberg2014simulation,
+	Address = {Austin, TX},
+	Author = {Tobias Gerstenberg and Noah D. Goodman and David A Lagnado and Joshua B Tenenbaum},
+	Booktitle = {{Proceedings of the 36th Annual Conference of the Cognitive Science Society}},
+	Editor = {P. Bello and M. Guarini and M. McShane and B. Scassellati},
+	Pages = {523--528},
+	Publisher = {Cognitive Science Society},
+	Title = {From counterfactual simulation to causal judgment},
+	Year = {2014}}

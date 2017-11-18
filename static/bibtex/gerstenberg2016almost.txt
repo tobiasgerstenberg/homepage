@@ -1,0 +1,11 @@
+@inproceedings{gerstenberg2016almost,
+    Address = {Austin, TX},
+    Author = {Tobias Gerstenberg and Joshua B. Tenenbaum},
+    Booktitle = {{Proceedings of the 38th Annual Conference of the Cognitive Science Society}},
+    Date-Added = {2016-02-25 00:45:48 +0000},
+    Date-Modified = {2016-10-21 17:40:22 +0000},
+    Editor = {A Papafragou and D Grodner and D Mirman and J C Trueswell},
+    Pages = {2777--2782},
+    Publisher = {Cognitive Science Society},
+    Title = {Understanding ``almost'': Empirical and computational studies of near misses},
+    Year = {2016}}

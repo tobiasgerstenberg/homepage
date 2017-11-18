@@ -1,0 +1,8 @@
+@inproceedings{schaechtele2011beyond,
+	Author = {Sch{\"a}chtele, S. and Gerstenberg, T. and Lagnado, D. A.},
+	Booktitle = {Proceedings of the 33rd {A}nnual {C}onference of the {C}ognitive {S}cience {S}ociety.},
+	Editor = {Carlson, C. and H{\"o}lscher, C. and Shipley, T.},
+	Pages = {1860--1865},
+	Publisher = {{A}ustin, {TX}: Cognitive {S}cience {S}ociety},
+	Title = {Beyond outcomes: The influence of intentions and deception.},
+	Year = {2011}}
