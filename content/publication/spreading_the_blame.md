@@ -9,7 +9,7 @@ authors = ["Tobias Gerstenberg", "David Lagnado"]
 # 0 = Uncategorized
 # 1 = Conference proceedings
 # 2 = Journal
-# 3 = Work in progress
+# 3 = Forthcoming
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://github.com/tobiasgerstenberg/homepage/raw/master/static/papers/Spreading%20the%20blame%20(Gerstenberg%2C%20Lagnado%2C%202010).pdf"
+url_pdf = "/papers/Spreading%20the%20blame%20(Gerstenberg%2C%20Lagnado%2C%202010).pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
