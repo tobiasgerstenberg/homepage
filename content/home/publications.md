@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "Publications"
-subtitle = ""
+title = "Selected Publications"
+subtitle = "[See all publications](publication/index.html)"
 
 # Order that this section will appear in.
 weight = 20
