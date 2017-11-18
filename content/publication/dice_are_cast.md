@@ -2,14 +2,14 @@
 title = "The dice are cast: The role of intended versus actual contributions in responsibility attribution"
 date = "2010-01-01"
 
-authors = ["Tobias Gerstenberg", "David Lagnado", "Yaakov Kareev"]
+authors = ["Tobias Gerstenberg", "David A. Lagnado", "Yaakov Kareev"]
 
 # Publication type.
 # Legend:
 # 0 = Uncategorized
 # 1 = Conference proceedings
 # 2 = Journal
-# 3 = Work in progress
+# 3 = Forthcoming
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://github.com/tobiasgerstenberg/homepage/raw/master/static/papers/The%20Dice%20are%20Cast%20(Gerstenberg,%20Lagnado,%20Kareev,%202010).pdf"
+url_pdf = "papers/The%20Dice%20are%20Cast%20(Gerstenberg,%20Lagnado,%20Kareev,%202010).pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
