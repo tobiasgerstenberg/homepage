@@ -1,0 +1,11 @@
+@inproceedings{niemi2016implicit,
+    Address = {Austin, TX},
+    Author = {Laura Niemi and Joshua Hartshorne and Tobias Gerstenberg and Liane Young},
+    Booktitle = {{Proceedings of the 38th Annual Conference of the Cognitive Science Society}},
+    Date-Added = {2016-02-25 00:48:06 +0000},
+    Date-Modified = {2016-10-21 17:41:58 +0000},
+    Editor = {A Papafragou and D Grodner and D Mirman and J C Trueswell},
+    Pages = {1745--1750},
+    Publisher = {Cognitive Science Society},
+    Title = {Implicit measurement of motivated causal attribution},
+    Year = {2016}}

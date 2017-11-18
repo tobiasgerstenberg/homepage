@@ -1,0 +1,8 @@
+@incollection{goodman2015concepts,
+	Author = {Goodman, N. D. and Tenenbaum, J. B. and Gerstenberg, T.},
+	Booktitle = {The Conceptual Mind: New Directions in the Study of Concepts},
+	Editor = {Eric Margolis and Stephen Lawrence},
+	Pages = {623--653},
+	Publisher = {MIT Press},
+	Title = {Concepts in a probabilistic language of thought},
+	Year = {2015}}

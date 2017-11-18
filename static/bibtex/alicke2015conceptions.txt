@@ -1,0 +1,10 @@
+@article{alicke2015conceptions,
+	Author = {Alicke, M. D. and Mandel, D. R and Hilton, D. and Gerstenberg, T. and Lagnado, D. A.},
+	Date-Added = {2015-02-09 15:37:38 +0000},
+	Date-Modified = {2015-11-24 20:25:29 +0000},
+	Journal = {Perspectives on Psychological Science},
+	Number = {6},
+	Pages = {790--812},
+	Title = {Causal conceptions in social explanation and moral evaluation: A historical tour},
+	Volume = {10},
+	Year = {2015}}

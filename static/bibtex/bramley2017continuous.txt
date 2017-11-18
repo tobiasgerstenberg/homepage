@@ -1,0 +1,9 @@
+@inproceedings{bramley2017continuous,
+	Address = {Austin, TX},
+	Author = {Neil R. Bramley and Ralf Mayrhofer and Tobias Gerstenberg and David A. Lagnado},
+	Booktitle = {{Proceedings of the 39th Annual Conference of the Cognitive Science Society}},
+	Editor = {Glenn Gunzelmann and Andrew Howes and Thora Tenbrink and Eddy Davelaar},
+	Pages = {150--155},
+	Publisher = {Cognitive Science Society},
+	Title = {Causal learning from interventions and dynamics in continuous time},
+	Year = {2017}}

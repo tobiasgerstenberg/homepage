@@ -1,0 +1,8 @@
+@inproceedings{gerstenberg2012noisy,
+	Author = {Gerstenberg, T. and Goodman, N. D and Lagnado, D. A. and Tenenbaum, J. B.},
+	Booktitle = {{Proceedings of the 34th Annual Conference of the Cognitive Science Society}},
+	Editor = {Miyake, N. and Peebles, D. and Cooper, R. P.},
+	Pages = {378--383},
+	Publisher = {{Austin, TX: Cognitive Science Society}},
+	Title = {Noisy Newtons: Unifying process and dependency accounts of causal attribution}},
+	Year = {2012}}

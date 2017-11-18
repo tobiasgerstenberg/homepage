@@ -1,0 +1,9 @@
+@inproceedings{stephan2017marbles,
+	Address = {Austin, TX},
+	Author = {Simon Stephan and Pascale Willemsen and Tobias Gerstenberg},
+	Booktitle = {{Proceedings of the 39th Annual Conference of the Cognitive Science Society}},
+	Editor = {Glenn Gunzelmann and Andrew Howes and Thora Tenbrink and Eddy Davelaar},
+	Pages = {1132--1137},
+	Publisher = {Cognitive Science Society},
+	Title = {Marbles in Inaction: Counterfactual Simulation and Causation by Omission},
+	Year = {2017}}

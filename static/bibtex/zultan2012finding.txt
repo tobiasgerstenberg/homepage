@@ -1,0 +1,8 @@
+@article{zultan2012finding,
+	Author = {Zultan, R. and Gerstenberg, T. and Lagnado, D. A.},
+	Journal = {Cognition},
+	Number = {3},
+	Pages = {429--440},
+	Title = {Finding fault: Counterfactuals and causality in group attributions},
+	Volume = {125},
+	Year = {2012}}

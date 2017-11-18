@@ -1,0 +1,9 @@
+@inproceedings{kleiman-weiner2015intention,
+	Address = {Austin, TX},
+	Author = {Kleiman-Weiner, M. and Gerstenberg, T. and Levine, S. and Tenenbaum, J. B.},
+	Booktitle = {{Proceedings of the 37th Annual Conference of the Cognitive Science Society}},
+	Editor = {Noelle, D. C. and Dale, R. and Warlaumont, A. S. and Yoshimi, J. and Matlock, T., Jennings and C. D. and Maglio, P. P.},
+	Pages = {1123--1128},
+	Publisher = {Cognitive Science Society},
+	Title = {Inference of intention and permissibility in moral decision making},
+	Year = {2015}}
