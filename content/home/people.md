@@ -33,6 +33,10 @@ weight = 3
 <i class="ai ai-google-scholar"></i>
 </a>
 
+<a href="cv/tobias_gerstenberg.pdf" title = "CV" target="_blank">
+<i class="fa fa-file-text-o"></i>
+</a>
+
 </div>
 
 **Principal Investigator**
@@ -41,9 +45,5 @@ I'm interested in causality, counterfactuals, and responsibility. You too? Get i
 
 <div class = 'spacer'></div>
 
-<!-- ## This could be you
-
-<div class = 'people-image'><img src="/img/portrait.jpg" alt="Drawing"/></div>
-
-
- -->
+<!-- <br>
+<a href="member/"><i class="fa fa-angle-double-right"></i>All members</a> -->
