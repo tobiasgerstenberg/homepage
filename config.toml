@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
-	hrefTargetBlank = true  # `true` opens external links in a new tab.
+	hrefTargetBlank = false  # `true` opens external links in a new tab.
 	fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
 	smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
@@ -138,7 +138,7 @@ defaultContentLanguageInSubdir = false
 	# highlight_style = "github"
 
 	# Enable native social sharing buttons?
-	sharing = true
+	sharing = false
 
 	# Link custom CSS and JS assets
 	#   (relative to /static/css and /static/js respectively)
