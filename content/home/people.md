@@ -41,8 +41,9 @@ I'm interested in causality, counterfactuals, and responsibility. You too? Get i
 
 <div class = 'spacer'></div>
 
-## This could be you
+<!-- ## This could be you
 
 <div class = 'people-image'><img src="/img/portrait.jpg" alt="Drawing"/></div>
 
 
+ -->
