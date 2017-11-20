@@ -7,7 +7,8 @@ active = true
 date = 2016-04-20
 
 title = "Selected publications"
-subtitle = "<a href='publication/'>Here</a> is a list of all of our publications"
+#subtitle = "<a href='publication/'>Here</a> is a list of all of our publications"
+subtitle = "[Link to list of all publications](publication/)"
 
 
 # Order that this section will appear in.
