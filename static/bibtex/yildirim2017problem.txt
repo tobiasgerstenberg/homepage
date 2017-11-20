@@ -1,9 +1,0 @@
-@inproceedings{yildirim2017problem,
-	Address = {Austin, TX},
-	Author = {Ilker Yildirim and Tobias Gerstenberg and Basil Saeed and Marc Toussant and Joshua B. Tenenbaum},
-	Booktitle = {{Proceedings of the 39th Annual Conference of the Cognitive Science Society}},
-	Editor = {Glenn Gunzelmann and Andrew Howes and Thora Tenbrink and Eddy Davelaar},
-	Pages = {3584--3589},
-	Publisher = {Cognitive Science Society},
-	Title = {Physical problem solving: Joint planning with symbolic, geometric, and dynamic constraints},
-	Year = {2017}}

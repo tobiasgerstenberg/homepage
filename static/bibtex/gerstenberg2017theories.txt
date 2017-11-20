@@ -1,8 +1,0 @@
-@incollection{gerstenberg2017theories,
-	Author = {Tobias Gerstenberg and Joshua B. Tenenbaum},
-	Booktitle = {Oxford Handbook of Causal Reasoning},
-	Editor = {Michael Waldmannn},
-	Pages = {515--548},
-	Publisher = {Oxford University Press},
-	Title = {Intuitive Theories},
-	Year = {2017}}

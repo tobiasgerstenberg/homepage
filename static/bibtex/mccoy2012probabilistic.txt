@@ -1,8 +1,0 @@
-@inproceedings{mccoy2012probabilistic,
-	Author = {McCoy, J. and Ullman, T. and Stuhlm\"{u}ller, A. and Gerstenberg, T. and Tenenbaum, J. B.},
-	Title = {{Why blame Bob? Probabilistic generative models, counterfactual reasoning, and blame attribution}},
-	Booktitle = {{Proceedings of the 34th Annual Conference of the Cognitive Science Society}},
-	Editor = {Miyake, N. and Peebles, D. and Cooper, R. P.},
-	Pages = {1996--2001},
-	Publisher = {{Austin, TX: Cognitive Science Society}},
-	Year = {2012}}

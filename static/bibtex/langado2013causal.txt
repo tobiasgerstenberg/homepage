@@ -1,7 +1,0 @@
-@article{lagnado2013causal,
-	Author = {Lagnado, D. A. and Gerstenberg, T. and Zultan, R.},
-	Journal = {Cognitive Science},
-	Pages = {1036--1073},
-	Title = {Causal responsibility and counterfactuals},
-	Volume = {47},
-	Year = {2013}}

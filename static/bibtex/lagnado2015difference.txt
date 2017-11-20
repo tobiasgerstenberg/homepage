@@ -1,9 +1,0 @@
-@incollection{lagnado2015difference,
-	Author = {David A Lagnado and Tobias Gerstenberg},
-	Booktitle = {Oxford Studies in Agency and Responsibility},
-	Editor = {David Shoemaker},
-	Pages = {213--241},
-	Publisher = {Oxford University Press},
-	Title = {A Difference-Making Framework for Intuitive Judgments of Responsibility},
-	Volume = {3},
-	Year = {2015}}

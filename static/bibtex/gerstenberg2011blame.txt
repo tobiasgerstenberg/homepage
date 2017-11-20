@@ -1,8 +1,0 @@
-@inproceedings{gerstenberg2011blame,
-	Author = {Gerstenberg, T. and Ejova, A. and Lagnado, D. A.},
-	Booktitle = {Proceedings of the 33rd {A}nnual {C}onference of the {C}ognitive {S}cience {S}ociety.},
-	Editor = {Carlson, C. and H{\"o}lscher, C. and Shipley, T.},
-	Pages = {720--725},
-	Publisher = {{A}ustin, {TX}: Cognitive {S}cience {S}ociety},
-	Title = {Blame the skilled.},
-	Year = {2011}}

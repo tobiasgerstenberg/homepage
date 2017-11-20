@@ -1,7 +1,0 @@
-@article{kominsky2014superseding,
-	Author = {Jonathan F Kominsky and Jonathan Phillips and Joshua Knobe and Tobias Gerstenberg and David A Lagnado},
-	Journal = {Cognition},
-	Pages = {196--209},
-	Title = {Causal superseding},
-	Volume = {137},
-	Year = {2015}}

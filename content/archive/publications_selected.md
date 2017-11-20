@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20
 
 title = "Selected publications"
-subtitle = "[See all publications](publication/index.html)"
+subtitle = "[Here](publication/index.html) is a list of all of our publications"
 
 # Order that this section will appear in.
 weight = 10
@@ -30,8 +30,6 @@ list_format = 2
 #  6: Book chapter
 publication_type = "-1"
 +++
-
-# [See all publications](publication/index.html)
 
 
 
