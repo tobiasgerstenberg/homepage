@@ -47,6 +47,10 @@ caption = ""
 <i class="ai ai-google-scholar"></i>
 </a>
 
+<a href="cv/tobias_gerstenberg.pdf" title = "CV" target="_blank">
+<i class="fa fa-file-text-o"></i>
+</a>
+
 </div>
 
 **Principal Investigator**
@@ -55,6 +59,6 @@ I'm interested in causality, counterfactuals, and responsibility. You too? Get i
 
 <div class = 'spacer'></div>
 
-## Teaching
+<!-- ## Teaching
 
-## Contact
+## Contact -->
