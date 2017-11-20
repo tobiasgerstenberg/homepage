@@ -1,9 +1,0 @@
-@inproceedings{gerstenberg2014replacement,
-	Address = {Austin, TX},
-	Author = {Tobias Gerstenberg and Tomer D Ullman and Max Kleiman-Weiner and David A Lagnado and Joshua B Tenenbaum},
-	Booktitle = {{Proceedings of the 36th Annual Conference of the Cognitive Science Society}},
-	Editor = {P. Bello and M. Guarini and M. McShane and B. Scassellati},
-	Pages = {2263--2268},
-	Publisher = {Cognitive Science Society},
-	Title = {Wins above replacement: Responsibility attributions as counterfactual replacements},
-	Year = {2014}}

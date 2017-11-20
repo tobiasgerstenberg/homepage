@@ -1,8 +1,0 @@
-@incollection{lagnado2017causation,
-	Author = {Lagnado, D. A. and Gerstenberg, T.},
-	Booktitle = {Oxford Handbook of Causal Reasoning},
-	Editor = {Michael Waldmann},
-	Pages = {565--602},
-	Publisher = {Oxford University Press},
-	Title = {Causation in legal and moral reasoning},
-	Year = {2017}}

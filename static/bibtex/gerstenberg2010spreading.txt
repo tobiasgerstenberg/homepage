@@ -1,9 +1,0 @@
-@article{gerstenberg2010spreading,
-	Author = {Gerstenberg, T. and Lagnado, D. A.},
-	Journal = {Cognition},
-	Number = {1},
-	Pages = {166--171},
-	Publisher = {Elsevier},
-	Title = {Spreading the blame: The allocation of responsibility amongst multiple agents},
-	Volume = {115},
-	Year = {2010}}

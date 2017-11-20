@@ -1,9 +1,0 @@
-@inproceedings{gerstenberg2013back,
-	Address = {Austin, TX},
-	Author = {Gerstenberg, T. and Bechlivanidis, C. and Lagnado, D. A.},
-	Booktitle = {{Proceedings of the 35th Annual Conference of the Cognitive Science Society}},
-	Editor = {M. Knauff and M. Pauen and N. Sebanz and I. Wachsmuth},
-	Pages = {2386--2391},
-	Publisher = {Cognitive Science Society},
-	Title = {Back on track: Backtracking in counterfactual reasoning},
-	Year = {2013}}

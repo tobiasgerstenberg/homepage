@@ -1,8 +1,0 @@
-@article{gerstenberg2012when,
-	Author = {Gerstenberg, T. and Lagnado, D. A.},
-	Title = {{When contributions make a difference: Explaining order effects in responsibility attributions}},
-	Journal = {Psychonomic Bulletin \& Review},
-	Number = {4},
-	Pages = {729--736},
-	Volume = {19},
-	Year = {2012}}

@@ -1,5 +1,0 @@
-@phdthesis{gerstenberg2013making,
-	Author = {Tobias Gerstenberg},
-	School = {University College London},
-	Title = {Making a difference: Responsibility, causality, and counterfactuals},
-	Year = {2013}}

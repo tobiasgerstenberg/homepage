@@ -1,8 +1,0 @@
-@inproceedings{gerstenberg2010dice,
-	Author = {Gerstenberg, T. and Lagnado, D. A. and Kareev, Y.},
-	Booktitle = {Proceedings of the 32nd {A}nnual {C}onference of the {C}ognitive {S}cience {S}ociety.},
-	Editor = {Ohlsson, S. and Catrambone, R.},
-	Pages = {1697--1702},
-	Publisher = {{A}ustin, {TX}: Cognitive {S}cience {S}ociety},
-	Title = {The Dice are Cast: The Role of Intended versus Actual Contributions in Responsibility Attribution},
-	Year = {2010}}

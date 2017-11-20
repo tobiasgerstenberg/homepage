@@ -1,9 +1,0 @@
-@inproceedings{gerstenberg2017faulty,
-	Address = {Austin, TX},
-	Author = {Tobias Gerstenberg and Liang Zhou and Kevin A. Smith and Joshua B. Tenenbaum},
-	Booktitle = {{Proceedings of the 39th Annual Conference of the Cognitive Science Society}},
-	Editor = {Glenn Gunzelmann and Andrew Howes and Thora Tenbrink and Eddy Davelaar},
-	Pages = {409--414},
-	Publisher = {Cognitive Science Society},
-	Title = {Faulty towers: A hypothetical simulation model of physical support},
-	Year = {2017}}

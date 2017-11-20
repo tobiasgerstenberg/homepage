@@ -47,12 +47,12 @@ defaultContentLanguageInSubdir = false
 	organizations = [ { name = "Stanford University", url = "" } ]
 
 	gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-	avatar = "tobias_gerstenberg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+	# avatar = "tobias_gerstenberg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 	email = "gerstenberg@stanford.edu"
 	address = "Stanford University"
 	# office_hours = "Monday 10:00 to 13:00 or email for appointment"
-	phone = "+1 617 230 0301"
-	skype = "tobiasgerstenberg"
+	# phone = "+1 617 230 0301"
+	#skype = "tobiasgerstenberg"
 	telegram = ""
 
 	# Enable Keybase in Contact widget by entering your keybase.io username.
@@ -184,6 +184,18 @@ defaultContentLanguageInSubdir = false
 		#   3 = MLA
 		publication_format = 2
 
+	# Configuration of member pages.
+	[params.member]
+		# List publications and talks related to the project?
+		list_children = true
+
+		# Publication list format.
+		#   0 = Simple
+		#   1 = Detailed
+		#   2 = APA
+		#   3 = MLA
+		publication_format = 2
+
 	# Social/Academic Networking
 	#
 	# Icon pack "fa" includes the following social network icons:
@@ -227,20 +239,27 @@ defaultContentLanguageInSubdir = false
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+
 [params.menus]
 	# Align the main menu to the right of the page? (true/false)
 	align_right = true
 
 [[menu.main]]
 	name = "Home"
-	url = "#about"
-	weight = 1
+	#url = "#about"
+	url = "#info"
+	weight = 2
+
+[[menu.main]]
+	name = "People"
+	url = "#people"
+	weight = 3
 
 [[menu.main]]
 	name = "Publications"
-	#url = "#publications_selected"
-	url = "#publications"
-	weight = 2
+	url = "#publications_selected"
+	#url = "#publications"
+	weight = 4
 
 # [[menu.main]]
 	# name = "Posts"

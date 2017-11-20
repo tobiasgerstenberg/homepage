@@ -1,8 +1,0 @@
-@inproceedings{gerstenberg2011rational,
-	Author = {Gerstenberg, T. and Lagnado, D. A. and Speekenbrink, M. and Cheung, C.},
-	Booktitle = {Proceedings of the 33rd {A}nnual {C}onference of the {C}ognitive {S}cience {S}ociety.},
-	Editor = {Carlson, C. and H{\"o}lscher, C. and Shipley, T.},
-	Pages = {1715--1720},
-	Publisher = {{A}ustin, {TX}: Cognitive {S}cience {S}ociety},
-	Title = {Rational order effects in responsibility attributions},
-	Year = {2011}}

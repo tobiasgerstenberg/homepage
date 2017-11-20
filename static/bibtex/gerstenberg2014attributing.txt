@@ -1,9 +1,0 @@
-@incollection{gerstenberg2014attributing,
-	Author = {Gerstenberg, T. and Lagnado, D. A.},
-	Booktitle = {Oxford Studies in Experimental Philosophy},
-	Editor = {Joshua Knobe and Tania Lombrozo and Shaun Nichols},
-	Pages = {91--130},
-	Publisher = {Oxford University Press},
-	Title = {Attributing responsibility: Actual and counterfactual worlds},
-	Volume = {1},
-	Year = {2014}}

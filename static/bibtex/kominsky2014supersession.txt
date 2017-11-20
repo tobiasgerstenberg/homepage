@@ -1,9 +1,0 @@
-@inproceedings{kominsky2014supersession,
-	Address = {Austin, TX},
-	Author = {Jonathan F Kominsky and Jonathan Phillips and Joshua Knobe and Tobias Gerstenberg and David A Lagnado},
-	Booktitle = {{Proceedings of the 36th Annual Conference of the Cognitive Science Society}},
-	Editor = {P. Bello and M. Guarini and M. McShane and B. Scassellati},
-	Pages = {761--766},
-	Publisher = {Cognitive Science Society},
-	Title = {Causal supersession},
-	Year = {2014}}
