@@ -14,7 +14,7 @@ abstract= "How do people make causal judgments? What role, if any, does counterf
 
 # Links (optional).
 url_pdf = "papers/gerstenberg2017tracking.pdf"
-url_preprint = "https://osf.io/ugbk3/download"
+# url_preprint = "https://osf.io/ugbk3/download"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -26,7 +26,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [
-{name = "Github", url = "https://github.com/tobiasgerstenberg/eye_tracking_causality"},
+# {name = "Github", url = "https://github.com/tobiasgerstenberg/eye_tracking_causality"},
 {name = "OSF", url = "https://osf.io/du5jc/#"},
 {name = "Press: MIT News", url = "http://news.mit.edu/2017/how-we-determine-blame-1017"},
 {name = "Press: Seeker", url = "https://www.seeker.com/health/mind/we-assign-blame-by-envisioning-different-scenarios-in-our-mind"},
