@@ -247,18 +247,20 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
 	name = "Home"
 	#url = "#about"
-	url = "#info"
+	# url = "#info"
+	url = "#hero"
 	weight = 2
 
 [[menu.main]]
 	name = "People"
 	url = "#people"
+	#url = "/member"
 	weight = 3
 
 [[menu.main]]
 	name = "Publications"
 	url = "#publications_selected"
-	#url = "#publications"
+	#url = "/publication"
 	weight = 4
 
 # [[menu.main]]
