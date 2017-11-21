@@ -5,7 +5,8 @@ active = true
 date = "2017-11-18"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "[People](/member)"
+#title = "[People](/member)"
+title = "People"
 subtitle = "... more coming soon :)"
 
 # Order that this section will appear in.
@@ -13,9 +14,12 @@ weight = 3
 
 +++
 
-## [Prof. Tobias Gerstenberg](/member/tobias_gerstenberg/)
+<!-- ## [Prof. Tobias Gerstenberg](/member/tobias_gerstenberg/) -->
+## Prof. Tobias Gerstenberg
 
 <div class = 'people-image'><img src="/img/tobias_gerstenberg.jpg" alt="Drawing"/>
+
+<div class = 'social-links'>
 
 <a href="mailto:gerstenberg@stanford.edu"  title = "E-Mail" target="_top">
 <i class="fa fa-envelope"></i>
@@ -37,9 +41,14 @@ weight = 3
 <i class="fa fa-file-text-o"></i>
 </a>
 
+<span class="stretch"></span>
+</div>
+
 </div>
 
 **Principal Investigator**
+
+
 
 I'm interested in causality, counterfactuals, and responsibility. You too? Get in touch! [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu)
 

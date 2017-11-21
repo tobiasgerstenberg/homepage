@@ -1,10 +1,10 @@
 +++
-title = "The Conceptual Mind: New Directions in the Study of Concepts"
+title = "Concepts in a probabilistic language of thought"
 date = "2015-01-01"
 authors = ["N. D. Goodman","J. B. Tenenbaum","T. Gerstenberg"]
 publication_types = ["6"]
 publication_short = "_The Conceptual Mind: New Directions in the Study of Concepts_"
-publication = "Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In The Conceptual Mind: New Directions in the Study of Concepts (pp. 623-653). MIT Press."
+publication = "Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In _The Conceptual Mind: New Directions in the Study of Concepts_ (pp. 623-653). MIT Press."
 image_preview = ""
 selected = true
 projects = []
