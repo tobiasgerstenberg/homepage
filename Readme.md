@@ -5,7 +5,6 @@
 In the root folder run: 
 
 ```
-hugo 
 bash publish.sh 'message'
 ```
 
