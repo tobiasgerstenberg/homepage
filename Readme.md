@@ -4,9 +4,10 @@
 
 In the root folder run: 
 
-`hugo 
-bash publish.sh 'mesasge'
-`
+```
+hugo 
+bash publish.sh 'message'
+```
 
 ## Tutorial links 
 
