@@ -44,10 +44,10 @@ defaultContentLanguageInSubdir = false
 
 	# Organizations/Affiliations.
 	#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-	organizations = [ { name = "Stanford University", url = "" } ]
+	# organizations = [ { name = "Stanford University", url = "" } ]
 
 	gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-	# avatar = "tobias_gerstenberg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+	avatar = "tobias_gerstenberg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 	email = "gerstenberg@stanford.edu"
 	address = "Stanford University"
 	# office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -234,6 +234,11 @@ defaultContentLanguageInSubdir = false
 		icon_pack = "fa"
 		link = "//github.com/tobiasgerstenberg"
 
+	[[params.social]]
+		icon = "file-text-o"
+		icon_pack = "fa"
+		link = "cv/tobias_gerstenberg.pdf"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -253,8 +258,9 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
 	name = "People"
-	url = "#people"
+	# url = "#people"
 	#url = "/member"
+	url = "#about"
 	weight = 3
 
 [[menu.main]]
