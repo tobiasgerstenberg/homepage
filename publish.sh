@@ -2,7 +2,7 @@
 
 cd public
 git add --all
-git commit -m 
+git commit -m .
 git push 
 
 cd .. 
