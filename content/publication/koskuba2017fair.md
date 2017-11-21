@@ -2,7 +2,7 @@
 title = "What's fair? How children assign reward to members of teams with differing causal structures"
 date = "2017-01-01"
 authors = ["K. Koskuba", "A. Schlottman", "T. Gerstenberg", "H. Gordon", "D. A. Lagnado"]
-publication_types = ["2"]
+publication_types = ["3"]
 publication = "_submitted_"
 publication_short = ""
 image_preview = ""
