@@ -258,9 +258,9 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
 	name = "People"
-	# url = "#people"
-	#url = "/member"
-	url = "#about"
+	url = "#people"
+	# url = "/member"
+	#url = "#about"
 	weight = 3
 
 [[menu.main]]
