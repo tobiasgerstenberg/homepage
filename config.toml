@@ -269,6 +269,16 @@ defaultContentLanguageInSubdir = false
 	#url = "/publication"
 	weight = 4
 
+[[menu.main]]
+	name = "Collaborators"
+	url = "#collaborators"
+	weight = 5
+
+[[menu.main]]
+	name = "Contact"
+	url = "#contact"
+	weight = 6
+
 # [[menu.main]]
 	# name = "Posts"
 	# url = "#posts"
@@ -284,10 +294,7 @@ defaultContentLanguageInSubdir = false
 #	url = "#teaching"
 #	weight = 5
 
-[[menu.main]]
-	name = "Contact"
-	url = "#contact"
-	weight = 6
+
 
 # Taxonomies.
 [taxonomies]

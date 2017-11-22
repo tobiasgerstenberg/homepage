@@ -11,7 +11,7 @@ title = "Selected publications"
 subtitle = "[>> List of all publications](publication/)"
 
 # Order that this section will appear in.
-weight = 10
+weight = 4
 
 # List format.
 #   0 = Simple
