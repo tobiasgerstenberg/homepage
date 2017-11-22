@@ -25,6 +25,6 @@ weight = 1
 
 <br>
 <!-- The Causality in Cognition (CIC) Lab at [Stanford University](https://psychology.stanford.edu/) studies the role of causality in our understanding of the world, and of each other.  -->
-The Causality in Cognition (CIC) Lab at Stanford University studies the role of causality in our understanding of the world, and of each other. 
+The Causality in Cognition Lab at Stanford University studies the role of causality in our understanding of the world, and of each other. 
 
 
