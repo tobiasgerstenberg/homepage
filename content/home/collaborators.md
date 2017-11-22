@@ -5,7 +5,7 @@ active = true
 date = "2017-11-18"
 
 title = "Collaborators"
-subtitle = "some but not all of the people we work with"
+subtitle = "some of the people we work with"
 
 # Order that this section will appear in.
 weight = 5
