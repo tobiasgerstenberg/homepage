@@ -48,7 +48,7 @@ weight = 5
 [[collaborator]]
 	id = "Anne Schlottmann"
 	image = "anne_schlottmann.jpg"
-	position = "UCL"
+	position = "University College London"
 	link = "https://www.ucl.ac.uk/pals/research/experimental-psychology/person/anne-schlottmann/"
 	show = true
 
