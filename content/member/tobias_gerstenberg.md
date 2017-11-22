@@ -2,13 +2,10 @@
 # Date this page was created.
 date = "2016-04-27"
 
-# Name
-title = "Tobias Gerstenberg"
-
 # Does the project detail page use math formatting?
 math = false
 
-id = "Prof. Tobias Gerstenberg"
+id = "Tobias Gerstenberg"
 position = "Principal investigator"
 image = "tobias_gerstenberg.jpg"
 email = "gerstenberg@stanford.edu"
