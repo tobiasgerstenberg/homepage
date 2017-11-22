@@ -2,6 +2,7 @@
 title = "Causal conceptions in social explanation and moral evaluation: A historical tour"
 date = "2015-01-01"
 authors = ["M. D. Alicke","D. R. Mandel","D. Hilton","T. Gerstenberg","D. A. Lagnado"]
+#authors = ["M. D. Alicke","D. R Mandel","D. Hilton","[T. Gerstenberg](https://tobiasgerstenberg.github.io/)","D. A. Lagnado"]
 publication_types = ["2"]
 publication = "Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. _Perspectives on Psychological Science_, 10(6), 790-812. "
 publication_short = "_Perspectives on Psychological Science_"

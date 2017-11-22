@@ -1,6 +1,6 @@
 +++
 title = "Intuitive experiments in the physical world"
-date = "2017-01-01"
+date = "2017-11-01"
 authors = ["N. R. Bramley", "T. Gerstenberg",  "J. B. Tenenbaum", "T. M. Gureckis"]
 publication_types = ["3"]
 publication_short = "_submitted_"
