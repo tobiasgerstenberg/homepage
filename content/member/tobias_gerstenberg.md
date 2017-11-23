@@ -5,7 +5,7 @@ date = "2016-04-27"
 # Does the project detail page use math formatting?
 math = false
 
-id = "Tobias Gerstenberg"
+title = "Tobias Gerstenberg"
 position = "Principal investigator"
 image = "tobias_gerstenberg.jpg"
 email = "gerstenberg@stanford.edu"
