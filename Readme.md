@@ -5,9 +5,9 @@ This is the github repo of Stanford's Causality in Cognition Lab homepage.
 ## Basic organization 
 
 - `content`: contains markdown files used to render the page 
-   + `home`: all widgets displayed on the first page 
-   + `member`: individual markdown file for each lab member 
-   + `publication`: individual file for each publication 
+	+ `home`: all widgets displayed on the first page 
+	+ `member`: individual markdown file for each lab member 
+	+ `publication`: individual file for each publication 
 
 - `static`: contains all the files (papers, images, datasets, ...) in several subfolders
 
@@ -94,6 +94,18 @@ url_custom = [
 ```
 
 You can also add an image to go with the paper by putting it into `static/img/publications/` and linking to by adapting the `image =""` parameter (e.g. `image ="publications/gerstenberg2016csm.png"`).
+
+## Develop the page 
+
+Here is a list of the key files to play around with: 
+
+- `config.toml`: Configuration file 
+	+ navigation bar 
+	+ what's displayed on home page 
+- `homepage/themes/academic/layouts/`: 
+	+ contains subfolders files to adapt the different widgets 
+- `homepage/themes/academic/layouts/partials/css/academic.css`:
+	+ css file to adapt any of the stylings 
 
 ## Tutorial links 
 
