@@ -25,9 +25,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [
-# {name = "Demo", url = ""}
-# ]
+url_custom = [
+{name = "Link", url = "https://mitpress.mit.edu/books/conceptual-mind"}
+]
 
 [header]
 # image = "publications/goodman2015concepts.png"
