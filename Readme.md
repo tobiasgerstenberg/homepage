@@ -9,7 +9,7 @@ This is the github repo of Stanford's Causality in Cognition Lab homepage.
    + `member`: individual markdown file for each lab member 
    + `publication`: individual file for each publication 
 
-- `static`: contains all the files (papers, images, datasets, ...)
+- `static`: contains all the files (papers, images, datasets, ...) in several subfolders
 
 ## Update the hompage 
 
