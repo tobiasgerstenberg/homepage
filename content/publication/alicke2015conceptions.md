@@ -29,7 +29,7 @@ url_source = ""
 url_custom = []
 
 [header]
-image = "publications/alicke2015conceptions.png"
+#image = "publications/alicke2015conceptions.png"
 caption = ""
 +++
 
