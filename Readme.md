@@ -63,11 +63,11 @@ This will create a new markdown file in the `content/publication/` folder for ea
 
 The parser also puts individual `.bib` files for each publication into `static/files/citations/`. 
 
-#### Add your paper 
+#### Add a pdf of your paper 
 
 Add a pdf of your paper to `static/papers/` using the same name as the markdown file above (e.g. `gerstenberg2016csm.pdf`).
 
-#### Adapt the publication page 
+#### Tweak the publication page 
 
 Navigate to `content/publication/` to open the publication. Adapt the links: 
 
