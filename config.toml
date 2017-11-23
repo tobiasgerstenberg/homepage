@@ -30,6 +30,9 @@ defaultContentLanguageInSubdir = false
 	smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+	email = "gerstenberg@stanford.edu"
+	address = "Stanford University"
+	
 	# Color theme.
 	#   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
 	color_theme = "ocean"
