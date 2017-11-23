@@ -15,6 +15,14 @@ This is the github repo of Stanford's Causality in Cognition Lab homepage.
 
 If you have any trouble getting things to work, feel free to post an issue on the github repo. 
 
+To submit any changes you've made, navigate to the root directory of the homepage in your terminal and run:
+
+```
+bash publish.sh 'message'
+```
+
+Please type a 'message' that communicates what changes you've made. 
+
 ### Add yourself to the homepage
 
 #### Add your picture
@@ -34,15 +42,6 @@ You can create a new webpage by adding a new markdown file with your name into t
 #### Update the people page 
 
 In `content/home/people.md` add yourself as a new member. You can simply copy the template. If you don't have twitter or any of the other services, just leave it empty (e.g. `twitter = ""`). 
-
-After you've made changes, navigate to the root directory of the homepage in your terminal and run:
-In the root folder run: 
-
-```
-bash publish.sh 'message'
-```
-
-Please type a 'message' that communicates what changes you've made. 
 
 ### Add a publication 
 
