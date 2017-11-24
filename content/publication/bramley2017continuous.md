@@ -14,7 +14,7 @@ highlight = true
 abstract= "Event timing and interventions are important and intertwined cues to causal structure, yet they have typically been studied separately. We bring them together for the first time in an experiment where participants learn causal structure by performing interventions in continuous time. We contrast learning in acyclic and cyclic devices, with reliable and unreliable cause-effect delays. We show that successful learners use interventions to structure and simplify their interactions with the devices and that we can capture judgment patterns with heuristics based on online construction and testing of a single structural hypothesis."
 
 # Links (optional).
-url_pdf = "/papers/bramley2017continuous.pdf"
+url_pdf = "bramley2017continuous.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

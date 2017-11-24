@@ -13,7 +13,7 @@ highlight = true
 abstract= "Causation looms large in legal and moral reasoning. People construct causal models of the social and physical world to understand what has happened, how and why, and to allocate responsibility and blame. This chapter explores people’s common-sense notion of causation, and shows how it underpins moral and legal judgments. As a guiding framework it uses the causal model framework (Pearl, 2000) rooted in structural models and counterfactuals, and shows how it can resolve many of the problems that beset standard but-for analyses. It argues that legal concepts of causation are closely related to everyday causal reasoning, and both are tailored to the practical concerns of responsibility attribution. Causal models are also critical when people evaluate evidence, both in terms of the stories they tell to make sense of evidence, and the methods they use to assess its credibility and reliability."
 
 # Links (optional).
-url_pdf = "papers/lagnado2017causation.pdf"
+url_pdf = "lagnado2017causation.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

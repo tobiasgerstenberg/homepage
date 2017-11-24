@@ -18,6 +18,7 @@ description = "I am interested in how people hold others responsible, how these 
 # Filter by publication type.
 # -1: Any
 publication_type = "-1"
+publication_name = "T. Gerstenberg"
 
 # List your academic interests.
 [interests]
@@ -30,6 +31,10 @@ publication_type = "-1"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Assistant Professor in Psychology, 2018"
+  institution = "Stanford University"
+
 [[education.courses]]
   course = "Postdoc, 2013-2018"
   institution = "Massachusetts Institute of Technology"

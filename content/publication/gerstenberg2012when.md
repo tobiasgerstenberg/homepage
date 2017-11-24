@@ -13,10 +13,10 @@ highlight = true
 abstract= "In two experiments, we established an order effect in responsibility attributions. In line with Spellman (Journal of Experimental Psychology: General 126: 323–348, 1997), who proposed that a person’s perceived causal contribution varies with the degree to which it changes the probability of the eventual outcome, Experiment 1 showed that in a team challenge in which the players contribute sequentially, the last player’s blame or credit is attenuated if the team’s result has already been determined prior to her acting. Experiment 2 illustrated that this attenuation effect does not overgeneralize to situations in which the experienced order of events does not map onto the objective order of events; the level of the last person’s performance is only discounted if that person knew that the result was already determined. Furthermore, Experiment 1 demonstrated that responsibility attributions remain sensitive to differences in performance, even if the outcome is already determined. We suggest a theoretical extension of Spellman’s model, according to which participants’ responsibility attributions are determined not only by whether a contribution made a difference in the actual situation, but also by whether it would have made a difference had things turned out somewhat differently."
 
 # Links (optional).
-url_pdf = "papers/gerstenberg2012when.pdf"
+url_pdf = "gerstenberg2012when.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "data/order_data2.zip"
+url_dataset = "order_data2.zip"
 url_project = ""
 url_slides = ""
 url_video = ""
