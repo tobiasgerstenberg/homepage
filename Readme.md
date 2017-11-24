@@ -73,7 +73,7 @@ Navigate to `content/publication/` to open the publication. Adapt the links:
 
 ```
 # Links (optional).
-url_pdf = "papers/gerstenberg2016csm.pdf"
+url_pdf = "gerstenberg2016csm.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -106,6 +106,15 @@ Here is a list of the key files to play around with:
 	+ contains subfolders files to adapt the different widgets 
 - `homepage/themes/academic/layouts/partials/css/academic.css`:
 	+ css file to adapt any of the stylings 
+
+## Some useful things 
+
+### Commenting 
+
+- html: `<-- comment -->` 
+- markdown: `# comment`
+- css: `/* comment */`
+- hugo: `// comment`
 
 ## Tutorial links 
 

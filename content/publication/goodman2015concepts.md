@@ -13,7 +13,7 @@ highlight = true
 abstract= "Knowledge organizes our understanding of the world, determining what we expect given what we have already seen. Our predictive representations have two key prop- erties: they are productive, and they are graded. Productive generalization is possible because our knowledge decomposes into concepts - elements of knowledge that are combined and recombined to describe particular situations. Gradedness is the observ- able effect of accounting for uncertainty - our knowledge encodes degrees of belief that lead to graded probabilistic predictions. To put this a different way, concepts form a combinatorial system that enables description of many different situations; each such situation specifies a distribution over what we expect to see in the world, given what we have seen. We may think of this system as a probabilistic language of thought (PLoT), in which representations are built from language-like composition of concepts, and the content of those representations is a probability distribution on world states. The purpose of this chapter is to formalize these ideas in computational terms, to illustrate key properties of the PLoT approach with a concrete example, and to draw connections with other views of conceptual structure."
 
 # Links (optional).
-url_pdf = "papers/goodman2015concepts.pdf"
+url_pdf = "goodman2015concepts.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
