@@ -20,16 +20,6 @@ description = "I am interested in how people hold others responsible, how these 
 publication_type = "-1"
 publication_name = "T. Gerstenberg"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Causal cognition",
-    "Social cognition",
-    "Mental simulation",
-    "Computational modeling",
-    "Eye-tracking"
-  ]
-
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Assistant Professor in Psychology, 2018"

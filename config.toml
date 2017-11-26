@@ -18,6 +18,8 @@ googleAnalytics = "UA-40308572-2"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+
+
 [outputs]
 	home = [ "HTML", "CSS", "RSS" ]
 	section = [ "HTML", "RSS" ]
@@ -32,6 +34,8 @@ defaultContentLanguageInSubdir = false
 [params]
 	email = "gerstenberg@stanford.edu"
 	address = "Stanford University"
+
+	members = ["T. Gerstenberg", "D. A. Lagnado", "N. R. Bramley"]
 	
 	# Color theme.
 	#   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
@@ -82,6 +86,8 @@ defaultContentLanguageInSubdir = false
 	# Enable global LaTeX math rendering?
 	#   If false, you can enable it locally on a per page basis.
 	math = false
+
+
 
 	# Highlight.js options
 	#   highlight
