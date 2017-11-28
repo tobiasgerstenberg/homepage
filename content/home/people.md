@@ -22,7 +22,7 @@ weight = 3
 	github = "tobiasgerstenberg"
 	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
 	cv = "tobias_gerstenberg.pdf"
-	website = "tobias_gerstenberg/"
+	website = "tobias_gerstenberg"
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 #[[member]]
