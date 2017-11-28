@@ -14,7 +14,7 @@ subtitle = "... more coming soon :)"
 weight = 3
 
 [[member]]
-	id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
+	id = "[Prof. Tobias Gerstenberg](member/tobias_gerstenberg)"
 	position = "Principal investigator"
 	image = "tobias_gerstenberg.jpg"
 	email = "gerstenberg@stanford.edu"
