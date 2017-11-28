@@ -216,7 +216,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
 	name = "Home"
-	url = "#hero"
+	url = "#home"
 	weight = 1
 
 [[menu.main]]
