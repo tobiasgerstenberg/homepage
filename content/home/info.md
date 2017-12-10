@@ -13,7 +13,7 @@ weight = 2
 
 +++
 
-Some of the questions that guide our research are: 
+Some of the questions that guide our research: 
 
 1. How does the mind learn to represent the causal structure of the world?
 2. What is the relationship between causal thinking and counterfactual simulation? 

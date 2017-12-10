@@ -55,7 +55,8 @@ defaultContentLanguageInSubdir = false
 
 	# Diplay a logo in navigation bar rather than title (optional).
 	#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-	logo = ""
+	logo = "cicl_logo.png"
+	# logo = ""
 
 	# Enable/disable map in Contact widget.
 	# Map provider:
