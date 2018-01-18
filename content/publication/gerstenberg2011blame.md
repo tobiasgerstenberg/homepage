@@ -13,14 +13,14 @@ highlight = true
 abstract= "This study investigates the influence of players’ performance and level of skill on responsibility attributions in groups. Participants act as external judges and evaluate the performance of teams of differently skilled players who compete in a darts game. The results show that both performance and skill influence responsibility attributions. Poor performance elicits high blame and low credit ratings and vice versa for good performance. Responsibility attributions to one player did not vary as a function of the other player’s performance. The influence of skill on responsibility attributions was asymmetric. While skilled players were blamed more for losses than unskilled players, credit ratings did not vary significantly as a function of skill. This result is in line with people’s strong tendency to spontaneously consider upwards counterfactual alternatives for losses over downwards counterfactuals for wins."
 
 # Links (optional).
-url_pdf = "gerstenberg2011blame.pdf"
+url_pdf = "papers/gerstenberg2011blame.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "skill_data.zip"
+url_dataset = "data/skill_data.zip"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "gerstenberg2011blame-poster.pdf"
+url_poster = "posters/gerstenberg2011blame-poster.pdf"
 url_source = ""
 
 # Custom links (optional).

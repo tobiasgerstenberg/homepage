@@ -15,7 +15,7 @@ abstract= "Many aspects of our physical environment are hidden. For example, it 
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "/papers/bramley2017experiments.pdf"
+url_preprint = "papers/bramley2017experiments.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

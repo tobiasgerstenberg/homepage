@@ -13,7 +13,7 @@ highlight = true
 abstract= "To what extent do people care about the intentions behind an action? What if the intentions can be deceptive? We conducted two experiments to complement previous evidence about the roles of outcomes and intentions in economic games. The results of Experiment 1 indicate that both outcomes and intentions affect players’ responses. Moreover, unkind intentions are punished but kind intentions are hardly rewarded. In Experiment 2, intentions are stated as opposed to observed. Participants misstate their intentions frequently, thereby undermining the credibility of the statements. As a result, perceived honesty modulates players’ responses."
 
 # Links (optional).
-url_pdf = "schaechtele2011beyond.pdf"
+url_pdf = "papers/schaechtele2011beyond.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

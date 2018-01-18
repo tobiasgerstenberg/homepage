@@ -13,7 +13,7 @@ highlight = true
 abstract= "Moral judgment often involves pinning causation for harm to a particular person. Since it reveals “who one sides with”, expression of moral judgment can be a costly social act that people may be motivated to conceal. Here, we demonstrate that a simple, well-studied psycholinguistic task (implicit causality) can be leveraged as a novel implicit measure of morally relevant causal attributions. Participants decided whether to continue sentences like “Amy killed Bob because...” with either the pronoun he or she. We found that (1) implicit causality selections predicted explicit causal judgments, (2) selecting the object (victim) for harm/force events (e.g., kill, rape) predicted endorsement of moral values previously linked to victim-blame, and (3) higher hostile sexism predicted selecting the female as the cause in male-on-female harm/force. The implicit causality task is a new measure of morally motivated causal attribution that may circumvent social desirability concerns."
 
 # Links (optional).
-url_pdf = "niemi2016implicit.pdf"
+url_pdf = "papers/niemi2016implicit.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

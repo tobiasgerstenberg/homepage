@@ -13,7 +13,7 @@ highlight = true
 abstract= "When agents violate norms, they are typically judged to be more of a cause of resulting outcomes. In this paper, we suggest that norm violations also affect the causality attributed to other agents, a phenomenon we refer to as ‘‘causal superseding.’’ We propose and test a counterfactual reasoning model of this phenomenon in four experiments. Experiments 1 and 2 provide an initial demonstration of the causal superseding effect and distinguish it from previously studied effects. Experiment 3 shows that this causal superseding effect is dependent on a particular event structure, following a prediction of our counterfactual model. Experiment 4 demonstrates that causal superseding can occur with violations of non-moral norms. We propose a model of the superseding effect based on the idea of counterfactual sufficiency."
 
 # Links (optional).
-url_pdf = "kominsky2015superseding.pdf"
+url_pdf = "papers/kominsky2015superseding.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

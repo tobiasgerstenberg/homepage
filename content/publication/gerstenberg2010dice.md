@@ -13,14 +13,14 @@ highlight = true
 abstract= "How much are people’s responsibility attributions affected by intended versus actual contributions in group contexts? A novel experimental-game paradigm dissociated intended from actual contributions: good intentions could result in bad outcomes and bad intentions in good ones. Participants acted as external judges and attributed responsibility to computer players engaging in a repeated game. On each round, three players formed a group and each chose to roll one of three dice that differed in terms of price and probability distribution. The team won if the sum exceeded a certain threshold. The results showed that both intended contribution, reflected in the choice of die, and actual contribution, reflected in the outcome of rolling the die, were determinants of participants’ responsibility attributions. However, contrary to previous evidence (Cushman, Dreber, Wang, & Costa, 2009), more participants based their attributions on the intention rather than the outcome."
 
 # Links (optional).
-url_pdf = "gerstenberg2010dice.pdf"
+url_pdf = "papers/gerstenberg2010dice.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "dice_data.zip"
+url_dataset = "data/dice_data.zip"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "gerstenberg2010dice-poster.pdf"
+url_poster = "posters/gerstenberg2010dice-poster.pdf"
 url_source = ""
 
 # Custom links (optional).

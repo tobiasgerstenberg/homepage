@@ -13,7 +13,7 @@ highlight = true
 abstract= "The actions of a rational agent reveal information about its mental states. These inferred mental states, particularly the agent’s intentions, play an important role in the evaluation of moral permissibility. While previous computational models have shown that beliefs and desires can be inferred from behavior under the assumption of rational action they have critically lacked a third mental state, intentions. In this work, we develop a novel formalism for intentions and show how they can be inferred as counterfactual contrasts over influence diagrams. This model is used to quantitatively explain judgments about intention and moral permissibility in classic and novel trolley problems."
 
 # Links (optional).
-url_pdf = "kleiman-weiner2015intention.pdf"
+url_pdf = "papers/kleiman-weiner2015intention.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

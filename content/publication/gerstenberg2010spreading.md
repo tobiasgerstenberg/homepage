@@ -33,14 +33,14 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "gerstenberg2010spreading.pdf"
+url_pdf = "papers/gerstenberg2010spreading.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "triangle_data.zip"
+url_dataset = "data/triangle_data.zip"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "gerstenberg2010spreading-poster.pdf"
+url_poster = "posters/gerstenberg2010spreading-poster.pdf"
 url_source = ""
 
 # Custom links (optional).

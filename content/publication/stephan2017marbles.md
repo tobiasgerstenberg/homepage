@@ -13,7 +13,7 @@ highlight = true
 abstract= "Consider the following causal explanation: The ball went through the goal because the defender didn’t block it. There are at least two problems with citing omissions as causal explanations. First, how do we choose the relevant candidate omission (e.g. why the defender and not the goalkeeper). Second, how do we determine what would have happened in the relevant counterfactual situation (i.e. maybe the shot would still have gone through the goal even if it had been blocked). In this paper, we extend the counterfactual simulation model (CSM) of causal judgment (Gerstenberg, Goodman, Lagnado, & Tenenbaum, 2014) to handle the second problem. In two experiments, we show how people’s causal model of the situation affects their causal judgments via influencing what counterfactuals they consider. Omissions are considered causes to the extent that the outcome in the relevant counterfactual situation would have been different from what it actually was."
 
 # Links (optional).
-url_pdf = "stephan2017marbles.pdf"
+url_pdf = "papers/stephan2017marbles.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -13,7 +13,7 @@ highlight = true
 abstract= "How do people attribute responsibility to individuals in a group? Several models in psychology predict that there is a close relationship between counterfactuals and responsibility: how responsible an individual’s contribution is seen depends on whether it made a difference to the outcome. We first review these models and then point out a major limitation: people sometimes hold individuals responsible even though their contribution made no relevant difference to the outcome. A richer conception of the relationship between counterfactuals and responsibility is necessary. People’s attributions of responsibility are not only influenced by whether a person’s contribution made a difference in the actual situation, but also by whether it would have made a difference in other possible situations. We propose a general framework that conceptualizes attributions of responsibility in terms of counterfactuals defined over structured causal models. Using this framework, we show that retrospective responsibility attributions are also affected by prospective responsibility. A person’s responsibility depends on how critical their contribution was perceived for the group’s success and on how close it was to making a difference to the outcome."
 
 # Links (optional).
-url_pdf = "gerstenberg2014attributing.pdf"
+url_pdf = "papers/gerstenberg2014attributing.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
