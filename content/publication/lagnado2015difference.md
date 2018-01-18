@@ -13,7 +13,7 @@ highlight = true
 abstract= ""
 
 # Links (optional).
-url_pdf = "lagnado2015difference.pdf"
+url_pdf = "papers/lagnado2015difference.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

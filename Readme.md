@@ -73,7 +73,7 @@ Navigate to `content/publication/` to open the publication. Adapt the links:
 
 ```
 # Links (optional).
-url_pdf = "gerstenberg2016csm.pdf"
+url_pdf = "papers/gerstenberg2016csm.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

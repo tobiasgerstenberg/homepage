@@ -13,7 +13,7 @@ highlight = true
 abstract= "In this paper we introduce the hypothetical simulation model (HSM) of physical support. The HSM predicts that people judge physical support by mentally simulating what would happen if the object of interest were removed. Two experiments test the model by asking participants to evaluate the extent to which one brick in a tower is responsible for the rest of the bricks staying on a table. The results of both experiments show a very close correspondence between hypothetical simulations and responsibility judgments. We compare three versions of the HSM which differ in how they model people’s uncertainty about what would happen. Participants’ selections of which bricks would fall are best explained by assuming that hypothetical interventions only lead to local changes while leaving the rest of the scene unchanged."
 
 # Links (optional).
-url_pdf = "gerstenberg2017faulty.pdf"
+url_pdf = "papers/gerstenberg2017faulty.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

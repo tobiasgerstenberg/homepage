@@ -13,14 +13,14 @@ highlight = true
 abstract= "In order to be held responsible, a person’s action has to have made some sort of difference to the outcome. In this paper, we propose a counterfactual replacement model according to which people attribute responsibility by comparing their prior expectation about how an agent was going to act in a given situation, with their posterior expectation after having observed the agent’s action. The model predicts blame if the posterior expectation is worse than the prior expectation and credit if it is better. In a novel experiment, we manipulate people’s prior expectations by changing the framing of a structurally isomorphic task. As predicted by our counterfactual replacement model, people’s prior expectations significantly influenced their responsibility attributions. We also show how our model can capture Johnson and Rips’s (2013) findings that an agent is attributed less responsibility for bringing about a positive outcome when their action was suboptimal rather than optimal."
 
 # Links (optional).
-url_pdf = "gerstenberg2014replacement.pdf"
+url_pdf = "papers/gerstenberg2014replacement.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "replacement_data.csv"
+url_dataset = "data/replacement_data.csv"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "gerstenberg2014replacement-poster.pdf"
+url_poster = "posters/gerstenberg2014replacement-poster.pdf"
 url_source = ""
 
 # Custom links (optional).

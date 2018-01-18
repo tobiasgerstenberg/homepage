@@ -14,7 +14,7 @@ highlight = true
 abstract= "Understanding the causes of human behavior is essential for advancing one's interests and for coordinating social relations. The scientific study of how people arrive at such understandings or explanations has unfolded in four distinguishable epochs in psychology, each characterized by a different metaphor that researchers have used to represent how people think as they attribute causality and blame to other individuals. The first epoch was guided by an _intuitive scientist_ metaphor, which emphasized whether observers perceived behavior to be caused by the unique tendencies of the actor or by common reactions to the requirements of the situation. This metaphor was displaced in the second epoch by an _intuitive lawyer_ depiction that focused on the need to hold people responsible for their misdeeds. The third epoch was dominated by theories of counterfactual thinking, which conveyed a _person as reconstructor_ approach that emphasized the antecedents and consequences of imagining alternatives to events, especially harmful ones. With the current upsurge in moral psychology, the fourth epoch emphasizes the moral-evaluative aspect of causal judgment, reflected in a _person as moralist_ metaphor. By tracing the progression from the person-environment distinction in early attribution theories to present concerns with moral judgment, our goal is to clarify how causal constructs have been used, how they relate to one another, and what unique attributional problems each addresses."
 
 # Links (optional).
-url_pdf = "alicke2015conceptions.pdf"
+url_pdf = "papers/alicke2015conceptions.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

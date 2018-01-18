@@ -13,10 +13,10 @@ highlight = true
 abstract= "How do people attribute responsibility in situations where the contributions of multiple agents combine to produce a joint outcome? The prevalence of over-determination in such cases makes this a difficult problem for counterfactual theories of causal responsibility. In this article, we explore a general framework for assigning responsibility in multiple agent contexts. We draw on the structural model account of actual causation (e.g., Halpern & Pearl, 2005) and its extension to responsibility judgments (Chockler & Halpern, 2004). We review the main theoretical and empirical issues that arise from this literature and propose a novel model of intuitive judgments of responsibility. This model is a function of both pivotality (whether an agent made a difference to the outcome) and criticality (how important the agent is perceived to be for the outcome, before any actions are taken). The model explains empirical results from previous studies and is supported by a new experiment that manipulates both pivotality and criticality. We also discuss possible extensions of this model to deal with a broader range of causal situations. Overall, our approach emphasizes the close interrelations between causality, counterfactuals, and responsibility attributions."
 
 # Links (optional).
-url_pdf = "lagnado2013causal.pdf"
+url_pdf = "papers/lagnado2013causal.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "causal_responsibility_data.zip"
+url_dataset = "data/causal_responsibility_data.zip"
 url_project = ""
 url_slides = ""
 url_video = ""
