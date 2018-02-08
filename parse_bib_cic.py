@@ -183,7 +183,7 @@ if __name__ == "__main__":
                 the_file.write('projects = []\n')
 
                 # Links (optional).
-                the_file.write('url_pdf = "' + entry['ID']+ '.pdf"\n')
+                the_file.write('url_pdf = "papers/' + entry['ID']+ '.pdf"\n')
                 the_file.write('url_preprint = ""\n')
                 the_file.write('url_code = ""\n')
                 the_file.write('url_dataset = ""\n')
