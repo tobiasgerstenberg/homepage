@@ -21,5 +21,3 @@ Some of the questions that guide our research:
 
 In our research, we formalize people’s mental models as computational models that yield quantitative predictions about a wide range of situations. To test these predictions, we use a combination of large-scale online experiments, interactive experiments in the lab, and eye-tracking experiments.
 
-If you're interested in joining our lab, please email us at [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu).
-
