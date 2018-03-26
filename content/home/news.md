@@ -6,7 +6,7 @@ date = "2017-11-18"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "News"
-subtitle = "... of what's happening"
+subtitle = "... on what's happening"
 
 # Order that this section will appear in.
 weight = 3
