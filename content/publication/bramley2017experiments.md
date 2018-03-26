@@ -1,6 +1,6 @@
 +++
 title = "Intuitive experiments in the physical world"
-date = "2017-11-01"
+date = "2018-02-02"
 authors = ["N. R. Bramley", "T. Gerstenberg",  "J. B. Tenenbaum", "T. M. Gureckis"]
 publication_types = ["3"]
 publication_short = "_submitted_"
@@ -15,7 +15,7 @@ abstract= "Many aspects of our physical environment are hidden. For example, it 
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "papers/bramley2017experiments.pdf"
+url_preprint = "papers/bramley2018experiments.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

@@ -1,6 +1,6 @@
 +++
 title = "Lucky or clever? From changed expectations to responsibility judgments"
-date = "2018-01-01"
+date = "2018-03-01"
 authors = ["T. Gerstenberg","T. D. Ullman","J. Nagel","M. Kleiman-Weiner","D. A. Lagnado","J. B. Tenenbaum"]
 publication_types = ["2"]
 publication_short = "_Cognition (in press)_"

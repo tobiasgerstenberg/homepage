@@ -1,10 +1,10 @@
 +++
 title = "The role of time in causal learning"
-date = "2017-11-01"
+date = "2018-02-28"
 authors = ["N. R. Bramley", "T. Gerstenberg", "R. Mayrhofer", "D. A. Lagnado"]
 publication_types = ["3"]
-publication = "_submitted_"
-publication_short = ""
+publication = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_ (in press)"
+publication_short = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_ (in press)"
 image_preview = ""
 selected = false
 projects = []
