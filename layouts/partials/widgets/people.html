@@ -1,0 +1,49 @@
+{{ $ := .root }} {{ $page := .page }}
+<!-- People widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1> {{ with $page.Params.subtitle }}
+    <p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-xs-12 col-md-8">
+    {{range $page.Params.member}}
+    <div class= 'people-container'>
+    <h2>{{ with .id }}{{ . | markdownify }}{{ end }}</h2>
+    <p style='font-weight:bold;'>{{.position}}</p>
+    <div class='people-image'><a href="member/{{.website}}/" title="Website" target="_top"><img src="/img/members/{{.image}}" alt="Drawing" /></a>
+      <div class='social-links'>
+    {{if .twitter}}
+        <a href="https://twitter.com/{{.twitter}}" title="Twitter" target="_blank">
+		<i class="fa fa-twitter big-icon"></i>
+		</a> {{end}} {{if .github}}
+        <a href="https://github.com/{{.github}}" title="Github" target="_blank">
+		<i class="fa fa-github big-icon"></i>   
+		</a> {{end}} {{if .scholar}}
+        <a href="https://scholar.google.com/{{.scholar}}" title="Google Scholar" target="_blank">
+		<i class="ai ai-google-scholar big-icon"></i>
+		</a> {{end}} 
+    {{if .email}}
+        <a href="mailto:{{.email}}" title="E-Mail" target="_top">
+    <i class="fa fa-envelope big-icon"></i>
+    </a> 
+    {{end}} 
+    {{if .cv}}
+        <a href="cv/{{.cv}}" title="CV" target="_blank">
+		<!-- <i class="fa fa-file-text-o big-icon"></i> -->
+         <span class = 'cv big-icon'>CV</span> 
+		</a> {{end}}
+        <span class="stretch"></span>
+      </div>
+    </div>
+    <div class='people-description'>
+      <p>{{ with .description }}{{ . | markdownify }}{{ end }}</p>
+      <!-- E-Mail: <a href="mailto:{{.email}}" title="E-Mail" target="_top">{{.email}}</a> -->
+      <!-- <br> -->
+      <a href="member/{{.website}}/" title="Website" target="_top">Personal website</a>
+    </div>
+    <div class = 'spacer'></div>
+    </div>
+  {{end}}
+  </div>
+</div>
+
