@@ -15,4 +15,6 @@ weight = 3
 
 __Open lab manager position__
 
-We are looking to hire a lab manager to start in the Fall of 2018. If you're interested in applying, please send and email to [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu).
+We are looking to hire a lab manager to start in the Fall of 2018. For information about how to apply click [here](https://stanford.taleo.net/careersection/2/jobdetail.ftl?job=78516).
+
+If you have any questions about the application please send and email to [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu).
