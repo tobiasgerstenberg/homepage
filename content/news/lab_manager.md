@@ -1,5 +1,5 @@
 +++
-title = "Social Science Research Coordinator"
+title = "Join the Causality in Cognition Lab!"
 date = "2018-04-08"
 draft = false
 
