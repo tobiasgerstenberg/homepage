@@ -15,5 +15,5 @@ weight = 3
 
 __Open lab manager position__ 
 
-We are looking to hire a lab manager to start in the Fall of 2018. For information about how to apply click [here](/news/lab_manager/).
+We are looking to hire a lab manager to start in the fall of 2018. For information about how to apply click [here](/news/lab_manager/).
 
