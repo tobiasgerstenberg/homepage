@@ -29,4 +29,4 @@ The Causality in Cognition Lab at Stanford University studies the role of causal
 <!-- <br> -->
 <!-- <span style="color:#931512">We'll be starting our work in the Fall 2018. </span> -->
 
-We'll be starting our work in the Fall of 2018.
+We'll be starting our work in the fall of 2018.
