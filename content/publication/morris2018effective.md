@@ -1,6 +1,6 @@
 +++
 title = "Judgments of actual causation approximate the effectiveness of interventions"
-date = "2018-01-01"
+date = "2018-04-27"
 authors = ["A. Morris","J. Phillips","T. Icard","J. Knobe","T. Gerstenberg","F. Cushman"]
 publication_types = ["2"]
 publication_short = "_PsyArXiv_"
