@@ -218,10 +218,10 @@ defaultContentLanguageInSubdir = false
 	url = "#home"
 	weight = 1
 
-[[menu.main]]
-	name = "News"
-	url = "#news"
-	weight = 2
+# [[menu.main]]
+# 	name = "News"
+# 	url = "#news"
+# 	weight = 2
 
 [[menu.main]]
 	name = "People"
