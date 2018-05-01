@@ -40,9 +40,9 @@ publication_name = "T. Gerstenberg"
   institution = "University College London"
   #year = 2007-2008
 
-#[[education.courses]]
-  #course = "Vordiplom in Psychology, 2007"
-  #institution = "Humboldt University Berlin"
+[[education.courses]]
+  course = "Vordiplom in Psychology, 2007"
+  institution = "Humboldt University Berlin"
  
 +++
 
