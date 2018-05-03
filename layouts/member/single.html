@@ -1,0 +1,68 @@
+{{ partial "header.html" . }} {{ partial "navbar.html" . }} {{ $page := . }} {{ $pubs_len := len (where $.Site.RegularPages "Type" "publication") }}
+
+  <div class="container">
+  <div class="pub-title ">
+    <h1 itemprop="name">{{ .Params.title }}</h1>
+    <!-- <h2>{{ with .Params.position }}{{ . | markdownify }}{{ end }}</h2> -->
+  </div>
+  <div class='personal-container'>
+    <div class='personal-image-container'><img class= 'personal-image' src="/img/members/{{.Params.image}}" alt="Drawing" />
+      <div class='social-links'>
+{{if .Params.twitter}}
+        <a href="https://twitter.com/{{.Params.twitter}}" title="Twitter" target="_blank">
+    <i class="fa fa-twitter big-icon"></i>
+    </a> {{end}} {{if .Params.github}}
+        <a href="https://github.com/{{.Params.github}}" title="Github" target="_blank">
+    <i class="fa fa-github big-icon"></i>   
+    </a> {{end}} {{if .Params.scholar}}
+        <a href="https://scholar.google.com/{{.Params.scholar}}" title="Google Scholar" target="_blank">
+    <i class="ai ai-google-scholar big-icon"></i>
+    </a> {{end}} 
+        {{if .Params.email}}
+        <a href="mailto:{{.Params.email}}" title="E-Mail" target="_top">
+    <i class="fa fa-envelope big-icon"></i>
+    </a> {{end}} 
+    {{if .Params.cv}}
+        <a href="../../cv/{{.Params.cv}}" title="CV" target="_blank">
+    <!-- <i class="fa fa-file-text-o big-icon"></i> -->
+    <span class = 'cv big-icon'>CV</span> 
+    </a> {{end}}
+        <span class="stretch"></span>
+      </div>
+    </div>
+    <div class='personal-description'>
+      <!-- <p>{{ with .Params.description }}{{ . | markdownify }}{{ end }}</p>
+      <p>E-Mail: <a href="mailto:{{.Params.email}}" title="E-Mail" target="_top">{{.Params.email}}</a></p> -->
+      <div class="row">
+        {{ with .Params.education }}
+        <div class="col-sm-7 education">
+          <h3>{{ i18n "education" | markdownify }}</h3>
+          <ul class="ul-edu fa-ul">
+            {{ range .courses }}
+            <li>
+              <i class="fa-li fa fa-graduation-cap"></i>
+              <div class="description">
+                <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+                <p class="institution">{{ .institution }}</p>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }} 
+      </div>
+    </div>
+    <div class='spacer'></div>
+  </div>
+  {{ $page.Content }}
+  <br>
+      <div class="personal-publications">
+      <h2>Publications</h2> 
+      {{ if and (.Params.publication_type) (ne .Params.publication_type "-1") }} 
+      {{ $.Scratch.Set "recent_pubs" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice .Params.publication_type)) }} 
+      {{ else }} {{ $.Scratch.Set "recent_pubs" (where $.Site.RegularPages "Type" "publication") }} 
+      {{ end }} 
+      {{ $recent_pubs := $.Scratch.Get "recent_pubs" }} {{range $recent_pubs}}{{if in .Params.authors $page.Params.publication_name}}{{ partial "publication_li_apa" . }}{{ end }}{{ end }}
+    </div>
+</div>
+{{ partial "footer_container.html" . }} {{ partial "footer.html" . }}

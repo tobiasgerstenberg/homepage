@@ -46,6 +46,8 @@ publication_name = "T. Gerstenberg"
  
 +++
 
+<!-- I'm the PI of the lab.  -->
+
 You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at SPP2016.
 
 <!-- ## Teaching -->
