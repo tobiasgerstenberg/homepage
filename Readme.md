@@ -102,9 +102,9 @@ Here is a list of the key files to play around with:
 - `config.toml`: Configuration file 
 	+ navigation bar 
 	+ what's displayed on home page 
-- `homepage/themes/academic/layouts/`: 
+- `homepage/layouts`: 
 	+ contains subfolders files to adapt the different widgets 
-- `homepage/themes/academic/layouts/partials/css/academic.css`:
+- `homepage/layouts/partials/css/academic.css`:
 	+ css file to adapt any of the stylings 
 
 ## Some useful things 
