@@ -1,6 +1,6 @@
 +++
 title = "Lucky or clever? From changed expectations to responsibility judgments"
-date = "2018-05-8"
+date = "2018-05-08"
 authors = ["T. Gerstenberg","T. D. Ullman","J. Nagel","M. Kleiman-Weiner","D. A. Lagnado","J. B. Tenenbaum"]
 publication_types = ["2"]
 publication_short = "_Cognition_"
@@ -17,7 +17,9 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/tobiasgerstenberg/expectation_responsibility"},{name = "OSF", url = "https://osf.io/2x3ve/"}
+url_custom = [
+{name = "Github", url = "https://github.com/tobiasgerstenberg/expectation_responsibility"},
+{name = "OSF", url = "https://osf.io/2x3ve/"}
 ]
 math = true
 highlight = true
