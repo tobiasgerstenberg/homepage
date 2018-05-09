@@ -1,3 +1,7 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/tobiasgerstenberg/tobiasgerstenberg.github.io.git
+
+[submodule "academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
