@@ -140,7 +140,8 @@ defaultContentLanguageInSubdir = false
 		'Forthcoming',  # 3
 		'Technical report',  # 4
 		'Book',  # 5
-		'Book chapter'  # 6
+		'Book chapter',  # 6
+		'Preprint'  # 7
 	]
 
 	# Configuration of talk pages.
