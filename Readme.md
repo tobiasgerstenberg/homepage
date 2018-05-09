@@ -125,3 +125,6 @@ Here is a list of the key files to play around with:
 - [ ] update `parse_bib_cic.py` to incorporate citation in APA style 
 - [ ] handle papers that are forthcoming (allow them to be displayed without a year entry)
 - [ ] add year markers on the publication page 
+- [ ] change the ordering of the publication types (so that 'uncategorized' comes last)
+- [ ] add titles to the filters on the publication page
+
