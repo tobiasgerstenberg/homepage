@@ -115,6 +115,7 @@
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
   <meta property="og:description" content="{{ $scr.Get "description" }}">
+  <meta property="og:type" content="website">
   <!-- {{- with .Params.header.image }}<meta property="og:image" content="{{ printf "img/%s" . | absURL }}">{{end}} -->
   <!-- updated the image (check whether this works) -->
   <meta property="og:image" content="http://cicl.stanford.edu/img/cicl_logo_round.png"> 
