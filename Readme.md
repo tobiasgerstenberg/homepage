@@ -17,9 +17,11 @@ git clone --recursive -j8 https://github.com/tobiasgerstenberg/homepage.git
 git branch 
 cd public
 git branch 
+cd ../themes/academic
+git branch
 ```
-- if it shows that you're on the branch `master` for both of them you're fine 
-- otherwise just type `git checkout master` to change the branch 
+- if it shows that you're on the branch `master` for all three of them you're fine 
+- otherwise just type `git checkout master` to change the branch (in each of the three directories)
 
 ## Basic organization 
 
