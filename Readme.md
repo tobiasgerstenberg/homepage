@@ -2,6 +2,25 @@
 
 This is the github repo of Stanford's Causality in Cognition Lab homepage.  
 
+## Clone github repo
+
+- make a github account (here)[https://github.com/]  
+- ask Ari (aribeller@gmail.com)[aribeller@gmail.com] or me (gerstenberg@stanford.edu)[gerstenberg@stanford.edu] to be added as a collaborator to the repo 
+- go to your terminal and go to a directory where you'd like to clone the repository
+- run this command in your terminal: 
+```
+git clone --recursive -j8 https://github.com/tobiasgerstenberg/homepage.git
+```
+- check that you're on the master branch both in the root directory, as well as in the subfolder public
+- in the root director, run the following commands  
+```
+git branch 
+cd public
+git branch 
+```
+- if it shows that you're on the branch `master` for both of them you're fine 
+- otherwise just type `git checkout master` to change the branch 
+
 ## Basic organization 
 
 - `content`: contains markdown files used to render the page 
