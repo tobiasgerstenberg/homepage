@@ -1,5 +1,5 @@
 +++
-title = "Lucky or clever? From changed expectations to responsibility judgments"
+title = "Lucky or clever? From expectations to responsibility judgments"
 date = "2018-05-08"
 authors = ["T. Gerstenberg","T. D. Ullman","J. Nagel","M. Kleiman-Weiner","D. A. Lagnado","J. B. Tenenbaum"]
 publication_types = ["2"]
