@@ -116,7 +116,7 @@
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
   <meta property="og:description" content="{{ $scr.Get "description" }}">
   <!-- updated the image (check whether this works) -->
-  <meta property="og:image" content="static/img/cicl_logo_round.png"> 
+  <meta property="og:image" content="http://cicl.stanford.edu/img/cicl_logo_round.png"> 
   {{- with .Params.header.image }}<meta property="og:image" content="{{ printf "img/%s" . | absURL }}">{{end}}
   <meta property="og:locale" content="{{ .Site.LanguageCode | default "en-us" }}">
   {{ if .IsPage }}
