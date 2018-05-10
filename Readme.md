@@ -4,8 +4,8 @@ This is the github repo of Stanford's Causality in Cognition Lab homepage.
 
 ## Clone github repo
 
-- make a github account (here)[https://github.com/]  
-- ask Ari (aribeller@gmail.com)[aribeller@gmail.com] or me (gerstenberg@stanford.edu)[gerstenberg@stanford.edu] to be added as a collaborator to the repo 
+- make a github account [here](https://github.com/)
+- ask Ari [aribeller@gmail.com](aribeller@gmail.com) or me [gerstenberg@stanford.edu](gerstenberg@stanford.edu) to be added as a collaborator to the repo 
 - go to your terminal and go to a directory where you'd like to clone the repository
 - run this command in your terminal: 
 ```
