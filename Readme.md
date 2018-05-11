@@ -36,10 +36,17 @@ git branch
 
 If you have any trouble getting things to work, feel free to post an issue on the github repo. 
 
-To submit any changes you've made, navigate to the root directory of the homepage in your terminal and run:
+
+First navigate to the root directory of the homepage in your terminal. To pull the most recent changes from the github repository by running: 
 
 ```
-bash publish.sh 'message'
+bash download.sh 
+```
+
+To submit any changes you've made, run:
+
+```
+bash upload.sh 'message'
 ```
 
 Please type a 'message' that communicates what changes you've made. 
