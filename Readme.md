@@ -36,7 +36,6 @@ git branch
 
 If you have any trouble getting things to work, feel free to post an issue on the github repo. 
 
-
 First navigate to the root directory of the homepage in your terminal. To pull the most recent changes from the github repository by running: 
 
 ```
@@ -143,6 +142,10 @@ Here is a list of the key files to play around with:
 - markdown: `# comment`
 - css: `/* comment */`
 - hugo: `// comment`
+
+### Bibtex 
+
+- For the abstracts in the bibtex files, make sure to typeset `"` as `''` (i.e. with two separate quote marks). Otherwise, the metadata in the corresponding `publication.md` file is incorrect. 
 
 ## Tutorial links 
 
