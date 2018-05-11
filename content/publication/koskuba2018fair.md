@@ -17,7 +17,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/tobiasgerstenberg/whats_fair"}]
+url_custom = [
+{name = "Github", url = "https://github.com/tobiasgerstenberg/whats_fair"},
+{name = "OSF", url = "https://osf.io/4s6vb/"}
+]
 math = true
 highlight = true
 [header]
