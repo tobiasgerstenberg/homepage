@@ -36,10 +36,16 @@ git branch
 
 If you have any trouble getting things to work, feel free to post an issue on the github repo. 
 
-To submit any changes you've made, navigate to the root directory of the homepage in your terminal and run:
+First navigate to the root directory of the homepage in your terminal. To pull the most recent changes from the github repository by running: 
 
 ```
-bash publish.sh 'message'
+bash download.sh 
+```
+
+To submit any changes you've made, run:
+
+```
+bash upload.sh 'message'
 ```
 
 Please type a 'message' that communicates what changes you've made. 
@@ -136,6 +142,10 @@ Here is a list of the key files to play around with:
 - markdown: `# comment`
 - css: `/* comment */`
 - hugo: `// comment`
+
+### Bibtex 
+
+- For the abstracts in the bibtex files, make sure to typeset `"` as `''` (i.e. with two separate quote marks). Otherwise, the metadata in the corresponding `publication.md` file is incorrect. 
 
 ## Tutorial links 
 
