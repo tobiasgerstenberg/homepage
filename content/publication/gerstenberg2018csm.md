@@ -1,6 +1,6 @@
 +++
 title = "A counterfactual simulation model of causal judgment"
-date = "2017-01-01"
+date = "2018-01-01"
 authors = ["T. Gerstenberg","N. D. Goodman","D. A. Lagnado","J. B. Tenenbaum"]
 publication_types = ["2"]
 publication_short = "_in preparation_"
