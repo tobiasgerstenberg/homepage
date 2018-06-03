@@ -18,6 +18,7 @@ import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 import os, sys, getopt
+from citation_generator import construct_citation
 
 def RepresentsInt(s):
     try:
@@ -169,9 +170,10 @@ if __name__ == "__main__":
                     the_file.write('publication_short = "_'+supetrim(entry['school'])+'_"\n')
                 elif 'institution' in entry:
                     the_file.write('publication_short = "_'+supetrim(entry['institution'])+'_"\n')
-                    
+                
                 # I never put the short version. In the future I will use a dictionary like the authors to set the acronyms of important conferences and journals
-                the_file.write('publication = ""\n')
+                # Not sure what the above comment is about. This adds the citation to the markdown file
+                the_file.write('publication = ' + construct_citation(entry) + '\n')
                 
                 # Add the abstract if it's available in the bibtex
                 if 'abstract' in entry:
