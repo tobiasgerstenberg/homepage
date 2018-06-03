@@ -26,6 +26,17 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 #[[member]]
+#	id = "[Ari Beller](/member/ari_beller)"
+#	position = "PhD student"
+#	image = "portrait.jpg"
+#	email = "gerstenberg@stanford.edu"
+#	twitter = "tobigerstenberg"
+#	github = "tobiasgerstenberg"
+#	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
+#	cv = "tobias_gerstenberg.pdf"
+#	description = "I am interested in things."
+
+#[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
 	#position = "PhD student"
 	#image = "portrait.jpg"
