@@ -50,6 +50,5 @@ publication_name = "T. Gerstenberg"
 
 You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at SPP2016.
 
-<!-- ## Teaching -->
 ## Publications
 
