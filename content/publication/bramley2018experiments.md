@@ -1,6 +1,6 @@
 +++
 title = "Intuitive experimentation in the physical world"
-date = "2018-06-6"
+date = "2018-06-06"
 authors = ["N. R. Bramley","T. Gerstenberg","J. B. Tenenbaum","T. M. Gureckis"]
 publication_types = ["2"]
 publication_short = "Cognitive Psychology"
