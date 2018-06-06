@@ -37,7 +37,3 @@ publication_name = "A. Beller"
  
 +++
 
-<!-- I'm the PI of Causality in Cognition lab (CICL). We at CICL study how  -->
-
-<!-- ## Teaching -->
-
