@@ -37,5 +37,3 @@ publication_name = "A. Beller"
  
 +++
 
-cool
-
