@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = false
 	email = "gerstenberg@stanford.edu"
 	address = "Stanford University"
 
-	members = ["T. Gerstenberg"]
+	members = ["T. Gerstenberg", "A. Beller"]
 	
 	# Color theme.
 	#   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
@@ -219,10 +219,10 @@ defaultContentLanguageInSubdir = false
 	url = "#home"
 	weight = 1
 
-# [[menu.main]]
-# 	name = "News"
-# 	url = "#news"
-# 	weight = 2
+#[[menu.main]]
+	#name = "News"
+	#url = "#news"
+	#weight = 2
 
 [[menu.main]]
 	name = "People"
