@@ -1,6 +1,6 @@
 +++
 title = "Intervening in time"
-date = "2018-01-01"
+date = "2018-06-08"
 authors = ["N. R. Bramley","T. Gerstenberg","R. Mayrhofer","D. A. Lagnado"]
 publication_types = ["6"]
 publication_short = "_submitted_"
