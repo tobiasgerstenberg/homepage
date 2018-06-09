@@ -51,14 +51,24 @@ def construct_citation(entry):
 	# but can check
 	entry = {k:strip_brackets(v) for k,v in entry.items()}
 
-	authors = format_authors(entry['author'])
-	citation = authors + '(' + entry['year'] + '). ' + entry['title']
+	authors = format_authors(entry['author']) if 'author' in entry else ''
+	year = entry['year'] if 'year' in entry else ''
+	title = entry['title'] if 'title' in entry else ''
+	citation = authors + '(' + year + '). ' + title
 
 	if entry['ENTRYTYPE'] == 'article':
 		# handle cases with unpublished papers
 		volume = ', ' + entry['volume'] if 'volume' in entry else ''
 		pages = ', ' + entry['pages'] if 'pages' in entry else ''
-		journal = '. In _' + entry['journal'] + '_' if entry['journal'].lower() != 'submitted' else '. Submitted'
+
+		# submitted special case?
+		journal = ''
+		if 'journal' in entry:
+			if entry['journal'] != 'submitted':
+				journal = '. In _' + entry['journal'] + '_'
+			else:
+				journal = '. submitted'
+		# journal = '. In _' + entry['journal'] + '_' if entry['journal'].lower() != 'submitted' else '. Submitted'
 		journal = journal.replace('\\', '')
 
 		citation = citation + journal + volume + pages + '.'
@@ -75,7 +85,7 @@ def construct_citation(entry):
 
 	elif entry['ENTRYTYPE'] == 'incollection':
 		# fill in citation generation for in colleciton
-		book = '. In _' + entry['booktitle'] + '_'
+		book = '. In _' + entry['booktitle'] + '_' if 'booktitle' in entry else ''
 		pages = ' (pp. ' + entry['pages'] + ')' if 'pages' in entry else ''
 		publisher = '. ' + entry['publisher'] if 'publisher' in entry else ''
 
