@@ -52,9 +52,9 @@ def construct_citation(entry):
 	entry = {k:strip_brackets(v) for k,v in entry.items()}
 
 	authors = format_authors(entry['author']) if 'author' in entry else ''
-	year = entry['year'] if 'year' in entry else ''
-	title = entry['title'] if 'title' in entry else ''
-	citation = authors + '(' + year + '). ' + title
+	year = '(' + entry['year'] + ')' if 'year' in entry else ''
+	title = '. ' + entry['title'] if 'title' in entry else ''
+	citation = authors + year + title
 
 	if entry['ENTRYTYPE'] == 'article':
 		# handle cases with unpublished papers
@@ -75,7 +75,7 @@ def construct_citation(entry):
 
 	elif entry['ENTRYTYPE'] == 'inproceedings':
 		# strange case Rational order effects in responsibility attributions
-		conference = '. In _' + entry['booktitle'] + '_'
+		conference = '. In _' + entry['booktitle'] + '_' if 'booktitle' in entry else ''
 		address = ', ' + entry['address'] if 'address' in entry else ''
 		year = ', ' + entry['year'] if 'year' in entry else ''
 		pages = ' (pp. ' + entry['pages'] + ')' if 'pages' in entry else ''
