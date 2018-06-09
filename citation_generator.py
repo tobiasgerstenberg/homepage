@@ -52,7 +52,7 @@ def construct_citation(entry):
 	entry = {k:strip_brackets(v) for k,v in entry.items()}
 
 	authors = format_authors(entry['author']) if 'author' in entry else ''
-	year = '(' + entry['year'] + ')' if 'year' in entry else ''
+	year = ' (' + entry['year'] + ')' if 'year' in entry else ''
 	title = '. ' + entry['title'] if 'title' in entry else ''
 	citation = authors + year + title
 
