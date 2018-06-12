@@ -134,7 +134,7 @@ defaultContentLanguageInSubdir = false
 	#   The language can be edited below.
 	#   For multi-lingual sites, copy this block to each language section at the end of this file.
 	publication_types = [
-		'Uncategorized',  # 0
+		'Thesis',  # 0
 		'Conference proceedings',  # 1
 		'Journal',  # 2
 		'Forthcoming',  # 3
