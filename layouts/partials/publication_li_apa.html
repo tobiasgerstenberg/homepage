@@ -6,7 +6,7 @@
     {{- end -}}
   </span>
   {{ if in .Params.publication_types "3"}}
-    (unpublished).
+    ({{.Params.year}}).
   {{ else }}
     ({{- .Date.Format "2006" -}}).
   {{ end }}
