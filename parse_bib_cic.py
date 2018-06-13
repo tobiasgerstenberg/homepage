@@ -213,13 +213,13 @@ if __name__ == "__main__":
                 #     the_file.write('award = "true"\n')
                 
                 # I put the individual .bib entry to a file with the same name as the .md to create the CITE option
-                db = BibDatabase()
-                db.entries =[entry]
-                writer = BibTexWriter()
-                with open('static/files/citations/'+supetrim(entry['ID']+'.bib'), 'w', encoding="utf8") as bibfile:
-                    bibfile.write(writer.write(db))
+                # db = BibDatabase()
+                # db.entries =[entry]
+                # writer = BibTexWriter()
+                # with open('static/files/citations/'+supetrim(entry['ID']+'.bib'), 'w', encoding="utf8") as bibfile:
+                #     bibfile.write(writer.write(db))
 
-                the_file.write('+++\n\n')
+                # the_file.write('+++\n\n')
                 
                 # Any notes are copied to the main document
                 if 'note' in entry:
