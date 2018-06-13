@@ -132,7 +132,7 @@ Here is a list of the key files to play around with:
 	+ what's displayed on home page 
 - `homepage/layouts`: 
 	+ contains subfolders with files to adapt the different widgets and pages
-- `homepage/layouts/partials/css/academic.css`:
+- `/static/css/custom.css`:
 	+ css file to adapt any of the stylings 
 
 ## Some useful things to know
