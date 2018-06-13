@@ -1,6 +1,6 @@
 +++
 title = "The role of time in causal learning"
-date = "2018-02-28"
+date = "2018-06-04"
 year = "in press"
 authors = ["N. R. Bramley", "T. Gerstenberg", "R. Mayrhofer", "D. A. Lagnado"]
 publication_types = ["3"]
