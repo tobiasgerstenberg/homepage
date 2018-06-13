@@ -4,7 +4,7 @@ date = "2018-06-04"
 year = "in press"
 authors = ["N. R. Bramley", "T. Gerstenberg", "R. Mayrhofer", "D. A. Lagnado"]
 publication_types = ["3"]
-publication = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_ (in press)"
+publication = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 publication_short = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 image_preview = ""
 selected = false
@@ -15,7 +15,7 @@ abstract= "A large body of research has explored how the time between two events
 
 # Links (optional).
 url_pdf = "papers/bramley2018time.pdf"
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/uvfsr"
 url_code = ""
 url_dataset = ""
 url_project = ""
