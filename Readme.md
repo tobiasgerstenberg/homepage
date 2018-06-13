@@ -2,7 +2,7 @@
 
 This is the github repo of Stanford's Causality in Cognition Lab homepage.  
 
-## Clone github repo
+## Initial setup
 
 - make a github account [here](https://github.com/)
 - ask Ari [aribeller@gmail.com](mailto:aribeller@gmail.com) or Tobi [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu) to be added as a collaborator to the repo 
@@ -54,7 +54,7 @@ Please type a 'message' that communicates what changes you've made.
 
 #### Add your picture
 
-- Make sure that the image is not too large. 
+- Make sure that the image is not too large (ideally smaller than 1mb).
 - Ideally, it should be square. 
 - Name the picture `firstname_lastname.jpg` and put it into `static/img/members/`. 
 
@@ -130,11 +130,11 @@ Here is a list of the key files to play around with:
 	+ navigation bar 
 	+ what's displayed on home page 
 - `homepage/layouts`: 
-	+ contains subfolders files to adapt the different widgets 
+	+ contains subfolders with files to adapt the different widgets and pages
 - `homepage/layouts/partials/css/academic.css`:
 	+ css file to adapt any of the stylings 
 
-## Some useful things 
+## Some useful things to know
 
 ### Commenting 
 
