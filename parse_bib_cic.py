@@ -19,6 +19,7 @@ from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 import os, sys, getopt
 from citation_generator import construct_citation
+import datetime
 
 def RepresentsInt(s):
     try:
@@ -118,16 +119,26 @@ if __name__ == "__main__":
                 #print('Parsing ' + entry['ID'])
                 
                 if 'year' in entry:
-                    date = entry['year']
-                    if 'month' in entry:
-                        if RepresentsInt(entry['month']):
-                            month = entry['month']
+                    yr = entry['year']
+                    if RepresentsInt(yr):
+                        date = yr
+                        if 'month' in entry:
+                            if RepresentsInt(entry['month']):
+                               month = entry['month']
+                            else:
+                               month = str(month_string_to_number(entry['month']))
+                            date = date+'-'+ month.zfill(2)
                         else:
-                            month = str(month_string_to_number(entry['month']))
-                        date = date+'-'+ month.zfill(2)
+                           date = date+'-01'
+                        the_file.write('date = "'+date+'-01"\n')
                     else:
-                        date = date+'-01'
-                    the_file.write('date = "'+date+'-01"\n')
+                        dt = datetime.datetime.now()
+                        date = str(dt.year) + '-' + str(dt.month) + '-' + str(dt.day)
+                        the_file.write('date = "'+date+'"\n')
+                else:
+                        dt = datetime.datetime.now()
+                        date = str(dt.year) + '-' + str(dt.month) + '-' + str(dt.day)
+                        the_file.write('date = "'+date+'"\n')
                     
                 # Treating the authors
                 if 'author' in entry:
@@ -150,16 +161,29 @@ if __name__ == "__main__":
                 
                 # Treating the publication type
                 if 'ENTRYTYPE' in entry:
-                    if 'booktitle' in entry and ('Seminar' in supetrim(entry['booktitle'])):
-                        the_file.write('publication_types = ['+pubtype_dict['PW']+']\n')
-                    elif 'booktitle' in entry and ('Workshop' in supetrim(entry['booktitle'])):
-                        the_file.write('publication_types = ['+pubtype_dict['conference']+']\n')
-                    elif 'note' in entry and ('review' in supetrim(entry['note'])):
-                        the_file.write('publication_types = ['+pubtype_dict['submitted']+']\n')
-                    elif 'note' in entry and ('Conditional' in supetrim(entry['note'])):
-                        the_file.write('publication_types = ['+pubtype_dict['submitted']+']\n')
-                    else:
-                        the_file.write('publication_types = ['+pubtype_dict[entry['ENTRYTYPE']]+']\n')
+                    # This type of treatment seems like overkill given what we want to achieve
+                    # All we need to check is the ENTRYTYPE and then add whether it is forthcoming
+
+                    # if 'booktitle' in entry and ('Seminar' in supetrim(entry['booktitle'])):
+                    #     the_file.write('publication_types = ['+pubtype_dict['PW']+']\n')
+                    # elif 'booktitle' in entry and ('Workshop' in supetrim(entry['booktitle'])):
+                    #     the_file.write('publication_types = ['+pubtype_dict['conference']+']\n')
+                    # elif 'note' in entry and ('review' in supetrim(entry['note'])):
+                    #     the_file.write('publication_types = ['+pubtype_dict['submitted']+']\n')
+                    # elif 'note' in entry and ('Conditional' in supetrim(entry['note'])):
+                    #     the_file.write('publication_types = ['+pubtype_dict['submitted']+']\n')
+                    # else:
+                    #     the_file.write('publication_types = ['+pubtype_dict[entry['ENTRYTYPE']]+']\n')
+                    pub_type_entry = 'publication_types = [' + pubtype_dict[entry['ENTRYTYPE']] + ']\n'
+                    if 'year' in entry:
+                        if not RepresentsInt(entry['year']):
+                            pub_type_entry = pub_type_entry.replace('[', '[' + pubtype_dict['submitted'] + ', ')
+
+                    the_file.write(pub_type_entry)
+
+                else:
+                    the_file.write('publication_types = [' + pubtype_dict[entry['Uncategorized']] + ']\n')
+
                 
                 # Treating the publication journal, conference, etc.
                 if 'booktitle' in entry:
@@ -205,7 +229,7 @@ if __name__ == "__main__":
                 the_file.write('math = true\n')
                 the_file.write('highlight = true\n')
                 the_file.write('[header]\n')
-                the_file.write('# image = "publications/' + entry['ID']+ '.pdf"\n')
+                the_file.write('# image = "publications/' + entry['ID']+ '.png"\n')
                 the_file.write('caption = ""\n')
                 
                 # I keep in my bibtex file a parameter called award for publications that received an award (e.g., best paper, etc.)
@@ -225,3 +249,4 @@ if __name__ == "__main__":
                 if 'note' in entry:
                     strTemp = supetrim(entry['note'])
                     the_file.write(strTemp + "\n")
+                the_file.write('+++')
