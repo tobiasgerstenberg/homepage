@@ -18,10 +18,9 @@
 				{{ $.Scratch.SetInMap "years" $year $year }}
 			{{ end }}
 
-			<p style="margin-left:13px;">
+			<p style="margin-left:5px;">
 				Filters: 
 				<select class="pub-filters pubtype-select" data-filter-group="pubtype">
-					<!-- <option value="*">{{ i18n "filter_all" }}</option> -->
 					<option value="*">{{ i18n "filter_all" }}</option>
 					{{ range $index, $taxonomy := .Site.Taxonomies.publication_types }}
 					<option value=".pubtype-{{ (int $index) }}">
@@ -49,7 +48,6 @@
 					</option>
 					{{ end }}
 				</select>
-
 			</p>
 
 			<div id="container-publications">
