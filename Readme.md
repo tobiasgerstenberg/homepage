@@ -25,6 +25,53 @@ git branch
 
 ## Folder organization 
 
+```
+├── archetypes
+├── content
+│   ├── home
+│   ├── member
+│   ├── news
+│   └── publication
+├── layouts
+│   ├── member
+│   ├── partials
+│   ├── publication
+│   ├── section
+│   └── shortcodes
+├── parser_tests
+├── public
+│   ├── bibtex
+│   ├── categories
+│   ├── css
+│   ├── cv
+│   ├── data
+│   ├── demos
+│   ├── files
+│   ├── home
+│   ├── img
+│   ├── js
+│   ├── member
+│   ├── members
+│   ├── news
+│   ├── papers
+│   ├── posters
+│   ├── publication
+│   ├── publication_types
+│   └── tags
+├── static
+│   ├── bibtex
+│   ├── css
+│   ├── cv
+│   ├── data
+│   ├── demos
+│   ├── img
+│   ├── js
+│   ├── papers
+│   └── posters
+└── themes
+    └── academic
+ ```
+
 - `content`: contains markdown files used to render the page 
 	+ `home`: all widgets displayed on the first page 
 	+ `member`: individual markdown file for each lab member 
