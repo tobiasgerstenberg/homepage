@@ -1,3 +1,4 @@
+<!-- {{ printf "%#v" (index $.Site.Params.members 0)  }} -->
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
@@ -18,8 +19,11 @@
 				{{ $.Scratch.SetInMap "years" $year $year }}
 			{{ end }}
 
-			<p style="margin-left:5px;">
-				Filters: 
+			<!-- <p style="margin-left:5px;"> -->
+<!-- 				Filters:  -->
+<div id = 'filter_container'>
+	<div class = 'filter'>
+				Publication type:
 				<select class="pub-filters pubtype-select" data-filter-group="pubtype">
 					<option value="*">{{ i18n "filter_all" }}</option>
 					{{ range $index, $taxonomy := .Site.Taxonomies.publication_types }}
@@ -28,17 +32,10 @@
 					</option>
 					{{ end }}
 				</select>
-
-				<!-- Still needs fixing -->
-				<!-- <select class="pub-filters" data-filter-group="author">
-					<option value="*">{{ i18n "filter_all" }}</option>
-					{{ range $index, $members := $.Site.Params.members }}
-					<option value=".author-{{ (int $index) }}">
-						{{index $.Site.Params.members (int $index)}}
-					</option>
-					{{ end }}
-				</select> -->
-
+			</div>
+			
+				<div class = 'filter'>
+					Year: 
 				<select class="pub-filters" data-filter-group="year">
 					<option value="*">{{ i18n "filter_all" }}</option>
 					{{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
@@ -48,7 +45,24 @@
 					</option>
 					{{ end }}
 				</select>
-			</p>
+				</div>
+
+				<!-- Still needs fixing -->
+				<!-- <div class = 'filter'>
+					Author: 
+				<select class="pub-filters" data-filter-group="author">
+					<option value="*">{{ i18n "filter_all" }}</option>
+					{{ range $index, $members := $.Site.Params.members }}
+					<option value=".author-{{ $index}}">
+						{{index $.Site.Params.members (int $index)}}
+					</option>
+					{{ end }}
+				</select>
+				</div> -->
+	</div>
+
+	<!-- <div class = 'spacer'></div> -->
+	<hr>
 
 			<div id="container-publications">
 				{{ range .Pages.ByDate.Reverse }}
@@ -58,7 +72,6 @@
 				{{ else }}
 					{{ $.Scratch.Set "pubtype" 0 }}
 				{{ end }}
-
 
 				<!-- Only list papers in which T. Gerstenberg is a co-author -->
 				{{if in .Params.authors "T. Gerstenberg"}}
@@ -75,6 +88,7 @@
 					{{ end }}
 				</div>
 				{{ end }}
+				
 				{{ end }}
 			</div>
 

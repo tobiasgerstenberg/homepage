@@ -3,6 +3,7 @@ title = "Intervening in time"
 date = "2018-06-08"
 year = "submitted"
 authors = ["N. R. Bramley","T. Gerstenberg","R. Mayrhofer","D. A. Lagnado"]
+#authors = ["0"]
 publication_types = ["3"]
 publication_short = ""
 publication = ""

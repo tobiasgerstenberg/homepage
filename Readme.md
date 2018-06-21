@@ -70,7 +70,7 @@ git branch
 │   └── posters
 └── themes
     └── academic
- ```
+```
 
 - `content`: contains markdown files used to render the page 
 	+ `home`: all widgets displayed on the first page 

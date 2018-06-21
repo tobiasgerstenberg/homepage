@@ -774,6 +774,21 @@ article {
   margin: 0 auto 0 auto;
 }
 
+#filter_container{
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.filter{
+  margin-left: 1%;
+  padding-left: 1%;
+  float: left;
+}
+
+
 .publication-image{
   width:  300px;
   margin: 0 auto 0 auto;
