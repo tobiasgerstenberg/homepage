@@ -1,10 +1,18 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Intervening in time"
 date = "2018-06-08"
 year = "submitted"
 authors = ["N. R. Bramley","T. Gerstenberg","R. Mayrhofer","D. A. Lagnado"]
 #authors = ["0"]
-publication_types = ["3"]
+publication_types = ["0"]
 publication_short = ""
 publication = ""
 abstract = "Much of what we know about the world comes from acting on it, and observing the consequences of our actions. In the literature, causal learning from interventions and from observing temporal dynamics have largely received separate attention due to the different datasets they are usually applied to. However, we argue that in human cognition, interventions and temporal dynamics are inseparable. We trace how causal inference tools developed in data science have been applied to understanding human causal learning and reasoning, highlight the current shortcomings of both intervention-based and time-based approaches taken separately, and describe recent work that starts to bring the two together. We end by sketching an account of interventional and temporal evidence as constituents of a unified online causal learning process."

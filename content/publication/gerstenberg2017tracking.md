@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Eye-tracking causality"
 date = "2017-10-01"
 authors = ["T. Gerstenberg","M. Peterson","N. D. Goodman","D. A. Lagnado","J. B. Tenenbaum"]

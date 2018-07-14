@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Causal conceptions in social explanation and moral evaluation: A historical tour"
 date = "2015-01-01"
 authors = ["M. D. Alicke","D. R. Mandel","D. Hilton","T. Gerstenberg","D. A. Lagnado"]

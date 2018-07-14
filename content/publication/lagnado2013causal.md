@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Causal responsibility and counterfactuals"
 date = "2013-01-01"
 authors = ["D. A. Lagnado","T. Gerstenberg","R. Zultan"]

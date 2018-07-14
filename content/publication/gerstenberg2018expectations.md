@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Lucky or clever? From expectations to responsibility judgments"
 date = "2018-05-08"
 authors = ["T. Gerstenberg","T. D. Ullman","J. Nagel","M. Kleiman-Weiner","D. A. Lagnado","J. B. Tenenbaum"]

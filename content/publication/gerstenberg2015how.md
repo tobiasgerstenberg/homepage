@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "How, whether, why: Causal judgments as counterfactual contrasts"
 date = "2015-01-01"
 authors = ["T. Gerstenberg","N. D. Goodman","D. A. Lagnado","J. B. Tenenbaum"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 37th Annual Conference of the Cognitive Science Society_"
 publication = "Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2015). How, whether, why: Causal judgments as counterfactual contrasts. In Proceedings of the 37th _Annual Conference of the Cognitive Science Society_, Austin, TX, 2015 (pp. 782-787). Cognitive Science Society."
 image_preview = ""

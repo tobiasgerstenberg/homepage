@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Marbles in inaction: Counterfactual simulation and causation by omission"
 date = "2017-01-01"
 authors = ["S. Stephan","P. Willemsen","T. Gerstenberg"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 39th Annual Conference of the Cognitive Science Society_"
 publication = "Stephan, S., Willemsen, P., & Gerstenberg, T. (2017). Marbles in inaction: Counterfactual simulation and causation by omission. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society_, Austin, TX, 2017 (pp. 1132-1137). Cognitive Science Society."
 image_preview = ""

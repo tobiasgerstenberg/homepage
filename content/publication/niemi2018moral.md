@@ -1,9 +1,17 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Moral values pervade implicit and explicit causal attribution: Evidence from basic language processing"
 date = "2018-06-06"
 year = "submitted"
 authors = ["L. Niemi", "J. Hartshorne", "T. Gerstenberg", "L. Young"]
-publication_types = ["3"]
+publication_types = ["0"]
 publication = ""
 publication_short = ""
 image_preview = ""

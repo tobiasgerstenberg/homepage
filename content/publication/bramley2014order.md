@@ -1,8 +1,17 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
+
 title = "The order of things: Inferring causal structure from temporal patterns"
 date = "2014-01-01"
 authors = ["N. R. Bramley","T. Gerstenberg","D. A. Lagnado"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 36th Annual Conference of the Cognitive Science Society_"
 publication = "Bramley, N., Gerstenberg, T., & Lagnado, D. A. (2014). The order of things: Inferring causal structure from temporal patterns. In _Proceedings of the 36th Annual Conference of the Cognitive Science Society_, Austin, TX, 2014 (pp. 236-241). Cognitive Science Society."
 image_preview = ""

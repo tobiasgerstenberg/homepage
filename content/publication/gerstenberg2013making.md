@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Making a difference: Responsibility, causality, and counterfactuals"
 date = "2013-01-01"
 authors = ["T. Gerstenberg"]
-publication_types = ["0"]
+publication_types = ["5"]
 publication_short = "_Unpublished PhD thesis_"
 publication = "Gerstenberg, T. (2013). Making a difference: Responsibility, causality, and counterfactuals. _Unpublished PhD thesis_. "
 image_preview = ""

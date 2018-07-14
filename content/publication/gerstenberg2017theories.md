@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Intuitive Theories"
 date = "2017-01-01"
 authors = ["T. Gerstenberg","J. B. Tenenbaum"]
-publication_types = ["6"]
+publication_types = ["4"]
 publication_short = "_Oxford Handbook of Causal Reasoning_"
 publication = "Gerstenberg, T. & Tenenbaum, J. B. (2017). Intuitive Theories. In _Oxford Handbook of Causal Reasoning_ (pp. 515-548). Oxford University Press."
 image_preview = ""

@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Blame the skilled"
 date = "2011-01-01"
 authors = ["T. Gerstenberg","A. Ejova","D. A. Lagnado"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 33rd Annual Conference of the Cognitive Science Society_"
 publication = "Gerstenberg, T., Ejova, A., & Lagnado, D. A. (2011). Blame the skilled. In _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_ (pp. 720-725). Austin, TX: Cognitive Science Society."
 image_preview = ""

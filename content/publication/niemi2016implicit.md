@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Implicit measurement of motivated causal attribution"
 date = "2016-01-01"
 authors = ["L. Niemi","J. Hartshorne","T. Gerstenberg","L. Young"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 38th Annual Conference of the Cognitive Science Society_"
 publication = "Niemi, L., Hartshorne, J., Gerstenberg, T., & Young, L. (2016). Implicit measurement of motivated causal attribution. In _Proceedings of the 38th Annual Conference of the Cognitive Science Society_, Austin, TX, 2016 (pp. 1745-1750). Cognitive Science Society."
 image_preview = ""

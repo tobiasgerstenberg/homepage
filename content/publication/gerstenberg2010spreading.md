@@ -1,17 +1,17 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Spreading the blame: The allocation of responsibility amongst multiple agents"
 date = "2010-01-01"
 
 authors = ["T. Gerstenberg", "D. A. Lagnado"]
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Forthcoming
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.

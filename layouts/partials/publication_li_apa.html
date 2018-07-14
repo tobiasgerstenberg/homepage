@@ -5,7 +5,7 @@
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
   </span>
-  {{ if in .Params.publication_types "3"}}
+  {{ if in .Params.publication_types "0"}}
     ({{.Params.year}}).
   {{ else }}
     ({{- .Date.Format "2006" -}}).

@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Attributing responsibility: Actual and counterfactual worlds"
 date = "2014-01-01"
 authors = ["T. Gerstenberg","D. A. Lagnado"]
-publication_types = ["6"]
+publication_types = ["4"]
 publication_short = "_Oxford Studies in Experimental Philosophy_"
 publication = "Gerstenberg, T. & Lagnado, D. A. (2014). Attributing responsibility: Actual and counterfactual worlds. In _Oxford Studies in Experimental Philosophy_ (pp. 91-130). Oxford University Press."
 image_preview = ""
