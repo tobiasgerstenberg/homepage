@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Intuitive experimentation in the physical world"
 date = "2018-06-01"
 authors = ["N. R. Bramley","T. Gerstenberg","J. B. Tenenbaum","T. M. Gureckis"]

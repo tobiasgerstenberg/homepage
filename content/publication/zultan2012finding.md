@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Finding fault: Counterfactuals and causality in group attributions"
 date = "2012-01-01"
 authors = ["R. Zultan","T. Gerstenberg","D. A. Lagnado"]

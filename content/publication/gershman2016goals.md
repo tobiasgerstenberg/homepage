@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Plans, habits, and theory of mind"
 date = "2016-01-01"
 authors = ["S. J. Gershman* ","T. Gerstenberg* ","C. L. Baker","F. Cushman"]

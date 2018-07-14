@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Physical problem solving: Joint planning with symbolic, geometric, and dynamic constraints"
 date = "2017-01-01"
 authors = ["I. Yildirim","T. Gerstenberg","B. Saeed","M. Toussant","J. B. Tenenbaum"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 39th Annual Conference of the Cognitive Science Society_"
 publication = "Yildirim, I., Gerstenberg, T., Saeed, B., Toussant, M., & Tenenbaum, J. B. (2017). Physical problem solving: Joint planning with symbolic, geometric, and dynamic constraints. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society_, Austin, TX, 2017 (pp. 3584-3589). Cognitive Science Society."
 image_preview = ""

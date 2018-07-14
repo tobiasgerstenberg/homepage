@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "The dice are cast: The role of intended versus actual contributions in responsibility attribution"
 date = "2010-01-01"
 authors = ["T. Gerstenberg","D. A. Lagnado","Y. Kareev"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 32nd Annual Conference of the Cognitive Science Society_"
 publication = "Gerstenberg, T., Lagnado, D. A., & Kareev, Y. (2010). The dice are cast: The role of intended versus actual contributions in responsibility attribution. In _Proceedings of the 32nd Annual Conference of the Cognitive Science Society_ (pp. 1697-1702). Austin, TX: Cognitive Science Society."
 image_preview = ""

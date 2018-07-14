@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "What's fair? How children assign reward to members of teams with differing causal structures"
 date = "2018-04-30"
 authors = ["K. Koskuba","T. Gerstenberg","H. Gordon","D. A. Lagnado","A. Schlottmann"]

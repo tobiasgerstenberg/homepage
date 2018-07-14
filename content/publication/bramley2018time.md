@@ -1,9 +1,17 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Time in causal structure learning"
 date = "2018-06-04"
 year = "in press"
 authors = ["N. R. Bramley", "T. Gerstenberg", "R. Mayrhofer", "D. A. Lagnado"]
-publication_types = ["3"]
+publication_types = ["0", "2"]
 publication = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 publication_short = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 image_preview = ""

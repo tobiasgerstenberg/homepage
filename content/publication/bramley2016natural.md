@@ -1,8 +1,17 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
+
 title = "Natural science: Active learning in dynamic physical microworlds"
 date = "2016-01-01"
 authors = ["N. R. Bramley","T. Gerstenberg","J. B. Tenenbaum"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 38th Annual Conference of the Cognitive Science Society_"
 publication = "Bramley, N., Gerstenberg, T., & Tenenbaum, J. B. (2016). Natural science: Active learning in dynamic physical microworlds. In _Proceedings of the 38th Annual Conference of the Cognitive Science Society_, Austin, TX, 2016 (pp. 2567--2572). Cognitive Science Society."
 image_preview = ""

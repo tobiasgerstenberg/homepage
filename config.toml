@@ -134,14 +134,12 @@ defaultContentLanguageInSubdir = false
 	#   The language can be edited below.
 	#   For multi-lingual sites, copy this block to each language section at the end of this file.
 	publication_types = [
-		'Thesis',  # 0
-		'Conference proceedings',  # 1
+		'Forthcoming',  # 0
+		'Preprint', # 1
 		'Journal',  # 2
-		'Forthcoming',  # 3
-		'Technical report',  # 4
-		'Book',  # 5
-		'Book chapter',  # 6
-		'Preprint'  # 7
+		'Conference Proceedings',  # 3
+		'Book chapter',  # 4
+		'Thesis'  # 5
 	]
 
 	# Configuration of talk pages.

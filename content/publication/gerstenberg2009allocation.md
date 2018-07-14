@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "The allocation of responsibility amongst multiple causes"
 date = "2009-01-01"
 authors = ["T. Gerstenberg"]
-publication_types = ["0"]
+publication_types = ["5"]
 publication = "Gerstenberg, T. (2009). The allocation of responsibility amongst multiple causes. _Unpublished MSc thesis_."
 publication_short = "_Unpublished MSc thesis_"
 image_preview = ""

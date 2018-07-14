@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Why blame Bob? Probabilistic generative models, counterfactual reasoning, and blame attribution"
 date = "2012-01-01"
 authors = ["J. McCoy* ","T. D. Ullman* ","A. Stuhlmüller","T. Gerstenberg","J. B. Tenenbaum"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 34th Annual Conference of the Cognitive Science Society_"
 publication = "McCoy, J.*, Ullman, T.*, Stuhlmüller, A., Gerstenberg, T., & Tenenbaum, J. B. (2012). Why blame Bob? Probabilistic generative models, counterfactual reasoning, and blame attribution. In _Proceedings of the 34th Annual Conference of the Cognitive Science Society_ (pp. 1996-2001). Austin, TX: Cognitive Science Society."
 image_preview = ""

@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Observing and Intervening: Rational and Heuristic Models of Causal Decision Making"
 date = "2010-01-01"
 authors = ["B. Meder","T. Gerstenberg","Y. Hagmayer","M. R. Waldmann"]

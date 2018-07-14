@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "From counterfactual simulation to causal judgment"
 date = "2014-01-01"
 authors = ["T. Gerstenberg","N. D. Goodman","D. A. Lagnado","J. B Tenenbaum"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 36th Annual Conference of the Cognitive Science Society_"
 publication = "Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2014). From counterfactual simulation to causal judgment. In _Proceedings of the 36th Annual Conference of the Cognitive Science Society_, Austin, TX, 2014 (pp. 523-528). Cognitive Science Society."
 image_preview = ""

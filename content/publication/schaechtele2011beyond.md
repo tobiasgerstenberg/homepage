@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Beyond outcomes: The influence of intentions and deception"
 date = "2011-01-01"
 authors = ["S. Schächtele","T. Gerstenberg","D. A. Lagnado"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 33rd Annual Conference of the Cognitive Science Society_"
 publication = "Schächtele, S., Gerstenberg, T., & Lagnado, D. A. (2011). Beyond outcomes: The influence of intentions and deception. In _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_, Austin, TX, 2011 (pp. 1860-1865). Cognitive Science Society."
 image_preview = ""

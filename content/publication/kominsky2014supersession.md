@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Causal supersession"
 date = "2014-01-01"
 authors = ["J. F. Kominsky","J. Phillips","J. Knobe","T. Gerstenberg","D. A. Lagnado"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 36th Annual Conference of the Cognitive Science Society_"
 publication = "Kominsky, J. F., Phillips, J., Knobe, J., Gerstenberg, T., & Lagnado, D. A. (2014). Causal supersession. In _Proceedings of the 36th Annual Conference of the Cognitive Science Society_, Austin, TX, 2014 (pp. 761-766). Cognitive Science Society."
 image_preview = ""

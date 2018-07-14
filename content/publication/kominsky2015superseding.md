@@ -1,4 +1,12 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Causal superseding"
 date = "2015-01-01"
 authors = ["J. F. Kominsky","J. Phillips","T. Gerstenberg","D. A. Lagnado","J. Knobe"]

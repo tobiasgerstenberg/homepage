@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Rational order effects in responsibility attributions"
 date = "2011-01-01"
 authors = ["T. Gerstenberg","D. A. Lagnado","M. Speekenbrink","C. Cheung"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 33rd Annual Conference of the Cognitive Science Society_"
 publication = "Gerstenberg, T., Lagnado, D. A., Speekenbrink, M., & Cheung, C. (2011). Rational order effects in responsibility attributions. In _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_. (pp. 1715-1720). Austin, TX: Cognitive Science Society."
 image_preview = ""

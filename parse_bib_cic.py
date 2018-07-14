@@ -90,17 +90,13 @@ if __name__ == "__main__":
 
     # It takes the type of the bibtex entry and maps to a corresponding category of the academic theme
     pubtype_dict = {
-        'PW': '"0"',
-        'phdthesis': '"0"',
-        'mastersthesis': '"0"',
-        'Uncategorized': '"0"',
-        'inproceedings': '"1"',
-        'conference': '"1"',
+        'forthcoming': '"0"',
+        'uncategorized': '"0"',
+        'preprint': '"1"',
         'article': '"2"',
-        'submitted': '"3"',
-        'techreport': '"4"',
-        'book': '"5"',
-        'incollection': '"6"',
+        'inproceedings': '"3"',
+        'incollection': '"4"',
+        'thesis': '"5"'
     }
     
     bib_database = bibtexparser.loads(bibtex_str)
@@ -115,6 +111,7 @@ if __name__ == "__main__":
         else:
             with open(filenm, 'w', encoding="utf8") as the_file:
                 the_file.write('+++\n')
+                the_file.write("# 0 -> 'Forthcoming',\n# 1 -> 'Preprint',\n# 2 -> 'Journal',\n# 3 -> 'Conference Proceedings',\n# 4 -> 'Book chapter',\n# 5 -> 'Thesis')\n\n")
                 the_file.write('title = "'+supetrim(entry['title'])+'"\n')
                 #print('Parsing ' + entry['ID'])
                 
@@ -177,12 +174,12 @@ if __name__ == "__main__":
                     pub_type_entry = 'publication_types = [' + pubtype_dict[entry['ENTRYTYPE']] + ']\n'
                     if 'year' in entry:
                         if not RepresentsInt(entry['year']):
-                            pub_type_entry = pub_type_entry.replace('[', '[' + pubtype_dict['submitted'] + ', ')
+                            pub_type_entry = pub_type_entry.replace('[', '[' + pubtype_dict['forthcoming'] + ', ')
 
                     the_file.write(pub_type_entry)
 
                 else:
-                    the_file.write('publication_types = [' + pubtype_dict[entry['Uncategorized']] + ']\n')
+                    the_file.write('publication_types = [' + pubtype_dict[entry['uncategorized']] + ']\n')
 
                 
                 # Treating the publication journal, conference, etc.

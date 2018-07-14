@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Causal learning from interventions and dynamics in continuous time"
 date = "2017-01-01"
 authors = ["N. R. Bramley",  "R. Mayrhofer",  "T. Gerstenberg",  "D. A. Lagnado"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 39th Annual Conference of the Cognitive Science Society_"
 publication = "Bramley, N. R., Mayrhofer, R., Gerstenberg, T., & Lagnado, D. A. (2017). Causal learning from interventions and dynamics in continuous time. In _Proceedings of the 39th Annual Conference of the Cognitive Science Society_, Austin, TX, 2017 (pp. 150-155). Cognitive Science Society."
 image_preview = ""

@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Back on track: Backtracking in counterfactual reasoning"
 date = "2013-01-01"
 authors = ["T. Gerstenberg","C. Bechlivanidis","D. A. Lagnado"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "_Proceedings of the 35th Annual Conference of the Cognitive Science Society_"
 publication = "Gerstenberg, T., Bechlivanidis, C., & Lagnado, D. A. (2013). Back on track: Backtracking in counterfactual reasoning. In _Proceedings of the 35th Annual Conference of the Cognitive Science Society_, Austin, TX, 2013 (pp. 2386-2391). Cognitive Science Society."
 image_preview = ""

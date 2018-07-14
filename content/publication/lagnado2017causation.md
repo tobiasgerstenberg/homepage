@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "Causation in legal and moral reasoning"
 date = "2017-01-01"
 authors = ["D. A. Lagnado","T. Gerstenberg"]
-publication_types = ["6"]
+publication_types = ["4"]
 publication_short = "_Oxford Handbook of Causal Reasoning_"
 publication = "Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In _Oxford Handbook of Causal Reasoning_ (pp. 565-602). Oxford University Press."
 image_preview = ""

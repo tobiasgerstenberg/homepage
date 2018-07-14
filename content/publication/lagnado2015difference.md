@@ -1,8 +1,16 @@
 +++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
 title = "A difference-making framework for intuitive judgments of responsibility"
 date = "2015-01-01"
 authors = ["D. A. Lagnado","T. Gerstenberg"]
-publication_types = ["6"]
+publication_types = ["4"]
 publication_short = "_Oxford Studies in Agency and Responsibility_"
 publication = "Lagnado, D. A. & Gerstenberg, T. (2015). A difference-making framework for intuitive judgments of responsibility. In _Oxford Studies in Agency and Responsibility_ (pp. 213-241). Oxford University Press."
 image_preview = ""
