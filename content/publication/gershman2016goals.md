@@ -9,7 +9,7 @@
 
 title = "Plans, habits, and theory of mind"
 date = "2016-01-01"
-authors = ["S. J. Gershman* ","T. Gerstenberg* ","C. L. Baker","F. Cushman"]
+authors = ["S. J. Gershman ","T. Gerstenberg", "C. L. Baker", "F. Cushman"]
 publication_types = ["2"]
 publication_short = "_PLoS ONE_"
 publication = "Gershman*, S. J., Gerstenberg*, T., Baker, C. L., & Cushman, F. (2016). Plans, habits, and theory of mind. _PLoS ONE_, 11(9), e0162246. "
