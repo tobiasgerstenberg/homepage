@@ -13,10 +13,21 @@
 			<div class="article-style" itemprop="articleBody">{{ . }}</div>
 			{{ end }}
 
-			{{/* Array of distinct years. */}}
-			{{ range .Pages.ByDate.Reverse }}
+			{{/* Arrays of distinct years and authors. */}}
+			{{/* $.Scratch.Set "counter" 0 */}}
+			{{ range $Page := .Pages.ByDate.Reverse }}
 				{{ $year := print (.Date.Format "2006") }}
 				{{ $.Scratch.SetInMap "years" $year $year }}
+
+				{{/* range $author := $Page.Params.authors */}}
+					{{/* if not (in ($.Scratch.GetSortedMapValues "authors") $author) */}}
+					{{/*printf "%#v" $counter */}}
+					{{/* $.Scratch.Get "counter" | $.Scratch.SetInMap "authors" $author "%q" */}}
+					{{/* printf "%#v" $counter */}}
+					{{/* $.Scratch.Get "counter" | $.Scratch.Set "counter" (add "%prev" 1) */}}
+					{{/* printf "%#v" $counter */}}
+					{{/* end */}}
+				{{/* end */}}
 			{{ end }}
 
 			<!-- <p style="margin-left:5px;"> -->
@@ -48,7 +59,7 @@
 				</div>
 
 				<!-- Still needs fixing -->
-				<!-- <div class = 'filter'>
+<!-- 				<div class = 'filter'>
 					Author: 
 				<select class="pub-filters" data-filter-group="author">
 					<option value="*">{{ i18n "filter_all" }}</option>
