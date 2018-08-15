@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = false
 	email = "gerstenberg@stanford.edu"
 	address = "Stanford University"
 
-	members = ["T. Gerstenberg", "A. Beller", "D. Lagnado"]
+	members = ["T. Gerstenberg", "A. Beller"]
 	
 	# Color theme.
 	#   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
