@@ -6,13 +6,13 @@
 # 3 -> 'Conference Proceedings',
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
-
+ 
 title = "Time in causal structure learning"
 date = "2018-06-04"
 year = "in press"
 authors = ["N. R. Bramley", "T. Gerstenberg", "R. Mayrhofer", "D. A. Lagnado"]
 publication_types = ["0", "2"]
-publication = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
+publication = "Bramley, Gerstenberg, Mayrhofer, & Lagnado (2018) Time in causal structure learning. _Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 publication_short = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 image_preview = ""
 selected = false
