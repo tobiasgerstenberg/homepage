@@ -24,10 +24,10 @@ publication_name = "D. Dasgupta"
 [[education.courses]]
   course = "BA in Sociology"
   institution = "Stanford University"
-  year = "Expected 2020"
+  year = "expected 2020"
 
 [[education.courses]]
   course = "BS minor in Computer Science"
   institution = "Stanford University"
-  year = "Expected 2020"
+  year = "expected 2020"
 +++
