@@ -13,7 +13,7 @@ twitter = "DishaDasgupta"
 github = "dishadasgupta"
 # scholar = ""
 # cv = ""
-description = "Disha Dasgupta is a rising junior at Stanford University. She is interested in Computer Science, Math, and Cognitive Science - which she plans to pursue with a career as a Data Scientist. Outside of these interests, Disha also enjoys playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
+description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 # Filter by publication type.
 # -1: Any
