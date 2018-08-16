@@ -26,18 +26,6 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
-	id = "[Ari Beller](/member/ari_beller)"
-	position = "Lab manager"
-    image = "ari_beller.jpg"
-	email = "aribeller@gmail.com"
-#	twitter = ""
-	github = "aribeller"
-#	scholar = ""
-	cv = "ari_beller.pdf"
-	website = "ari_beller"
-	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
-
-[[member]]
 	id = "[Disha Dasgupta](/member/disha_dasgupta)"
 	position = "Research assistant"
 	image = "disha_dasgupta.jpg"
@@ -48,6 +36,18 @@ weight = 3
 	#cv = ""
 	website = "disha_dasgupta"
 	description = "Disha Dasgupta is a rising junior at Stanford University. She is interested in Computer Science, Math, and Cognitive Science - which she plans to pursue with a career as a Data Scientist. Outside of these interests, Disha also enjoys playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
+
+[[member]]
+	id = "[Ari Beller](/member/ari_beller)"
+	position = "Lab manager"
+    image = "ari_beller.jpg"
+	email = "aribeller@gmail.com"
+#	twitter = ""
+	github = "aribeller"
+#	scholar = ""
+	cv = "ari_beller.pdf"
+	website = "ari_beller"
+	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
