@@ -341,7 +341,7 @@ small,
 }
 
 .people-description{
-  width: 60%;
+  width: 65%;
   float: left;
   padding-left: 10px;
   margin-left: 10px;
@@ -349,8 +349,8 @@ small,
 
 .social-links{
   text-align: justify;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 1pt;
+  /* margin-bottom: 0; */
 }
 
 .stretch {
