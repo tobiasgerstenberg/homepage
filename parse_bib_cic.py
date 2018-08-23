@@ -132,10 +132,11 @@ if __name__ == "__main__":
                         dt = datetime.datetime.now()
                         date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
                         the_file.write('date = "'+date+'"\n')
+                        the_file.write('year = "'+yr+'"\n')
                 else:
                         dt = datetime.datetime.now()
                         date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
-                        the_file.write('date = "'+date+'"\n')
+
                     
                 # Treating the authors
                 if 'author' in entry:
