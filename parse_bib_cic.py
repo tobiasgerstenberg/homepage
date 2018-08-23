@@ -130,11 +130,11 @@ if __name__ == "__main__":
                         the_file.write('date = "'+date+'-01"\n')
                     else:
                         dt = datetime.datetime.now()
-                        date = str(dt.year) + '-' + str(dt.month) + '-' + str(dt.day)
+                        date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
                         the_file.write('date = "'+date+'"\n')
                 else:
                         dt = datetime.datetime.now()
-                        date = str(dt.year) + '-' + str(dt.month) + '-' + str(dt.day)
+                        date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
                         the_file.write('date = "'+date+'"\n')
                     
                 # Treating the authors
