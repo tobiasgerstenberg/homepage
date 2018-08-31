@@ -58,7 +58,7 @@ weight = 3
 	github = "mlee17"
 	scholar = "citations?hl=en&user=gZCC4ToAAAAJ"
 	#website = ""
-	description = """I am a PhD student studying cognitive neuroscience with Justin Gardner. I am interested in sensory cue combination and how sensory reliability is represented in the brain. You can check out the Gardner lab here: http://gru.stanford.edu/doku.php/shared/home"""
+	description = "I am a PhD student studying cognitive neuroscience primarily in the [Gardner lab](http://gru.stanford.edu/doku.php/shared/home). I am interested in sensory cue combination and how sensory reliability is represented in the brain."
 
 
 #[[member]]
