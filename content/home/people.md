@@ -26,6 +26,18 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
+	id = "[Ari Beller](/member/ari_beller)"
+	position = "Lab manager"
+    image = "ari_beller.jpg"
+	email = "aribeller@gmail.com"
+#	twitter = ""
+	github = "aribeller"
+#	scholar = ""
+	cv = "ari_beller.pdf"
+	# website = "ari_beller"
+	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
+
+[[member]]
 	id = "[Disha Dasgupta](/member/disha_dasgupta)"
 	position = "Research assistant"
 	image = "disha_dasgupta.jpg"
@@ -38,16 +50,16 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "[Ari Beller](/member/ari_beller)"
-	position = "Lab manager"
-    image = "ari_beller.jpg"
-	email = "aribeller@gmail.com"
-#	twitter = ""
-	github = "aribeller"
-#	scholar = ""
-	cv = "ari_beller.pdf"
-	# website = "ari_beller"
-	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
+	id = "[Minyoung Lee](/member/minyoung_lee)"
+	position = "Lab affiliate"
+	image = "minyoung_lee.jpg"
+	email = "mlee17@stanford.edu"
+	# twitter = ""
+	github = "mlee17"
+	scholar = "citations?hl=en&user=gZCC4ToAAAAJ"
+	#website = ""
+	description = """I am a PhD student studying cognitive neuroscience with Justin Gardner. I am interested in sensory cue combination and how sensory reliability is represented in the brain. You can check out the Gardner lab here: http://gru.stanford.edu/doku.php/shared/home"""
+
 
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
