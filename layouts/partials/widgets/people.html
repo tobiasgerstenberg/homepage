@@ -10,7 +10,14 @@
     <div class= 'people-container'>
     <h2>{{ with .id }}{{ . | markdownify }}{{ end }}</h2>
     <p style='font-weight:bold;'>{{.position}}</p>
-    <div class='people-image'><a href="member/{{.website}}/" title="Website" target="_top"><img src="/img/members/{{.image}}" alt="Drawing" /></a>
+    <div class='people-image'>
+      {{if .website}}
+      <a href="member/{{.website}}/" title="Website" target="_top">
+        {{end}} 
+        <img src="/img/members/{{.image}}" alt="Drawing" />
+      {{if .website}}
+      </a>
+      {{end}} 
       <div class='social-links'>
     {{if .twitter}}
         <a href="https://twitter.com/{{.twitter}}" title="Twitter" target="_blank">

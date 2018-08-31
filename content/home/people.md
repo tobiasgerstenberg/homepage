@@ -26,7 +26,7 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
-	id = "[Ari Beller](/member/ari_beller)"
+	id = "Ari Beller"
 	position = "Lab manager"
     image = "ari_beller.jpg"
 	email = "aribeller@gmail.com"
@@ -38,7 +38,7 @@ weight = 3
 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 [[member]]
-	id = "[Disha Dasgupta](/member/disha_dasgupta)"
+	id = "Disha Dasgupta"
 	position = "Research assistant"
 	image = "disha_dasgupta.jpg"
 	email = "disha01@stanford.edu"
@@ -50,7 +50,7 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "[Minyoung Lee](/member/minyoung_lee)"
+	id = "Minyoung Lee"
 	position = "Lab affiliate"
 	image = "minyoung_lee.jpg"
 	email = "mlee17@stanford.edu"
