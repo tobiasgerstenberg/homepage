@@ -14,7 +14,7 @@ subtitle = "We are growing! If you are a prospective PhD student looking to join
 weight = 3
 
 [[member]]
-	id = "[Tobias Gerstenberg](member/tobias_gerstenberg/)"
+	id = "Tobias Gerstenberg"
 	position = "Principal investigator"
 	image = "tobias_gerstenberg.jpg"
 	email = "gerstenberg@stanford.edu"
