@@ -1,6 +1,6 @@
 # Readme 
 
-This is the github repo of Stanford's Causality in Cognition Lab homepage
+This is the github repo of Stanford's Causality in Cognition Lab homepage.
 
 ## Initial setup
 
