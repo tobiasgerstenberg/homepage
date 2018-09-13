@@ -341,10 +341,10 @@ The Causality in Cognition Lab at Stanford University studies the role of causal
       <div class='social-links'>
     
         <a href="https://twitter.com/tobigerstenberg" title="Twitter" target="_blank">
-		<i class="fab fa-twitter"></i>
+		<i class="fab fa-twitter big-icon"></i>
 		</a>  
         <a href="https://github.com/tobiasgerstenberg" title="Github" target="_blank">
-		<i class="fab fa-github"></i>   
+		<i class="fab fa-github big-icon"></i>   
 		</a>  
         <a href="https://scholar.google.com/citations?user=d0TfP8EAAAAJ&amp;hl=en&amp;oi=ao" title="Google Scholar" target="_blank">
 		<i class="ai ai-google-scholar big-icon"></i>
@@ -378,7 +378,7 @@ The Causality in Cognition Lab at Stanford University studies the role of causal
       <div class='social-links'>
      
         <a href="https://github.com/aribeller" title="Github" target="_blank">
-		<i class="fab fa-github"></i>   
+		<i class="fab fa-github big-icon"></i>   
 		</a>   
     
         <a href="mailto:aribeller@gmail.com" title="E-Mail" target="_top">
