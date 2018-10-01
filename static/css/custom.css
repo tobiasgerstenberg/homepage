@@ -1135,6 +1135,7 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline:active {
+  /* color: #fff !important; */
   color: #fff !important;
 }
 
@@ -1167,13 +1168,15 @@ footer a#back_to_top i {
   color: #d9534f;
 }
 
+/* we might want a different color scheme  here ... */
 .btn-primary.btn-outline:hover,
 .btn-light.btn-outline:hover,
 .btn-success.btn-outline:hover,
 .btn-info.btn-outline:hover,
 .btn-warning.btn-outline:hover,
 .btn-danger.btn-outline:hover {
-  color: #fff !important;
+  color: #fff !important;  
+  background: rgba(0,0,0,0.1) !important; 
 }
 
 /*************************************************
