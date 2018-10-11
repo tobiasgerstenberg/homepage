@@ -25,7 +25,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/neilbramley/active_physics"}]
+url_custom = [{name = "Github", url = "https://github.com/neilbramley/active_physics"},
+{name = "Press: Medium", url = "https://medium.com/@NYUDataScience/quantifying-how-we-intuit-the-physical-world-f5973e021b3c"}]
 math = true
 highlight = true
 [header]
