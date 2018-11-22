@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = false
 	#   1: Google Maps
 	#   2: OpenStreetMap (Mapnik)
 	#   3: OpenStreetMap (Mapbox)
-	map = 1
+	map = 0
 	map_api_key = "AIzaSyDw3HB7U2Rxc2UpXIf0BS3BvTCtjUplFTY"
 	latitude = "37.4287"
 	longitude = "-122.170821"
