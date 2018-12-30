@@ -50,5 +50,22 @@ publication_name = "T. Gerstenberg"
 
 You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at SPP2016.
 
-## Publications
+## Contact 
 
+__Email__: gerstenberg at stanford.edu   
+__Office__: Room 302, [Jordan Hall (building 420)](https://goo.gl/maps/mBbkXZfiSR42)
+
+## Research interests 
+
+- computational models of cognition
+- causal inference 
+- counterfactual reasoning
+- mental simulation
+- eye-tracking
+
+## Teaching 
+
+- Winter 2018/19: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
+- Spring 2018/19: Causal Cognition (PSYCH 291)
+
+## Publications
