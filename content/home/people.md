@@ -8,7 +8,7 @@ date = "2017-11-18"
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = "[People](/member)"
 title = "People"
-subtitle = "We are growing! If you are a prospective PhD student looking to join the lab, please email us at gerstenberg@stanford.edu"
+subtitle = "We are growing! If you are a postdoc interested in joining the lab, please email us at gerstenberg@stanford.edu"
 
 # Order that this section will appear in.
 weight = 3
