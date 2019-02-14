@@ -68,6 +68,10 @@ ul, ol, dl {
   text-rendering: optimizeLegibility;
 }
 
+.navbar-brand img {
+  max-height: 40px;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: '{{ .Get "heading_font" }}', sans-serif;
