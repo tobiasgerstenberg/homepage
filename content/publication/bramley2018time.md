@@ -8,11 +8,11 @@
 # 5 -> 'Thesis'
  
 title = "Time in causal structure learning"
-date = "2099-06-04"
+date = "2018-12-01"
 year = "in press"
 authors = ["N. R. Bramley", "T. Gerstenberg", "R. Mayrhofer", "D. A. Lagnado"]
-publication_types = ["0", "2"]
-publication = "Bramley, Gerstenberg, Mayrhofer, & Lagnado (2018) Time in causal structure learning. _Journal of Experimental Psychology: Learning, Memory, and Cognition_"
+publication_types = ["2"]
+publication = "Bramley, Gerstenberg, Mayrhofer, & Lagnado (2018) Time in causal structure learning. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 44(12), 1880--1910."
 publication_short = "_Journal of Experimental Psychology: Learning, Memory, and Cognition_"
 image_preview = ""
 selected = false
@@ -23,7 +23,7 @@ abstract= "A large body of research has explored how the time between two events
 
 # Links (optional).
 url_pdf = "papers/bramley2018time.pdf"
-url_preprint = "https://psyarxiv.com/uvfsr"
+# url_preprint = "https://psyarxiv.com/uvfsr"
 url_code = ""
 url_dataset = ""
 url_project = ""
