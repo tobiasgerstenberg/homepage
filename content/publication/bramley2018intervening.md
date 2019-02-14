@@ -8,7 +8,7 @@
 # 5 -> 'Thesis'
 
 title = "Intervening in time"
-date = "2099-06-08"
+date = "2019-02-14"
 year = "submitted"
 authors = ["N. R. Bramley","T. Gerstenberg","R. Mayrhofer","D. A. Lagnado"]
 publication_types = ["0"]
