@@ -68,9 +68,11 @@ ul, ol, dl {
   text-rendering: optimizeLegibility;
 }
 
-.navbar-brand img {
+a.navbar-brand {max-width: 70%}
+
+/* .navbar-brand img {
   max-height: 40px;
-}
+} */
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
