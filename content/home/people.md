@@ -61,6 +61,17 @@ weight = 3
 	description = "I am a PhD student studying cognitive neuroscience primarily in the [Gardner lab](http://gru.stanford.edu/doku.php/shared/home). I am interested in sensory cue combination and how sensory reliability is represented in the brain."
 
 
+[[member]]
+	id = "Elisa Kreiss"
+	position = "Lab affiliate"
+	image = "elisa_kreiss.jpg"
+	email = "ekreiss@stanford.edu"
+	twitter = "ElisaKreiss"
+	github = "elisakreiss"
+	#scholar = ""
+	website = "http://elisakreiss.com/"
+	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
+
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
 	#position = "PhD student"

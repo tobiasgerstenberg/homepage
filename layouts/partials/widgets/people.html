@@ -47,7 +47,11 @@
       <!-- E-Mail: <a href="mailto:{{.email}}" title="E-Mail" target="_top">{{.email}}</a> -->
       <!-- <br> -->
       {{if .website}}
-      <a href="member/{{.website}}/" title="Website" target="_top">Personal website</a>
+        {{if in .website "http"}}
+        <a href={{.website}} title="Website" target="_top">Personal website</a>
+        {{else}}
+        <a href="member/{{.website}}/" title="Website" target="_top">Personal website</a>
+        {{end}}
       {{end}}
     </div>
     <div class = 'spacer'></div>
