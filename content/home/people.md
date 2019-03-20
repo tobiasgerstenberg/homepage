@@ -72,6 +72,18 @@ weight = 3
 	website = "http://elisakreiss.com/"
 	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
 
+[[member]]
+	id = "Cai Guo"
+	position = "Lab affiliate"
+	image = "cai_guo.jpg"
+	email = "caiguo@stanford.edu"
+	#twitter = ""
+	github = "caiguostanford"
+	scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
+	website = "http://web.stanford.edu/~caiguo/"
+	cv = "cai_guo.pdf"
+	description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
+
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
 	#position = "PhD student"
