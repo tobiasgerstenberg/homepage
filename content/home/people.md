@@ -84,6 +84,18 @@ weight = 3
 	cv = "cai_guo.pdf"
 	description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
 
+[[member]]
+	id = "Erin Bennett"
+	position = "Lab affiliate"
+	image = "erin_bennett.jpg"
+	#email = ""
+	#twitter = ""
+	github = "erindb"
+	scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
+	website = "http://web.stanford.edu/~erindb/"
+	#cv = ""
+	description = "I'm a Psychology PhD student primarily in [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
+
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
 	#position = "PhD student"
