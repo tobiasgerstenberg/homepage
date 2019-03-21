@@ -88,7 +88,7 @@ weight = 3
 	id = "Erin Bennett"
 	position = "Lab affiliate"
 	image = "erin_bennett.jpg"
-	#email = ""
+	email = "erindb@stanford.edu"
 	#twitter = ""
 	github = "erindb"
 	scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"

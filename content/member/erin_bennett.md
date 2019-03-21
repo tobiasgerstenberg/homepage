@@ -8,7 +8,7 @@ math = false
 title = "Erin Bennett"
 position = "Lab Affiliate"
 image = "erin_bennett.jpg"
-#email = ""
+email = "erindb@stanford.edu"
 #twitter = ""
 github = "erindb"
 scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
