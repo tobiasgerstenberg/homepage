@@ -96,6 +96,18 @@ weight = 3
 	#cv = ""
 	description = "I'm a Psychology PhD student primarily in [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
 
+[[member]]
+	id = "Andrew Nam"
+	position = "Lab affiliate"
+	image = "andrew_nam.jpg"
+	email = "ajhnam@stanford.edu"
+	#twitter = ""
+	github = "andrewnam"
+	#scholar = ""
+	#website = ""
+	cv = "andrew_nam.pdf"
+	description = "My research is on computational cognitive modeling, i.e. identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
+
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
 	#position = "PhD student"
