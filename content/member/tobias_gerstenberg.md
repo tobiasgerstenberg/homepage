@@ -66,6 +66,6 @@ __Office__: Room 302, [Jordan Hall (building 420)](https://goo.gl/maps/mBbkXZfiS
 ## Teaching 
 
 - Winter 2018/19: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
-- Spring 2018/19: Causal Cognition (PSYCH 291)
+- Spring 2018/19: [Causal Cognition (PSYCH 291)](https://tobiasgerstenberg.github.io/causal_cognition/)
 
 ## Publications
