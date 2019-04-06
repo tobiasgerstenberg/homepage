@@ -94,7 +94,7 @@ weight = 3
 	scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
 	website = "http://web.stanford.edu/~erindb/"
 	#cv = ""
-	description = "I'm a Psychology PhD student primarily in [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
+	description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
 
 [[member]]
 	id = "Andrew Nam"
@@ -106,7 +106,7 @@ weight = 3
 	#scholar = ""
 	#website = ""
 	cv = "andrew_nam.pdf"
-	description = "My research is on computational cognitive modeling, i.e. identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
+	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, i.e. identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
 
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
