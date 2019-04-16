@@ -51,7 +51,7 @@ weight = 3
 
 [[member]]
 	id = "Ross Kempner"
-	position = "CSLI intern"
+	position = "Summer intern"
 	image = "ross_kempner.jpg"
 	email = "rkempner@umich.edu"
 	description  = " I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
