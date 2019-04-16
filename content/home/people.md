@@ -50,6 +50,14 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
+	id = "Ross Kempner"
+	position = "CSLI intern"
+	image = "ross_kempner.jpg"
+	email = "rkempner@umich.edu"
+	description  = " I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
+
+
+[[member]]
 	id = "Minyoung Lee"
 	position = "Lab affiliate"
 	image = "minyoung_lee.jpg"
