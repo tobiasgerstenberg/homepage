@@ -50,6 +50,14 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
+	id = "Antonia Langenhoff"
+	position = "Visiting researcher"
+	image = "antonia_langenhoff.jpg"
+	email = "antonial@stanford.edu"
+	description = "I am visiting the CICL lab for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
+
+
+[[member]]
 	id = "Ross Kempner"
 	position = "Summer intern"
 	image = "ross_kempner.jpg"
