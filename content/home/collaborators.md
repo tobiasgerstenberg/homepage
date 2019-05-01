@@ -137,11 +137,32 @@ weight = 5
 	show = false
 
 [[collaborator]]
+	id = "Hyowon Gweon"
+	image = "hyowon_gweon.jpg"
+	position = "Stanford University"
+	link = "http://sll.stanford.edu/"
+	show = true
+
+[[collaborator]]
+	id = "Thomas Icard"
+	image = "thomas_icard.png"
+	position = "Stanford University"
+	link = "https://web.stanford.edu/~icard/index.html"
+	show = true
+
+[[collaborator]]
+	id = "Justin Gardner"
+	image = "justin_gardner.jpg"
+	position = "Stanford University"
+	link = "http://gru.stanford.edu/doku.php"
+	show = true
+
+[[collaborator]]
 	id = "Joshua Hartshorne"
 	image = "joshua_hartshorne.jpg"
 	position = "Boston College"
 	link = "http://l3atbc.org/JKHartshorne.About.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Joshua Knobe"
@@ -246,7 +267,7 @@ weight = 5
 	image = "ralf_mayrhofer.jpeg"
 	position = "Göttingen University"
 	link = "https://www.psych.uni-goettingen.de/mayrhofer"
-	show = true
+	show = false
 
 #[[collaborator]]
 	#id = "Ro'i Zultan"
@@ -309,7 +330,7 @@ weight = 5
 	image = "liane_young.jpg"
 	position = "Boston College"
 	link = "http://moralitylab.bc.edu/"
-	show = true
+	show = false
 
 
 
