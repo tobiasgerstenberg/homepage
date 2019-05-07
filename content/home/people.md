@@ -56,6 +56,14 @@ weight = 3
 	email = "antonial@stanford.edu"
 	description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
 
+[[member]]
+	id = "Lara Kirfel"
+	position = "Visiting researcher"
+	image = "lara_kirfel.jpg"
+	email = "lara-christina.kirfel.15@ucl.ac.uk"
+	twitter = "Lara_Kirfel"
+	github = "LaraKirfel"
+	description = "I am a psychology PhD student at University College London (UCL) with [Prof. David Lagnado](https://www.ucl.ac.uk/lagnado-lab/index.html) and currently visiting the Causality in Cognition Lab. My PhD research investigates how “soft” factors, e.g. the norm-related features of a causal context, change the way we think about the cause of an event, and whether (and, if so, to what extent) counterfactual theories of causation can capture this. I enjoy eating chocolate."
 
 [[member]]
 	id = "Ross Kempner"
