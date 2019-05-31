@@ -70,7 +70,15 @@ weight = 3
 	position = "Summer intern"
 	image = "ross_kempner.jpg"
 	email = "rkempner@umich.edu"
-	description  = " I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
+	description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
+
+[[member]]
+	id = "Jingren Wang"
+	position = "Summer intern"
+	image = "jingren_wang.jpg"
+	email = "jingren.wang@minerva.kgi.edu"
+	github = "https://github.com/JrenW"
+	description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and boba, of course!)."
 
 
 [[member]]
