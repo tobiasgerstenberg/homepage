@@ -84,6 +84,8 @@ weight = 3
 	id = "Alan Brown"
 	position = "Summer intern"
 	image = "alan_brown.jpg"
+	email = "alanb@stanford.edu"
+	twitter = "alanbrown4700"
 	cv = "alan_brown.pdf"
 	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
 
