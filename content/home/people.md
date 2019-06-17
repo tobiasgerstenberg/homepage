@@ -80,6 +80,12 @@ weight = 3
 	github = "https://github.com/JrenW"
 	description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and boba, of course!)."
 
+[[member]]
+	id = "Alan Brown"
+	position = "Summer intern"
+	image = "alan_brown.jpg"
+	cv = "alan_brown.pdf"
+	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
 
 [[member]]
 	id = "Minyoung Lee"
