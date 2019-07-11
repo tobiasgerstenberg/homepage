@@ -8,12 +8,12 @@
 
 title = "Expectations affect physical causation judgments"
 date = "2019-02-14"
-year = "submitted"
+year = "in press"
 authors = ["T. Gerstenberg","T. F. Icard"]
 publication_types = ["0", "2"]
-publication = ""
+publication = "Gerstenberg, T. & Icard, T. F. (in press). Expectations affect physical causation judgments. _Journal of Experimental Psychology: General_"
 publication_short = ""
-abstract = "When several causes contributed to an outcome, we often single out one as 'the' cause. What explains this causal selection? While most previous work has argued that people select abnormal events as causes, recent work has shown that in some situations, normal events are preferred over abnormal ones. However, all this work has relied on the same methodology to investigate causal selection: vignette studies. Since vignettes can never fully specify what happened, it is possible that the reported causal selection effects result from participants filling in the gaps. We demonstrate, for the first time, causal selection effects for visual displays. Participants view physically realistic animations that feature two candidate causes, ball A and ball B, that either cause ball E to go through a gate, or fail to do so. Our experiment manipulates event normality by including motion blocks in the scene that are more or less likely to let balls through, the causal structure of how the two causes bring about the outcome (and, or, and xor), and whether or not balls A and B go through the motion blocks in the test clip. Even though participants saw that the causal role played by the two balls was identical, their causal selections were still affected by normality and causal structure."
+abstract = "When several causes contributed to an outcome, we often single out one as “the” cause. What explains this selection? Previous work has argued that people select abnormal events as causes, though recent work shows that sometimes normal events are preferred over abnormal ones. Existing studies have relied on vignettes that commonly feature agents committing immoral acts. An important challenge to the thesis that norms permeate causal reasoning is that people’s responses may merely reflect pragmatic or social reasoning rather than arising from causal cognition per se. We test this hypothesis by asking whether the previously observed patterns of causal selection emerge in tasks that recruit participants’ causal reasoning about physical systems. Strikingly, we find that the same patterns observed in vignette studies with intentional agents arises in visual animations of physical interactions. Our results demonstrate how deeply normative expectations affect causal cognition."
 image_preview = ""
 selected = false
 projects = []
@@ -25,7 +25,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/tobiasgerstenberg/causal_expectations"}]
 math = true
 highlight = true
 [header]
