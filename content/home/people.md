@@ -8,7 +8,7 @@ date = "2017-11-18"
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = "[People](/member)"
 title = "People"
-subtitle = ""
+subtitle = "We are looking for prospective PhD students to join your lab! If you're interested in joining us, please send an email to gerstenberg@stanford.edu"
 
 # Order that this section will appear in.
 weight = 3
@@ -50,22 +50,6 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "Antonia Langenhoff"
-	position = "Visiting researcher"
-	image = "antonia_langenhoff.jpg"
-	email = "antonial@stanford.edu"
-	description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
-
-[[member]]
-	id = "Lara Kirfel"
-	position = "Visiting researcher"
-	image = "lara_kirfel.jpg"
-	email = "lara-christina.kirfel.15@ucl.ac.uk"
-	twitter = "Lara_Kirfel"
-	github = "LaraKirfel"
-	description = "I am a psychology PhD student at University College London (UCL) with [Prof. David Lagnado](https://www.ucl.ac.uk/lagnado-lab/index.html) and currently visiting the Causality in Cognition Lab. My PhD research investigates how “soft” factors, e.g. the norm-related features of a causal context, change the way we think about the cause of an event, and whether (and, if so, to what extent) counterfactual theories of causation can capture this. I enjoy eating chocolate."
-
-[[member]]
 	id = "Ross Kempner"
 	position = "Summer intern"
 	image = "ross_kempner.jpg"
@@ -88,18 +72,6 @@ weight = 3
 	twitter = "alanbrown4700"
 	cv = "alan_brown.pdf"
 	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
-
-[[member]]
-	id = "Minyoung Lee"
-	position = "Lab affiliate"
-	image = "minyoung_lee.jpg"
-	email = "mlee17@stanford.edu"
-	# twitter = ""
-	github = "mlee17"
-	scholar = "citations?hl=en&user=gZCC4ToAAAAJ"
-	#website = ""
-	description = "I am a PhD student studying cognitive neuroscience primarily in the [Gardner lab](http://gru.stanford.edu/doku.php/shared/home). I am interested in sensory cue combination and how sensory reliability is represented in the brain."
-
 
 [[member]]
 	id = "Elisa Kreiss"
@@ -147,6 +119,33 @@ weight = 3
 	#website = ""
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
+
+#[[member]]
+#	id = "Minyoung Lee"
+#	position = "Lab affiliate"
+#	image = "minyoung_lee.jpg"
+#	email = "mlee17@stanford.edu"
+#	# twitter = ""
+#	github = "mlee17"
+#	scholar = "citations?hl=en&user=gZCC4ToAAAAJ"
+#	#website = ""
+#	description = "I am a PhD student studying cognitive neuroscience primarily in the [Gardner lab](http://gru.stanford.edu/doku.php/shared/home). I am interested in sensory cue combination and how sensory reliability is represented in the brain."
+
+#[[member]]
+#	id = "Antonia Langenhoff"
+#	position = "Visiting researcher"
+#	image = "antonia_langenhoff.jpg"
+#	email = "antonial@stanford.edu"
+#	description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
+
+#[[member]]
+#	id = "Lara Kirfel"
+#	position = "Visiting researcher"
+#	image = "lara_kirfel.jpg"
+#	email = "lara-christina.kirfel.15@ucl.ac.uk"
+#	twitter = "Lara_Kirfel"
+#	github = "LaraKirfel"
+#	description = "I am a psychology PhD student at University College London (UCL) with [Prof. David Lagnado](https://www.ucl.ac.uk/lagnado-lab/index.html) and currently visiting the Causality in Cognition Lab. My PhD research investigates how “soft” factors, e.g. the norm-related features of a causal context, change the way we think about the cause of an event, and whether (and, if so, to what extent) counterfactual theories of causation can capture this. I enjoy eating chocolate."
 
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
