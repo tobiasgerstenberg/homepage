@@ -50,13 +50,6 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "Ross Kempner"
-	position = "Summer intern"
-	image = "ross_kempner.jpg"
-	email = "rkempner@umich.edu"
-	description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
-
-[[member]]
 	id = "Jingren Wang"
 	position = "Summer intern"
 	image = "jingren_wang.jpg"
@@ -146,6 +139,14 @@ weight = 3
 #	twitter = "Lara_Kirfel"
 #	github = "LaraKirfel"
 #	description = "I am a psychology PhD student at University College London (UCL) with [Prof. David Lagnado](https://www.ucl.ac.uk/lagnado-lab/index.html) and currently visiting the Causality in Cognition Lab. My PhD research investigates how “soft” factors, e.g. the norm-related features of a causal context, change the way we think about the cause of an event, and whether (and, if so, to what extent) counterfactual theories of causation can capture this. I enjoy eating chocolate."
+
+#[[member]]
+#id = "Ross Kempner"
+#position = "Summer intern"
+#image = "ross_kempner.jpg"
+#email = "rkempner@umich.edu"
+#description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
+
 
 #[[member]]
 	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
