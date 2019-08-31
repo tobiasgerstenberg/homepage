@@ -37,6 +37,7 @@ weight = 3
 	# website = "ari_beller"
 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
+
 [[member]]
 	id = "Disha Dasgupta"
 	position = "Research assistant"
@@ -65,6 +66,16 @@ weight = 3
 	twitter = "alanbrown4700"
 	cv = "alan_brown.pdf"
 	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
+
+[[member]]
+	id = "Allen Nie"
+	position = "Rotating graduate student"
+	image = "allen_nie.jpg"
+	email = "anie@stanford.edu"
+	twitter = "Allen_A_N"
+	scholar = "citations?hl=en&user=r90OelAAAAAJ"
+	website = "http://anie.me/"
+	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles on my spare time."
 
 [[member]]
 	id = "Elisa Kreiss"
