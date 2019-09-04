@@ -75,7 +75,7 @@ weight = 3
 	twitter = "Allen_A_N"
 	scholar = "citations?hl=en&user=r90OelAAAAAJ"
 	website = "http://anie.me/"
-	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles on my spare time."
+	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 [[member]]
 	id = "Elisa Kreiss"
