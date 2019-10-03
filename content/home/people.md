@@ -51,16 +51,8 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "Jingren Wang"
-	position = "Summer intern"
-	image = "jingren_wang.jpg"
-	email = "jingren.wang@minerva.kgi.edu"
-	github = "https://github.com/JrenW"
-	description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and boba, of course!)."
-
-[[member]]
 	id = "Alan Brown"
-	position = "Summer intern"
+	position = "Research assistant"
 	image = "alan_brown.jpg"
 	email = "alanb@stanford.edu"
 	twitter = "alanbrown4700"
@@ -123,6 +115,14 @@ weight = 3
 	#website = ""
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
+
+# [[member]]
+# id = "Jingren Wang"
+# position = "Summer intern"
+# image = "jingren_wang.jpg"
+# email = "jingren.wang@minerva.kgi.edu"
+# github = "https://github.com/JrenW"
+# description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and # boba, of course!)."
 
 #[[member]]
 #	id = "Minyoung Lee"
