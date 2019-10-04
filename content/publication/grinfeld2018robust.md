@@ -8,7 +8,7 @@
 
 title = "Causal responsibility and robust causation"
 date = "2019-09-19"
-authors = ["G. Grinfeld","D. A. Lagnado","T. Gerstenberg","J. F. Wooward","M. Usher"]
+authors = ["G. Grinfeld","D. A. Lagnado","T. Gerstenberg","J. F. Woodward","M. Usher"]
 year = "submitted"
 publication_types = ["0", "2"]
 publication = ""
