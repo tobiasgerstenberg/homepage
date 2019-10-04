@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Causality in Cognition Lab</title>
+    <link>http://cicl.stanford.edu/publication_types/4/</link>
+    <description>Recent content in 4 on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cicl.stanford.edu/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intervening in time</title>
+      <link>http://cicl.stanford.edu/publication/bramley2019intervening/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/bramley2019intervening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causation in legal and moral reasoning</title>
+      <link>http://cicl.stanford.edu/publication/lagnado2017causation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/lagnado2017causation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive Theories</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2017theories/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2017theories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A difference-making framework for intuitive judgments of responsibility</title>
+      <link>http://cicl.stanford.edu/publication/lagnado2015difference/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/lagnado2015difference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concepts in a probabilistic language of thought</title>
+      <link>http://cicl.stanford.edu/publication/goodman2015concepts/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/goodman2015concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributing responsibility: Actual and counterfactual worlds</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2014attributing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2014attributing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

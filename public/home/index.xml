@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Causality in Cognition Lab</title>
+    <link>http://cicl.stanford.edu/home/</link>
+    <description>Recent content in Homes on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Sat, 18 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cicl.stanford.edu/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causality in Cognition Lab</title>
+      <link>http://cicl.stanford.edu/home/home/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/home/</guid>
+      <description>The Causality in Cognition Lab at Stanford University studies the role of causality in our understanding of the world, and of each other.</description>
+    </item>
+    
+    <item>
+      <title>What we do</title>
+      <link>http://cicl.stanford.edu/home/info/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/info/</guid>
+      <description>Some of the questions that guide our research:
+ How does the mind learn to represent the causal structure of the world? What is the relationship between causal thinking and counterfactual simulation? How do we hold others responsible for the outcomes of their actions?  In our research, we formalize people’s mental models as computational models that yield quantitative predictions about a wide range of situations. To test these predictions, we use a combination of large-scale online experiments, interactive experiments in the lab, and eye-tracking experiments.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://cicl.stanford.edu/home/news/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/news/</guid>
+      <description>Open lab manager position
+We are looking to hire a lab manager to start in the fall of 2018. For information about how to apply click here.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://cicl.stanford.edu/home/people/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected publications</title>
+      <link>http://cicl.stanford.edu/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborators</title>
+      <link>http://cicl.stanford.edu/home/collaborators/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/collaborators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://cicl.stanford.edu/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
