@@ -124,6 +124,14 @@ weight = 3
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
 
+[[member]]
+	id = "Max Kanwal"
+	position = "Lab affiliate"
+	image = "max_kanwal.jpg"
+	email = "kanwal@stanford.edu"
+	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
+	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
+
 #[[member]]
 #	id = "Minyoung Lee"
 #	position = "Lab affiliate"
