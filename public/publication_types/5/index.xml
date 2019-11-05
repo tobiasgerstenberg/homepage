@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Causality in Cognition Lab</title>
+    <link>http://cicl.stanford.edu/publication_types/5/</link>
+    <description>Recent content in 5 on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cicl.stanford.edu/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a difference: Responsibility, causality, and counterfactuals</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2013making/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2013making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The allocation of responsibility amongst multiple causes</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2009allocation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2009allocation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

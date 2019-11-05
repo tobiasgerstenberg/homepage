@@ -8,7 +8,9 @@ date = "2017-11-18"
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = "[People](/member)"
 title = "People"
-subtitle = "We are looking for prospective PhD students to join our lab in the fall 2020! If you're interested in joining us, please send an email to gerstenberg@stanford.edu. We are also looking for [**undergraduate research assistants**](/pdf/ra_posting.pdf) to work with us in the Fall quarter. If you are interested in applying to be an RA take a look at the link above."
+subtitle = "We are looking for prospective PhD students to join our lab in the fall 2020! If you're interested in joining us, please send an email to gerstenberg@stanford.edu"
+
+# We are also looking for [**undergraduate research assistants**](news/undergraduate_assistant/) to work with us in the Fall quarter. If you are interested in applying to be an RA take a look at the link above.
 
 # Order that this section will appear in.
 weight = 3
@@ -51,16 +53,8 @@ weight = 3
 	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 [[member]]
-	id = "Jingren Wang"
-	position = "Summer intern"
-	image = "jingren_wang.jpg"
-	email = "jingren.wang@minerva.kgi.edu"
-	github = "https://github.com/JrenW"
-	description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and boba, of course!)."
-
-[[member]]
 	id = "Alan Brown"
-	position = "Summer intern"
+	position = "Research assistant"
 	image = "alan_brown.jpg"
 	email = "alanb@stanford.edu"
 	twitter = "alanbrown4700"
@@ -131,6 +125,14 @@ weight = 3
 	email = "kanwal@stanford.edu"
 	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
 	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
+
+# [[member]]
+# id = "Jingren Wang"
+# position = "Summer intern"
+# image = "jingren_wang.jpg"
+# email = "jingren.wang@minerva.kgi.edu"
+# github = "https://github.com/JrenW"
+# description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and # boba, of course!)."
 
 #[[member]]
 #	id = "Minyoung Lee"
