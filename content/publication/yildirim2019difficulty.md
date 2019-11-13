@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = ""
+#url_custom = [{name = "Github", url = ""}]
 math = true
 highlight = true
 [header]
