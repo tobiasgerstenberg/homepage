@@ -17,14 +17,14 @@ image_preview = ""
 selected = false
 projects = []
 url_pdf = "papers/yildirim2019difficulty.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1905.04445"
 url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1905.04445"}]
+url_custom = ""
 math = true
 highlight = true
 [header]
