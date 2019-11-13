@@ -97,8 +97,8 @@ weight = 5
 [[collaborator]]
 	id = "Ilker Yildirim"
 	image = "ilker_yildirim.jpg"
-	position = "MIT"
-	link = "http://www.mit.edu/~ilkery/"
+	position = "Yale"
+	link = "http://cncl.yale.edu/"
 	show = true
 
 [[collaborator]]
@@ -118,15 +118,15 @@ weight = 5
 [[collaborator]]
 	id = "Jonathan Kominsky"
 	image = "jonathan_kominsky.jpg"
-	position = "Harvard"
+	position = "Rutgers"
 	link = "http://www.jfkominsky.com/"
 	show = true
 
 [[collaborator]]
 	id = "Jonathan Phillips"
 	image = "jonathan_phillips.jpg"
-	position = "Harvard"
-	link = "http://people.fas.harvard.edu/~phillips01/"
+	position = "Dartmouth"
+	link = "https://www.dartmouth.edu/~phillab/"
 	show = true
 
 [[collaborator]]
@@ -202,7 +202,7 @@ weight = 5
 [[collaborator]]
 	id = "Laura Niemi"
 	image = "laura_niemi.png"
-	position = "Duke"
+	position = "Munk School"
 	link = "https://lauraniemi.com/"
 	show = true
 
@@ -251,8 +251,8 @@ weight = 5
 [[collaborator]]
 	id = "Neil Bramley"
 	image = "neil_bramley.jpg"
-	position = "NYU"
-	link = "https://cims.nyu.edu/~bramley/"
+	position = "Edinburgh"
+	link = "https://www.bramleylab.ppls.ed.ac.uk/"
 	show = true
 
 [[collaborator]]

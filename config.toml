@@ -1,7 +1,7 @@
 #baseurl = "https://tobiasgerstenberg.github.io/"  
 baseurl = "http://cicl.stanford.edu/" 
 title = "Causality in Cognition Lab"
-copyright = "&copy; 2018 Tobias Gerstenberg"
+copyright = "&copy; 2019 Tobias Gerstenberg"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -237,10 +237,10 @@ defaultContentLanguageInSubdir = false
 	url = "#collaborators"
 	weight = 5
 
-[[menu.main]]
-	name = "Contact"
-	url = "#contact"
-	weight = 6
+#[[menu.main]]
+	#name = "Contact"
+	#url = "#contact"
+	#weight = 6
 
 # Taxonomies.
 [taxonomies]
