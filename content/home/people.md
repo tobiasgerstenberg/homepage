@@ -8,7 +8,7 @@ date = "2017-11-18"
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = "[People](/member)"
 title = "People"
-subtitle = "We are looking for prospective PhD students to join our lab in the fall 2020! If you're interested in joining us, please send an email to gerstenberg@stanford.edu"
+subtitle = "... who are doing the work"
 
 # We are also looking for [**undergraduate research assistants**](news/undergraduate_assistant/) to work with us in the Fall quarter. If you are interested in applying to be an RA take a look at the link above.
 
