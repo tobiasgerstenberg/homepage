@@ -126,6 +126,28 @@ weight = 3
 	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
 	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
 
+[[member]]
+	id = "Xi Jia (Laura) Zhou"
+	position = "Lab affiliate"
+	image = "xi_jia_zhou.jpg"
+	email = "xijiazho@stanford.edu"
+	twitter = "LauraXijiaZhou"
+	github = "lauraxijia"
+	website = "https://xijiazho.people.stanford.edu/"
+	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
+
+
+[[member]]
+	id = "Shardul Chiplunkar"
+	position = "Winter intern"
+	image = "shardul_chiplunkar.png"
+	email = "shardulc@mit.edu"
+	github = "shardulc"
+	website = "https://www.mit.edu/~shardulc/"
+	cv = "shardul_chiplunkar.pdf"
+	description = "I'm Shardul, a '22 undergraduate at MIT studying math. Ever since I took a cognitive science class, I've been interested in computational approaches to cognition, and I enjoy thinking and learning about intelligence, rationality, and the human brain. My other academic interests include mathematical logic, linguistics, and programming language theory, and I'm currently engaged in research in formal verification and program synthesis at MIT CSAIL. I also enjoy listening to and creating music (especially Hindustani classical), teaching, and spinning fire."
+
+
 # [[member]]
 # id = "Jingren Wang"
 # position = "Summer intern"
