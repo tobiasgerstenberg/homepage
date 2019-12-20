@@ -136,6 +136,15 @@ weight = 3
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
+[[member]]
+	id = "Tina Hua"
+	position = "Research assistant"
+	image = "tina_hua.jpg"
+	email = "teenana95@gmail.com"
+	github = "t6hua"
+	cv = "tina_hua.pdf"
+	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
+
 
 [[member]]
 	id = "Shardul Chiplunkar"
@@ -146,6 +155,8 @@ weight = 3
 	website = "https://www.mit.edu/~shardulc/"
 	cv = "shardul_chiplunkar.pdf"
 	description = "I'm Shardul, a '22 undergraduate at MIT studying math. Ever since I took a cognitive science class, I've been interested in computational approaches to cognition, and I enjoy thinking and learning about intelligence, rationality, and the human brain. My other academic interests include mathematical logic, linguistics, and programming language theory, and I'm currently engaged in research in formal verification and program synthesis at MIT CSAIL. I also enjoy listening to and creating music (especially Hindustani classical), teaching, and spinning fire."
+
+
 
 
 # [[member]]
