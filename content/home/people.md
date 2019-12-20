@@ -143,7 +143,7 @@ weight = 3
 	email = "teenana95@gmail.com"
 	github = "t6hua"
 	cv = "tina_hua.pdf"
-	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
+	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and go to concerts."
 
 
 [[member]]
