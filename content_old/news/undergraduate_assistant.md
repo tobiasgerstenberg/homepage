@@ -2,6 +2,7 @@
 title = "Undergraduate Research Assistant"
 date = "2019-09-22"
 draft = false
+active = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

@@ -2,6 +2,7 @@
 title = "Join the Causality in Cognition Lab!"
 date = "2018-04-08"
 draft = false
+active = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
