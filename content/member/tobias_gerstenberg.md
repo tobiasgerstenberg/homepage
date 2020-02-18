@@ -53,7 +53,7 @@ You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at 
 ## Contact 
 
 __Email__: gerstenberg@stanford.edu   
-__Office__: Room 302, [Jordan Hall (building 420)](https://goo.gl/maps/mBbkXZfiSR42)
+__Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
 
 ## Research interests 
 
