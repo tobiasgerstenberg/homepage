@@ -111,7 +111,7 @@ if __name__ == "__main__":
         else:
             with open(filenm, 'w', encoding="utf8") as the_file:
                 the_file.write('+++\n')
-                the_file.write("# 0 -> 'Forthcoming',\n# 1 -> 'Preprint',\n# 2 -> 'Journal',\n# 3 -> 'Conference Proceedings',\n# 4 -> 'Book chapter',\n# 5 -> 'Thesis')\n\n")
+                the_file.write("# 0 -> 'Forthcoming',\n# 1 -> 'Preprint',\n# 2 -> 'Journal',\n# 3 -> 'Conference Proceedings',\n# 4 -> 'Book chapter',\n# 5 -> 'Thesis'\n\n")
                 the_file.write('title = "'+supetrim(entry['title'])+'"\n')
                 #print('Parsing ' + entry['ID'])
                 
