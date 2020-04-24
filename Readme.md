@@ -182,6 +182,10 @@ Here is a list of the key files to play around with:
 - `/static/css/custom.css`:
 	+ css file to adapt any of the stylings 
 
+## Test the page 
+
+Monkeys help us test for broken links: [https://monkeytest.it/](https://monkeytest.it/)
+
 ## Some useful things to know
 
 ### Commenting 
