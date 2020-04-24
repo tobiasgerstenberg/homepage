@@ -322,7 +322,7 @@ weight = 5
 	id = "Todd Gureckis"
 	image = "todd_gureckis.jpg"
 	position = "NYU"
-	link = "http://smash.psych.nyu.edu/~gureckis/"
+	link = "https://as.nyu.edu/faculty/todd-gureckis.html"
 	show = true
 
 [[collaborator]]
