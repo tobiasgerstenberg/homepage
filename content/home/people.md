@@ -53,7 +53,7 @@ weight = 3
 	position = "Graduate Student"
 	image = "sarah_wu.jpg"
 	email = "sarahawu@mit.edu"
-	github = "https://github.com/sarahawu"
+	github = "sarahawu"
 	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 
