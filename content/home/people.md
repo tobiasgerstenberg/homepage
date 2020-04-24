@@ -41,6 +41,23 @@ weight = 3
 
 
 [[member]]
+	id = "Zach Davis"
+	position = "Postdoctoral Researcher"
+	image = "zach_davis.jpg"
+	website = "https://zach-davis.github.io/"
+	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
+
+
+[[member]]
+	id = "Sarah Wu"
+	position = "Graduate Student"
+	image = "sarah_wu.jpg"
+	email = "sarahawu@mit.edu"
+	github = "https://github.com/sarahawu"
+	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+
+
+[[member]]
 	id = "Disha Dasgupta"
 	position = "Research assistant"
 	image = "disha_dasgupta.jpg"
@@ -62,14 +79,23 @@ weight = 3
 	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
 
 [[member]]
-	id = "Allen Nie"
-	position = "Rotating graduate student"
-	image = "allen_nie.jpg"
-	email = "anie@stanford.edu"
-	twitter = "Allen_A_N"
-	scholar = "citations?hl=en&user=r90OelAAAAAJ"
-	website = "http://anie.me/"
-	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
+	id = "Tina Hua"
+	position = "Research assistant"
+	image = "tina_hua.jpg"
+	email = "teenana95@gmail.com"
+	github = "t6hua"
+	cv = "tina_hua.pdf"
+	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
+
+# [[member]]
+# 	id = "Allen Nie"
+# 	position = "Rotating graduate student"
+# 	image = "allen_nie.jpg"
+# 	email = "anie@stanford.edu"
+# 	twitter = "Allen_A_N"
+# 	scholar = "citations?hl=en&user=r90OelAAAAAJ"
+# 	website = "http://anie.me/"
+# 	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 [[member]]
 	id = "Elisa Kreiss"
@@ -136,25 +162,18 @@ weight = 3
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
-[[member]]
-	id = "Tina Hua"
-	position = "Research assistant"
-	image = "tina_hua.jpg"
-	email = "teenana95@gmail.com"
-	github = "t6hua"
-	cv = "tina_hua.pdf"
-	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
 
 
-[[member]]
-	id = "Shardul Chiplunkar"
-	position = "Winter intern"
-	image = "shardul_chiplunkar.png"
-	email = "shardulc@mit.edu"
-	github = "shardulc"
-	website = "https://www.mit.edu/~shardulc/"
-	cv = "shardul_chiplunkar.pdf"
-	description = "I'm Shardul, a '22 undergraduate at MIT studying math. I enjoy thinking and learning about intelligence, rationality, and the human brain, and my other academic interests include mathematical logic, linguistics, and programming language theory. I also enjoy listening to and creating Hindustani classical music, teaching, and spinning fire."
+
+# [[member]]
+# 	id = "Shardul Chiplunkar"
+# 	position = "Winter intern"
+# 	image = "shardul_chiplunkar.png"
+# 	email = "shardulc@mit.edu"
+# 	github = "shardulc"
+# 	website = "https://www.mit.edu/~shardulc/"
+# 	cv = "shardul_chiplunkar.pdf"
+# 	description = "I'm Shardul, a '22 undergraduate at MIT studying math. I enjoy thinking and learning about intelligence, rationality, and the human brain, and my other academic interests include mathematical logic, linguistics, and programming language theory. I also enjoy listening to and creating Hindustani classical music, teaching, and spinning fire."
 
 
 
