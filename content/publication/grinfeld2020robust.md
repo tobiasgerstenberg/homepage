@@ -13,7 +13,7 @@ authors = ["G. Grinfeld","D. A. Lagnado","T. Gerstenberg","J. F. Woodward","M. U
 publication_types = ["0", "2"]
 publication_short = "_Frontiers in Psychology_"
 publication = "Grinfeld G., Lagnado D. A., Gerstenberg T., Woodward J. F., Usher M. (accepted). Causal responsibility and robust causation. In _Frontiers in Psychology_."
-abstract = "How do people judge the degree of causal responsibly that an agent has for the effects of her actions? We identify a relatively unexplored factor -- the robustness (or stability) of the causal chain linking action and effect. In three experiments, we vary robustness by manipulating the number of background circumstances under which the action causes the effect. In the first experiment the robustness manipulation also increases the conditional probability of the effect given the action, and thus it can be equivalently explained under the principle of probability-raising. Experiment 2 and 3 address this concern, showing that robustness still affects judgments of responsibility when probability-raising is held constant. Experiment 3 introduces an Ellsberg type of scenario to manipulate robustness, while keeping the conditional probability and the skill deployed in the action fixed. The results show that in all cases, the perceived degree of responsibility increases with the robustness of the causal chain."
+abstract = "How do people judge the degree of causal responsibility that an agent has for the effects of her actions? We show that a relatively unexplored factor - the robustness (or stability) of the causal chain linking the agent's action and the effect - influences judgments of causal responsibility of the agent. In three experiments, we vary robustness by manipulating the number of background circumstances under which the action causes the effect, and find that causal responsibility judgments increase with robustness. In the first experiment, the robustness manipulation also raises the probability of the effect given the action. Experiments 2 and 3 control for probability-raising, and show that robustness still affects judgments of causal responsibility. In particular, Experiment 3 introduces an Ellsberg type of scenario to manipulate robustness, while keeping the conditional probability and the skill deployed in the action fixed. Experiment 4, replicates the results of Experiment 3, while contrasting between judgments of causal strength and of causal responsibility. The results show that in all cases, the perceived degree of responsibility (but not of causal strength) increases with the robustness of the action-effect link."
 image_preview = ""
 selected = false
 projects = []
@@ -25,7 +25,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/guygrinfeld/Responsibility-and-Robust-Causation-Experiments"}]
 math = true
 highlight = true
 [header]
