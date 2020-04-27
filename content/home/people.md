@@ -44,6 +44,9 @@ weight = 3
 	id = "Zach Davis"
 	position = "Postdoctoral Researcher"
 	image = "zach_davis.jpg"
+	email = "zach.davis@nyu.edu"
+	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
+	cv = "zach_davis.pdf"
 	website = "https://zach-davis.github.io/"
 	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
 
