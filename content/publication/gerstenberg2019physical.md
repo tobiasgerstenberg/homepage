@@ -7,7 +7,7 @@
 # 5 -> 'Thesis')
 
 title = "Expectations affect physical causation judgments"
-date = "2019-09-18"
+date = "2019-09-16"
 authors = ["T. Gerstenberg","T. F. Icard"]
 publication_types = ["2"]
 publication_short = "_Journal of Experimental Psychology: General_"

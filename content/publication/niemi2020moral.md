@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Moral values pervade implicit and explicit causal attribution: Evidence from basic language processing"
-date = "2020-03-31"
+date = "2019-09-17"
 year = "accepted"
 authors = ["L. Niemi","J. Hartshorne","T. Gerstenberg","L. Young"]
 publication_types = ["0", "2"]
