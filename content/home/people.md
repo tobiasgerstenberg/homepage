@@ -59,7 +59,6 @@ weight = 3
 	github = "sarahawu"
 	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
-
 [[member]]
 	id = "Disha Dasgupta"
 	position = "Research assistant"
@@ -89,6 +88,16 @@ weight = 3
 	github = "t6hua"
 	cv = "tina_hua.pdf"
 	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
+
+[[member]]
+	id = "Bryce Linford"
+	position = "Research assistant"
+	image = "bryce_linford.jpg"
+	email = "linford5@stanford.edu"
+	github = "brycelinford"
+	cv = "bryce_linford.pdf"
+	description = "I am interested in how our reasoning is influenced by our motivations, how aware we are of our reasoning processes, and how we form attributions. I like to reward myself with a glass of vitamin D milk after a week of hard work."
+
 
 # [[member]]
 # 	id = "Allen Nie"
