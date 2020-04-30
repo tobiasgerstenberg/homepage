@@ -99,16 +99,6 @@ weight = 3
 	description = "I am interested in how our reasoning is influenced by our motivations, how aware we are of our reasoning processes, and how we form attributions. I like to reward myself with a glass of vitamin D milk after a week of hard work."
 
 
-# [[member]]
-# 	id = "Allen Nie"
-# 	position = "Rotating graduate student"
-# 	image = "allen_nie.jpg"
-# 	email = "anie@stanford.edu"
-# 	twitter = "Allen_A_N"
-# 	scholar = "citations?hl=en&user=r90OelAAAAAJ"
-# 	website = "http://anie.me/"
-# 	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
-
 [[member]]
 	id = "Elisa Kreiss"
 	position = "Lab affiliate"
@@ -174,7 +164,27 @@ weight = 3
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
+[[member]]
+	id = "Liang Zhou"
+	position = "Lab affiliate"
+	image = "liang_zhou.jpg"
+	email = "liang.zhou.18@ucl.ac.uk"
+	github = "lzil"
+	website = "https://lzil.github.io"
+	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
 
+
+
+
+# [[member]]
+# 	id = "Allen Nie"
+# 	position = "Rotating graduate student"
+# 	image = "allen_nie.jpg"
+# 	email = "anie@stanford.edu"
+# 	twitter = "Allen_A_N"
+# 	scholar = "citations?hl=en&user=r90OelAAAAAJ"
+# 	website = "http://anie.me/"
+# 	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 
 # [[member]]
