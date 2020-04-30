@@ -107,7 +107,7 @@ weight = 3
 	twitter = "ElisaKreiss"
 	github = "elisakreiss"
 	#scholar = ""
-	website = "http://elisakreiss.com/"
+	#website = "http://elisakreiss.com/"
 	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
 
 [[member]]
