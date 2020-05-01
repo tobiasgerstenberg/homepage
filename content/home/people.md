@@ -42,7 +42,7 @@ weight = 3
 
 [[member]]
 	id = "Zach Davis"
-	position = "Postdoctoral Researcher"
+	position = "Postdoctoral researcher"
 	image = "zach_davis.jpg"
 	email = "zach.davis@nyu.edu"
 	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
@@ -53,11 +53,20 @@ weight = 3
 
 [[member]]
 	id = "Sarah Wu"
-	position = "Graduate Student"
+	position = "Graduate student"
 	image = "sarah_wu.jpg"
 	email = "sarahawu@mit.edu"
 	github = "sarahawu"
 	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+
+[[member]]
+	id = "David Rose"
+	position = "Graduate student"
+	image = "david_rose.jpg"
+	email = "davdrose@stanford.edu"
+	scholar = "citations?user=-hAqrvwAAAAJ&hl=en"
+	website = "https://philpeople.org/profiles/david-rose"
+	description = "My research is mainly focused on how a teleological view of causation features in our view of composition, persistence and essence.  Here is a picture of me thinking about the essence of pizza and wondering whether nacho pizza is a kind of pizza."
 
 [[member]]
 	id = "Disha Dasgupta"
