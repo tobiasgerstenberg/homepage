@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inference from explanation</title>
+      <link>http://cicl.stanford.edu/publication/kirfel2020inference/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/kirfel2020inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A counterfactual simulation model of causal judgment</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cicl.stanford.edu/member/minyoung_lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intuitive experimentation in the physical world</title>
-      <link>http://cicl.stanford.edu/publication/bramley2018experiments/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cicl.stanford.edu/publication/bramley2018experiments/</guid>
       <description></description>
     </item>
     
