@@ -1,7 +1,6 @@
-#baseurl = "https://tobiasgerstenberg.github.io/"  
 baseurl = "http://cicl.stanford.edu/" 
 title = "Causality in Cognition Lab"
-copyright = "&copy; 2019 Tobias Gerstenberg"
+copyright = "&copy; 2020 Tobias Gerstenberg"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,7 +18,6 @@ googleAnalytics = "UA-40308572-2"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-
 [outputs]
 	home = [ "HTML", "CSS", "RSS" ]
 	section = [ "HTML", "RSS" ]
@@ -35,7 +33,7 @@ defaultContentLanguageInSubdir = false
 	email = "gerstenberg@stanford.edu"
 	address = "Stanford University"
 
-	members = ["T. Gerstenberg", "A. Beller"]
+	members = ["T. Gerstenberg"]
 	
 	# Color theme.
 	#   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
