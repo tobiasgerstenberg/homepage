@@ -4,6 +4,10 @@
 hugo
 
 cd public
+# remove additional files and folders from the member folder
+rm member/index.*
+rm -rf member/page/
+
 git add --all
 if [ "$1" != "" ] 
     then

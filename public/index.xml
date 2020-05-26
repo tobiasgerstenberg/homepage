@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The trajectory of counterfactual simulation in development</title>
+      <link>http://cicl.stanford.edu/publication/kominsky2020trajectory/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/kominsky2020trajectory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inference from explanation</title>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cicl.stanford.edu/publication/bramley2018experiments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lucky or clever? From expectations to responsibility judgments</title>
-      <link>http://cicl.stanford.edu/publication/gerstenberg2018expectations/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cicl.stanford.edu/publication/gerstenberg2018expectations/</guid>
       <description></description>
     </item>
     

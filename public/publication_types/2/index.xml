@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cicl.stanford.edu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The trajectory of counterfactual simulation in development</title>
+      <link>http://cicl.stanford.edu/publication/kominsky2020trajectory/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/kominsky2020trajectory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A counterfactual simulation model of causal judgment</title>
