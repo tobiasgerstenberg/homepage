@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Causal responsibility and robust causation"
-date = "2020-02-01"
+date = "2020-01-01"
 year = "accepted"
 authors = ["G. Grinfeld","D. A. Lagnado","T. Gerstenberg","J. F. Woodward","M. Usher"]
 publication_types = ["2"]
