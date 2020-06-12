@@ -8,7 +8,7 @@
 
 title = "The language of causation"
 date = "2020-01-03"
-authors = ["A. Beller\\*","E. Bennett\\*","T. Gerstenberg"]
+authors = ["A. Beller","E. Bennett","T. Gerstenberg"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 42nd Annual Conference of the Cognitive Science Society_"
 publication = "Beller A.\\*, Bennett E.\\*, Gerstenberg T. (2020). The language of causation. In _Proceedings of the 42nd Annual Conference of the Cognitive Science Society_, 2020."
