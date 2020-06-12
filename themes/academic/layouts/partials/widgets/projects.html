@@ -1,0 +1,103 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Projects widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    {{ if $page.Params.filter }}
+
+    {{ $filter_default := default (int $page.Params.filter_default) 0 }}
+
+    {{/* Parse default filter tag from front matter in the form of either tag name or CSS class name. */}}
+    {{ $default_filter_tag_raw := (index $page.Params.filter ($filter_default)).tag }}
+    {{ $default_filter_tag := printf ".%s" (urlize $default_filter_tag_raw) }}
+    {{ if or (eq (substr $default_filter_tag_raw 0 1) "*") (eq (substr $default_filter_tag_raw 0 1) ".") }}
+      {{ $default_filter_tag = $default_filter_tag_raw }}
+    {{ end }}
+
+    <span class="d-none default-project-filter">{{ $default_filter_tag }}</span>
+
+    {{/* Only show filter buttons if there are multiple filters. */}}
+    {{ if gt (len $page.Params.filter) 1 }}
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group">
+            {{ range $idx, $item := $page.Params.filter }}
+            {{/* Parse filter tag from front matter in the form of either tag name or CSS class name. */}}
+            {{ if or (eq (substr .tag 0 1) "*") (eq (substr .tag 0 1) ".") }}
+                {{ $.Scratch.Set "tag" .tag }}
+              {{ else }}
+                {{ $.Scratch.Set "tag" (printf ".%s" (urlize .tag)) }}
+              {{ end }}
+              <a href="#" data-filter="{{ $.Scratch.Get "tag" }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    {{ if eq $page.Params.view 0 }}
+
+    <div class="row isotope projects-container js-layout-row">
+        {{ range where $.Site.RegularPages "Type" ($page.Params.folder | default "project") }}
+        <div class="col-lg-12 project-item isotope-item {{ delimit (apply .Params.tags "urlize" ".") " " }}" itemscope itemtype="http://schema.org/CreativeWork">
+          <i class="far fa-copy pub-icon" aria-hidden="true"></i>
+
+          <span class="project-title">
+          {{ if .Content }}
+          <a href="{{ .Permalink }}">
+          {{ else }}
+            {{ with .Params.external_link }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          {{ end }}
+          {{ .Title }}
+          {{ if .Content }}</a>{{ else }}{{ with .Params.external_link }}</a>{{ end }}{{ end }}
+          </span>
+          {{ with .Params.summary }}<p class="project-summary">{{ . | markdownify }}</p>{{ end }}
+        </div>
+        {{ end }}
+    </div>
+
+    {{ else }}
+
+    <div class="row isotope projects-container js-layout-masonry">
+
+      {{ range $project := where $.Site.RegularPages "Type" ($page.Params.folder | default "project") }}
+      {{ $.Scratch.Set "project_url" $project.Permalink }}
+      {{ $.Scratch.Set "target" "" }}
+      {{ if $project.Params.external_link }}
+      {{   $.Scratch.Set "project_url" $project.Params.external_link }}
+      {{   $.Scratch.Set "target" "target=\"_blank\"" }}
+      {{ end }}
+      <div class="col-12 col-md-6 col-lg-4 col-xl-6 project-item isotope-item {{ delimit (apply .Params.tags "urlize" ".") " " }}">
+        <div class="card">
+          {{ with $project.Params.image_preview }}
+          <a href="{{ $.Scratch.Get "project_url" }}" title="" class="card-image hover-overlay"
+             {{ $.Scratch.Get "target" | safeHTMLAttr }}>
+            <img src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
+          </a>
+          {{ end }}
+          <div class="card-text">
+            <h4><a href="{{ $.Scratch.Get "project_url" }}" {{ $.Scratch.Get "target" | safeHTMLAttr }}>{{ .Title }}</a></h4>
+            <div class="card-desription">
+              {{ with $project.Params.summary }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+
+    {{ end }}
+
+  </div>
+</div>
