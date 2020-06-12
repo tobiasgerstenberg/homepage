@@ -18,8 +18,7 @@ description = "I am interested in how people hold others responsible, how these 
 # Filter by publication type.
 # -1: Any
 publication_type = "-1"
-#publication_name = "T. Gerstenberg"
-publication_name = "A. Beller*"
+publication_name = "T. Gerstenberg"
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
