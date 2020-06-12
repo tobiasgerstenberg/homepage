@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A counterfactual simulation model of causation by omission</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2020omission/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2020omission/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The trajectory of counterfactual simulation in development</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://cicl.stanford.edu/publication/morris2019quantitative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The trajectory of counterfactual simulation in development</title>
-      <link>http://cicl.stanford.edu/publication/kominsky2019trajectory/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cicl.stanford.edu/publication/kominsky2019trajectory/</guid>
       <description></description>
     </item>
     
