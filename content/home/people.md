@@ -34,7 +34,7 @@ weight = 3
 	email = "aribeller@gmail.com"
 	github = "aribeller"
 	cv = "ari_beller.pdf"
-	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
+	website = "http://cicl.stanford.edu/member/ari_beller"
 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 
