@@ -32,11 +32,9 @@ weight = 3
 	position = "Lab manager"
     image = "ari_beller.jpg"
 	email = "aribeller@gmail.com"
-#	twitter = ""
 	github = "aribeller"
-#	scholar = ""
 	cv = "ari_beller.pdf"
-	# website = "ari_beller"
+	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 
