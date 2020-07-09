@@ -105,6 +105,13 @@ weight = 3
 	cv = "bryce_linford.pdf"
 	description = "I am interested in how our reasoning is influenced by our motivations, how aware we are of our reasoning processes, and how we form attributions. I like to reward myself with a glass of vitamin D milk after a week of hard work."
 
+[[member]]
+	id = "Yingchen Xu"
+	position = "Research assistant"
+	image = "yingchen_xu.jpg"
+	email = "yingchenxu20@gmail.com"
+	github = "yukichul"
+	description = "I am interested in understanding human learning and am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
 
 [[member]]
 	id = "Elisa Kreiss"
