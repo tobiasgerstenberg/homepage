@@ -80,6 +80,15 @@ git branch
 
 - `static`: contains all the files (papers, images, datasets, ...) in several subfolders
 
+## How to clone
+
+The hugo setup uses a submodule to differentiate the public facing website from the private developer's side. To clone the repo and appropriately sync the supermodule with the submodule, do the following:
+
+- Clone the homepage repo [here](https://github.com/tobiasgerstenberg/homepage).
+- Delete the "public" folder.
+- Clone the [submodule](https://github.com/tobiasgerstenberg/tobiasgerstenberg.github.io) into the homepage folder.
+- Rename the submodule to public.
+
 ## Update the hompage 
 
 If you have any trouble getting things to work, feel free to post an issue on the github repo. 
