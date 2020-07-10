@@ -111,7 +111,7 @@ weight = 3
 	image = "yingchen_xu.jpg"
 	email = "yingchenxu20@gmail.com"
 	github = "yukichul"
-	description = "I am interested in understanding human learning and am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
+	description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
 
 [[member]]
 	id = "Elisa Kreiss"
