@@ -62,7 +62,7 @@ weight = 3
 	image = "sarah_wu.jpg"
 	email = "sarahawu@mit.edu"
 	github = "sarahawu"
-	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
 	id = "Disha Dasgupta"
