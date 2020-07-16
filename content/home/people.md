@@ -28,17 +28,6 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
-	id = "Ari Beller"
-	position = "Lab manager"
-    image = "ari_beller.jpg"
-	email = "aribeller@gmail.com"
-	github = "aribeller"
-	cv = "ari_beller.pdf"
-	website = "http://cicl.stanford.edu/member/ari_beller"
-	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
-
-
-[[member]]
 	id = "Zach Davis"
 	position = "Postdoctoral researcher"
 	image = "zach_davis.jpg"
@@ -48,14 +37,15 @@ weight = 3
 	website = "https://zach-davis.github.io/"
 	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
 
-
 [[member]]
-	id = "Sarah Wu"
+	id = "Ari Beller"
 	position = "Graduate student"
-	image = "sarah_wu.jpg"
-	email = "sarahawu@mit.edu"
-	github = "sarahawu"
-	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+    image = "ari_beller.jpg"
+	email = "aribeller@gmail.com"
+	github = "aribeller"
+	cv = "ari_beller.pdf"
+	website = "http://cicl.stanford.edu/member/ari_beller"
+	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 [[member]]
 	id = "David Rose"
@@ -65,6 +55,14 @@ weight = 3
 	scholar = "citations?user=-hAqrvwAAAAJ&hl=en"
 	website = "https://philpeople.org/profiles/david-rose"
 	description = "My research is mainly focused on how a teleological view of causation features in our view of composition, persistence and essence.  Here is a picture of me thinking about the essence of pizza and wondering whether nacho pizza is a kind of pizza."
+
+[[member]]
+	id = "Sarah Wu"
+	position = "Graduate student"
+	image = "sarah_wu.jpg"
+	email = "sarahawu@mit.edu"
+	github = "sarahawu"
+	description = "I’m a first-year PhD student interested in computational models of social cognition, including aspects of social learning, inference, and judgement. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
 	id = "Disha Dasgupta"
