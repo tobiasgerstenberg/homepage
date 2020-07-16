@@ -339,11 +339,13 @@ small,
   max-height: 500px;
 }
 
-.people-image{
+.people-image-container{
   width: 30%;
   float: left;
-  /* padding-right: 50px; */
-  /* margin-right: 10px; */
+}
+
+.people-image{
+  border-radius: 10%;
 }
 
 .people-description{

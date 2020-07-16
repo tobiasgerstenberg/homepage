@@ -10,11 +10,11 @@
     <div class= 'people-container'>
     <h2>{{ with .id }}{{ . | markdownify }}{{ end }}</h2>
     <p style='font-weight:bold;'>{{.position}}</p>
-    <div class='people-image'>
+    <div class='people-image-container'>
       {{if .website}}
       <a href="{{.website}}/" title="Website" target="_top">
         {{end}} 
-        <img src="/img/members/{{.image}}" alt="Drawing" />
+        <img class='people-image' src="/img/members/{{.image}}" alt="Drawing" />
       {{if .website}}
       </a>
       {{end}} 
