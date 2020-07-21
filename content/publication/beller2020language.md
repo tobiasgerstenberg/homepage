@@ -21,8 +21,8 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
-url_poster = ""
+url_video = "videos/beller2020language-video.mp4"
+url_poster = "posters/beller2020language-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/causal_language_public"}]
 math = true

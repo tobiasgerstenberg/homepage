@@ -22,8 +22,8 @@ url_preprint = "https://psyarxiv.com/x5mqc"
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
-url_poster = ""
+url_video = "videos/kirfel2020inference-video.mp4"
+url_poster = "posters/kirfel2020inference-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/inference_from_explanation"}]
 math = true
