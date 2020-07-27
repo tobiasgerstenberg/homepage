@@ -21,8 +21,8 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
-url_poster = ""
+url_video = "videos/bridgers2020granny-video.mp4"
+url_poster = "posters/bridgers2020granny-poster.pdf"
 url_source = ""
 #url_custom = [{name = "Github", url = ""}]
 math = true
