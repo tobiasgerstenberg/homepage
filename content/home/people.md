@@ -112,6 +112,16 @@ weight = 3
 	description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
 
 [[member]]
+	id = "Joseph Outa"
+	position = "Research assistant"
+	image = "joseph_outa.jpg"
+	email = "joo25@cornell.edu"
+	twitter = "outa_joseph"
+	github = "JosephOuta"
+	cv = "joseph_outa.pdf"
+	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
+
+[[member]]
 	id = "Elisa Kreiss"
 	position = "Lab affiliate"
 	image = "elisa_kreiss.jpg"
