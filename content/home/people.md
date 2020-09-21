@@ -101,7 +101,7 @@ weight = 3
 	email = "linford5@stanford.edu"
 	github = "brycelinford"
 	cv = "bryce_linford.pdf"
-	description = "I am interested in how our reasoning is influenced by our motivations, how aware we are of our reasoning processes, and how we form attributions. I like to reward myself with a glass of vitamin D milk after a week of hard work."
+	description = "I am interested in using computational and behavioral approaches to study how people make inferences, judgments, and decisions with limited cognitive resources. I like to drink milk."
 
 [[member]]
 	id = "Yingchen Xu"
