@@ -4,15 +4,17 @@ This is the github repo of Stanford's Causality in Cognition Lab homepage.
 
 ## Initial setup
 
-- make a github account [here](https://github.com/)
-- ask Ari [aribeller@gmail.com](mailto:aribeller@gmail.com) or Tobi [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu) to be added as a collaborator to the repo 
-- go to your terminal and go to a directory where you'd like to clone the repository
-- run this command in your terminal: 
+### Cloning the homepage repo
+
+- Make a github account [here](https://github.com/).
+- Ask Ari ([aribeller@gmail.com](mailto:aribeller@gmail.com)) or Tobi ([gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu)) to be added as a collaborator to the repo.
+- Open your terminal and navigate to a directory where you'd like to clone the repository.
+- Run this command in your terminal: 
 ```
 git clone --recursive -j8 https://github.com/tobiasgerstenberg/homepage.git
 ```
-- check that you're on the master branch both in the root directory, as well as in the subfolder public
-- in the root director, run the following commands  
+- Check that you're on the master branch both in the root directory, as well as in the subfolder public.
+- In the root directory, run the following commands:
 ```
 git branch 
 cd public
@@ -20,8 +22,31 @@ git branch
 cd ../themes/academic
 git branch
 ```
-- if it shows that you're on the branch `master` for all three of them you're fine 
-- otherwise just type `git checkout master` to change the branch (in each of the three directories)
+You should be on the branch `master` for all three of them. If not, then type `git checkout master` to change the branch (in each of the three directories).
+
+### Installing `hugo`
+
+- First, install `homebrew` following the instructions [here](https://brew.sh/).
+- The current version of the homepage works with hugo version 0.55.5. To install this particular version, run the following commands (see [this post](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/) for more info).
+
+```
+brew unlink hugo
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/2d7e602ad4c26d1d509e5f6c17fd5911323788a3/Formula/hugo.rb
+```
+
+You might get the following error:
+```
+Error: Calling Installation of hugo from a GitHub commit URL is disabled! Use 'brew extract hugo' to stable tap on GitHub instead.
+```
+in which case run the following commands to install from tap instead (see [this thread](https://discourse.brew.sh/t/has-brew-install-force-formula-raw-path-been-taken-out/8793) for more details).
+```
+brew unlink hugo
+brew tap-new company/team
+brew extract --version 0.55.5 hugo company/team
+brew install company/team/hugo@0.55.5
+brew link hugo@0.55.5
+```
+- Confirm that `hugo version` shows `v0.55.5`.
 
 ## Folder organization 
 
