@@ -46,16 +46,11 @@ publication_name = "T. Gerstenberg"
  
 +++
 
-<!-- I'm the PI of Causality in Cognition lab (CICL). We at CICL study how  -->
-
-You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at SPP2016.
-
-## Contact 
-
-__Email__: gerstenberg@stanford.edu   
-__Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
+I'm the PI of Causality in Cognition lab (CICL). You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at the Society for Philosophy and Psychology (SPP) conference. 
 
 ## Research interests 
+
+Here are some keywords that capture what I'm interested in: 
 
 - computational models of cognition
 - causal inference 
@@ -63,8 +58,17 @@ __Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
 - mental simulation
 - eye-tracking
 
+If you'd like to learn more, you can take a look at my [research statement](../../misc/tobias_gerstenberg_research_statement.pdf). 
+
+## Contact 
+
+__Email__: gerstenberg@stanford.edu   
+__Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
+
 ## Teaching 
 
+- Fall 2020/21: [Experimental Methods (PSYCH 251)](https://explorecourses.stanford.edu/search;jsessionid=1vwlzj7h09e9lzakcp1adv6d?q=PSYCH+251%3a+Experimental+Methods&view=catalog&filter-coursestatus-Active=on&academicYear=20202021)
+- Fall 2020/21: [What makes a good explanation? Psychological and philosophical perspectives (PSYCH 293)](https://psych293.github.io/)
 - Spring 2019/20: [Research Methods in Cognition and Development (PSYCH 187)](https://psychology.stanford.edu/courses/2019-2020-psych-187)
 - Winter 2019/20: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
 - Winter 2018/19: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
