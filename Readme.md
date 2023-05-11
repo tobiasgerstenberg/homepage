@@ -1,6 +1,6 @@
 # Readme 
 
-This is the github repo of Stanford's Causality in Cognition Lab homepage.
+Please find the updated version of our homepage here: https://github.com/cicl-stanford/homepage
 
 ## Initial setup
 
